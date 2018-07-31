@@ -1,0 +1,148 @@
+.. -*- coding: utf-8 -*-
+
+=======================
+ Rubik’s Cube Solution
+=======================
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `My puzzle pages <../>`_
+   * `My home page <../../>`_
+
+.. contents::
+
+Summarized from the solution pages mirrored at
+<http://jjorg.chem.unc.edu/personal/monroe/cube/Denny3x3/> and
+<http://www.helmsoft.org/cube/rubikscube/>, written by Denny Dedmore.
+The initial instructions (for completing the first/top layer) and move
+icon legend have been omitted for brevity.
+
+
+Middle Layer Edges
+==================
+
+Find a middle-layer edge piece in the bottom row.  Rotate it under the
+matching side center color.
+
+To move it up & right:
+
+|bl| |rd| |br| |ru| , |br| |fcw| |bl| |fcc|
+
+To move it up & left:
+
+|br| |ld| |bl| |lu| , |bl| |fcc| |br| |fcw|
+
+If an edge piece is already in place but backwards, simply apply the
+above sequences twice.  Put a bogus piece from the bottom row in its
+place, moving the problem piece to the bottom.
+
+
+Bottom Corners
+==============
+
+Flip the Rubik’s Cube upside down; the former, unfinished bottom side
+becomes the top.  Choose a side color, which becomes the front.
+
+Find the two corners on the top layer with the front side’s color
+(regardless of orientation).  They’ll either be adjacent or diagonally
+opposite.
+
+
+Adjacent Corners
+----------------
+
+Rotate the top layer so the corners matching the front color are in
+front.  If they need to be swapped:
+
+|lu| |tr| |ld| |fcw| , |tl| |fcc| |lu| |tl| , |ld| |tl| |tl|
+
+
+Diagonally Opposite Corners
+---------------------------
+
+Rotate the top until the top left corner is in the correct position
+and then perform the following procedure to move the other corner into
+the top right position:
+
+|tl| |lu| |tr| |ld| , |fcw| |tl| |fcc| |lu| , |tl| |ld| |tl| 
+
+
+Swapping The Other Two Corners
+------------------------------
+
+If the remaining corners need to be swapped, turn the cube around 180
+degrees and perform the following procedure:
+
+|lu| |tr| |ld| |fcw| , |tl| |fcc| |lu| |tl| , |ld| |tl| |tl| 
+
+
+Finishing The Corners
+---------------------
+
+Spin the entire cube (keeping the top up) until the top center colors
+match one of the 7 patterns below (ignore other colors).
+
+.. image:: images/corners.png
+
+Orient the cube as shown above and perform this sequence:
+
+|lu| |tr| |ld| |tr| , |lu| |tr| |tr| |ld| , |tr| |tr| 
+
+If the corners are not quite finished, match up the new pattern and
+perform the sequence once again.  This process may have to be
+performed up to three times.
+
+
+The Last Four Edges
+===================
+
+Usually at least one of the 4 remaining edges will be in place.  Find
+that piece and rotate the cube until it is positioned in the front.
+If no edge is in place, choose any side to be the front.  Perform the
+sequence below once then start over.
+
+Perform the moves below to put all 4 pieces in their correct
+locations:
+
+|vu| |tr| |vd| |tr| , |tr| |vu| |tr| |vd|
+
+This step may have to be performed twice to get all edges in place.
+
+
+Adjacent Flipped Edges
+----------------------
+
+Orient the flipped edges so one is in the front and one is to the
+right.  Then perform this sequence:
+
+|fcc| |lu| |rd| |hl| , |rd| |rd| |hl| |hl| , |rd| |tr| |tr| |ru| ,
+|hr| |hr| |rd| |rd| , |hr| |ru| |tr| |tr| , |ld| |fcw|
+
+
+Opposite Flipped Edges
+----------------------
+
+Orient the flipped edges to the left and right.  Then:
+
+|rd| |hl| |rd| |rd| , |hl| |hl| |rd| |tr| , |tr| |ru| |hr| |hr| ,
+|rd| |rd| |hr| |ru| , |tr| |tr|
+
+
+.. |bl| image:: images/bl.gif
+.. |br| image:: images/br.gif
+.. |fcc| image:: images/fcc.gif
+.. |fcw| image:: images/fcw.gif
+.. |hl| image:: images/hl.gif
+.. |hr| image:: images/hr.gif
+.. |ld| image:: images/ld.gif
+.. |lu| image:: images/lu.gif
+.. |rd| image:: images/rd.gif
+.. |ru| image:: images/ru.gif
+.. |tl| image:: images/tl.gif
+.. |tr| image:: images/tr.gif
+.. |vd| image:: images/vd.gif
+.. |vu| image:: images/vu.gif

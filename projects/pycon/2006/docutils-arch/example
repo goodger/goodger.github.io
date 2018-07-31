@@ -1,0 +1,4 @@
+.. bild:: test.png
+
+
+rst2html.py --language de test.txt test.html

@@ -1,0 +1,22 @@
+==========================================
+ `David Goodger’s <../../>`__ Emacs Stuff
+==========================================
+
+:Contact: goodger@python.org
+:Updated: $Date: 2005/06/09 03:18:55 $
+
+
+Menu Maker
+==========
+
+The `<menumaker.py>`_ program converts an easily-maintained menu
+definition table into emacs-lisp code for use by ``easy-menu``.  My
+menus contain all my commonly-used files and directories, and items to
+start up shell and Python sessions.  Run ``menumaker.py -d`` to see a
+description of the data format and installation instructions.
+
+
+Other Code
+==========
+
+To be added...

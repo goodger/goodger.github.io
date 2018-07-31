@@ -1,0 +1,37 @@
+.. -*- coding: utf-8 -*-
+
+====================================
+ `David Goodger’s <../>`__ Projects
+====================================
+
+:Contact: goodger@python.org
+
+Coming soon: slides and notes from the PyCon 2006 *Text and Data
+Processing Tutorial*.
+
+* `Docutils: Documentation Utilities <http://docutils.sf.net/>`__,
+  which includes reStructuredText_, the what-you-see-is-what-you-get
+  plaintext markup language.
+
+  .. _reStructuredText: http://docutils.sf.net/rst.html
+
+* `Polyform Puzzler <http://puzzler.sf.net/>`__ is a software toolkit
+  for exploring & solving polyform puzzles, like Pentominoes and Soma
+  Cubes.
+
+* `Python <python/>`_ is my programming language and community of
+  choice.
+
+* `PyCon <pycon/>`_ is the Python community conference.
+
+* `Other conferences <conferences/>`_: Notes, slides, and handouts
+  from talks and tutorials I've given at various conferences.
+
+* Some of my `Emacs-related code <emacs/>`__ may be useful to others.
+
+* `Hipster PDA projects & links <hpda/>`__.
+
+* Some `graphics I have created <graphics/>`__.
+
+* `The Go Tools Project <http://gotools.sf.net/>`__ is dormant.  I’d
+  be happy to hand it over to anyone who’s interested.

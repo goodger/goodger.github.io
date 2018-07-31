@@ -1,0 +1,37 @@
+=================================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__ -- Day 2
+=================================================================
+
+----------------------------------
+ Sprint Day 2 -- Sunday, March 21
+----------------------------------
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+Woke around 7:20.  Loud music again last night, but earplugs did the
+trick.  A brisk, windy morning, an a 30 minute walk to PyCon.  On the
+way, I noticed a building being build at the corner of 21st and K (I
+think).  Affixed was a sign: "Hitt Contracting".  Amusing.
+
+`Docutils sprint`_: Ed Loper has arrived this morning, to work on
+`Epydoc <http://epydoc.sf.net>`__ integration.  Tracy Ruggles worked
+with him.  Laura Creighton and Jacob Hallen joined us, but pressing
+business seems to have arisen.  Reggie Dugard worked on a Table of
+Contents bug, mostly as a learning exercise.  Matt Gilbert made good
+progress on MoinMoin integration, as did Aahz with his FrameMaker
+writer, Oliver Rutherfurd with his DocBook writer, and Steve Holden &
+Bill Sconce with DocPy/LaTeX.
+
+For lunch, Matt, Tracy, Ed, Reggie, and I went to an Italian place
+across the street.  Was good, and filling; became my main meal of the
+day.
+
+I was the last one out, after asking the building manager to lock up
+our room.  Bought a watch at CVS (the pharmacy, not the code
+repository) on the way back to the hostel, for the alarm.
+
+* next: `Day 3 -- Sprint Day 3 -- Monday, March 22 <day_3.html>`__
+* up: `Contents <./>`__
+
+.. _Docutils sprint: http://www.python.org/cgi-bin/moinmoin/DocutilsSprint

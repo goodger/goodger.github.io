@@ -1,0 +1,16 @@
+==========================================
+ Code Like a Pythonista: Idiomatic Python
+==========================================
+
+Presented at PyCon 2007 and OSCON 2007.
+
+* `S5 HTML slideshow <presentation.html>`__ (use the arrow keys to
+  navigate, or mouse over the lower left corner for controls)
+* `Plain HTML handout <handout.html>`__
+* `reStructuredText source <presentation.txt>`__
+
+There's a `French translation`__ as well!
+(Il y a une `traduction en français`__ aussi!)
+
+__
+__ http://www.biologeek.com/bonnes-pratiques,conferences,django,python,traduction/bonnes-pratiques-et-astuces-python/

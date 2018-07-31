@@ -1,0 +1,2588 @@
+.. -*- coding: utf-8 -*-
+
+========
+ Quotes
+========
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `My Personal Beliefs <beliefs.html>`__: A collection of truths,
+     axioms, and biases
+
+   * `Personal page <./>`__
+
+   * `Home page <../>`__
+
+These are quotes I have collected from all over (books, web sites,
+mailing lists, media), on a variety of topics.  The one thing they all
+have in common is that they struck a chord of some kind.  They
+triggered my truth perception center, tickled my funny bone, or
+touched me in some way.
+
+I also have a bunch of movie quotes in my `DVD Collection
+<dvds.html>`__.
+
+.. topic:: Links
+
+   * `Quote DB <http://www.quotedb.com/>`_
+
+   * `Atheist quotes <http://www.chrisbeach.co.uk/viewQuotes.php>`_
+
+.. contents::
+..
+    1   Miscellaneous
+    2   Free/Libre & Open Source Software (FLOSS)
+    3   Python
+    4   Programming
+    5   The Internet
+    6   Reality & Delusion: Rationality vs. Religion/Faith/Belief
+    7   Getting Things Done
+    8   Goodgers & Badgers
+    9   By Others, About Me
+    10  `The God Delusion` by Richard Dawkins
+    11  `The Demon-Haunted World` by Carl Sagan
+    12  `The Procrastinator’s Handbook` by Rita Emmett
+
+.. “” ‘’ — (em-dash)
+
+
+Miscellaneous
+=============
+
+    The peculiar evil genius of Amazon is that Amazon seems to be
+    trying to simultaneously establish a wholesale monopsony and a
+    retail monopoly in the ebook sector.
+
+    The real driver for piracy is the lack of convenient access to
+    desirable content at a competitive price.
+
+    By foolishly insisting on DRM, and then selling to Amazon on a
+    wholesale basis, the publishers handed Amazon a monopoly on their
+    customers — and thereby empowered a predatory monopsony.
+
+    If the major publishers switch to selling ebooks without DRM, then
+    they can enable customers to buy books from a variety of outlets
+    and move away from the walled garden of the Kindle store. They see
+    DRM as a defense against piracy, but piracy is a much less
+    immediate threat than a gigantic multinational with revenue of $48
+    Billion in 2011 (more than the entire global publishing industry)
+    that has expressed its intention to “disrupt” them, and whose
+    chief executive said recently “even well-meaning gatekeepers slow
+    innovation” (where “innovation” is code-speak for “opportunities
+    for me to turn a profit”).
+
+    -- Charles Stross, `What Amazon’s ebook strategy means (blog
+       article)
+       <http://www.antipope.org/charlie/blog-static/2012/04/understanding-amazons-strategy.html>`__
+       (also see his follow-up, `More on DRM and ebooks
+       <http://www.antipope.org/charlie/blog-static/2012/04/more-on-drm-and-ebooks.html>`__)
+
+    Good ideas are like butterflies: they may land, but they soon take
+    off again. Write them down!
+
+    -- Brian Luke Seaward, `Managing Stress`
+
+    Ideas are like soap bubbles.  They can pop or float away so
+    easily.  Then they’re gone forever.
+
+    One idea leads to another, like bubbles coming out together.
+    ... The trick is to catch them before they disappear.
+
+    Never trust your memory.  All too often what seems like a
+    marvelous idea at midnight is gone in the morning.
+
+    Write them down.  ...  Do whatever you have to do to hold onto an
+    idea until you have time to sit down at your desk with it and see
+    where it goes. Even if most ideas turn out to be like the little
+    bubbles that break as soon as they hit the air, don’t let them
+    go. You never know which bit of nonsense will turn out to be the
+    bubble that floats all the way to heaven.
+
+    -- Sue Lick, `Capture Those Ideas Before They Float Away
+       <http://www.absolutewrite.com/novels/lick02-09-05.htm>`__
+
+    Ideas are like dreams, if you don’t write them down they
+    disappear.
+
+    -- Roald Dahl
+
+    Ideas are like the sparkling fireflies; they happen randomly and
+    unless you have reached Nirvana, you can hardly control them. It
+    is always better to devise a mechanism to preserve them whenever
+    they grace you.
+
+    -- `Amrit Hallan
+       <http://amrithallan.com/blog/10-ways-to-get-regular-content-for-your-website-or-blog/>`__
+
+    Ideas are like slippery fish; they have a peculiar knack for
+    getting away from us unless we gaffe them on the point of a
+    pencil.
+
+    -- Earl Nightingale
+
+    The education of a poker player is never complete until he dies.
+    There’s nothing as important to a poker player as experience.
+
+    -- Doyle Brunson, `High Stakes Poker` (TV show)
+
+    | In your life expect some trouble
+    | But when you worry
+    | You make it double
+    | Don’t worry, be happy
+
+    -- Bobby McFerrin, “Don’t Worry, Be Happy”
+
+    The old and powerful never want to let go.  They always think
+    they’re both profoundly indispensable and uniquely right.  They
+    are always wrong.  Part of the function of ageing and dying is to
+    let the next generation have its say, its time in the sun, to
+    sweep away the mistakes of the previous age while, if they’re
+    lucky, retaining the advances made and the benefits accrued.
+
+    -- spoken by the character Mrs Mulverhill in the novel
+       `Transition` by Iain Banks
+
+    People who are habitual about their habits, who keep on truckin’
+    regardless of what happened, is happening, or is going to happen,
+    are the people who are more likely to succeed.
+
+    -- Ian Newby-Clark, `My Bad Habits blog
+       <http://my-bad-habits.blogspot.com/2010/11/what-roy-halladay-can-teach-us-about.html>`__
+
+    In order to manipulate somebody, you have to understand them.
+
+    -- John Walker, The Hacker’s Diet
+
+    Bob Bickford, computer and video guru, defined the true essence of
+    the hacker as “Any person who derives joy from discovering ways to
+    circumvent limitations.”
+
+    -- John Walker, The Hacker’s Diet
+
+    If you think it’s expensive to hire a professional to do the job,
+    wait until you hire an amateur.
+
+    -- Red Adair
+
+    If you dare nothing, then when the day is over, nothing is
+    all you will have gained.
+
+    -- spoken by character Nehemiah Trot in `The Graveyard Book` by Neal Gaiman
+
+    And the greatest arrogance of all: “save the planet.” What? Are
+    these fucking people kidding me? Save the planet, we don’t even
+    know how to take care of ourselves yet. We haven’t learned how to
+    care for one another, we’re gonna save the fucking planet?
+
+    There is nothing wrong with the planet. The planet is fine. The
+    **people** are fucked. ... Compared to the people, the planet is
+    doing great. ... The planet has been here four and a half billion
+    years. We’ve been here, what, a hundred thousand?  Maybe two
+    hundred thousand? And we’ve only been engaged in heavy industry
+    for a little over two hundred years. Two hundred years versus four
+    and a half billion.  And we have the *conceit* to think that
+    somehow we’re a threat? That somehow we’re gonna put in jeopardy
+    this beautiful little blue-green ball that’s just a-floatin’
+    around the sun?
+
+    ...  The planet isn’t going anywhere. **We are!** ... The
+    planet’ll shake us off like a bad case of fleas. ...
+
+    The planet will be here for a long, long, **long** time after
+    we’re gone, and it will heal itself, it will cleanse itself,
+    ’cause that’s what it does. It’s a self-correcting system. The air
+    and the water will recover, the earth will be renewed, and if it’s
+    true that plastic is not degradable, well, the planet will simply
+    incorporate plastic into a new pardigm: the Earth plus plastic.
+    The Earth doesn’t share our prejudice towards plastic. Plastic
+    came out of the Earth. The Earth probably sees plastic as just
+    another one of its children. Could be the only reason the Earth
+    allowed us to be spawned from it in the first place. It wanted
+    plastic for itself. Didn’t know how to make it. Needed us. Could
+    be the answer to our age-old egocentric philosophical question,
+    “Why are we here?” *Plastic, assholes.*
+
+    -- `George Carlin <http://www.youtube.com/watch?v=eScDfYzMEEw>`__
+
+    Obscurity, not piracy, is the biggest problem writers face. In the
+    21st century, if you are not making art with the intention of it
+    being copied, you are not making contemporary art.
+
+    It’s how we all learn to do stuff. That’s how we are, we are
+    descendants of molecules formed a million years ago because they
+    figured out how to replicate themselves. We have a name for things
+    that don’t copy themselves: dead.
+
+    -- Cory Doctorow, `New Scientist
+       <http://www.newscientist.com/article/mg20627635.700-cory-doctorow-my-computer-says-no.html?full=true&print=true>`__
+
+    DRM doesn’t inconvenience pirates — indeed, over time it *trains*
+    law-abiding users to become pirates out of sheer frustration.
+
+    -- `Charles Stross
+       <http://www.antipope.org/charlie/blog-static/2010/05/cmap-9-ebooks.html>`__
+
+    **Uncritical thinking kills**
+
+    The most important thing [a parent] can do for [their children] is
+    to teach [them] how to live in the real world.  And that means
+    showing [them] how to think. Not *what* to think, but *how*.
+
+    Question authority. Be skeptical of claims. Ask for
+    evidence. Apply good logic. Avoid bad logic. Analyze the
+    results. Look for bias.
+
+    And doubt. Doubt *doubt* **doubt**. It’s one of the greatest
+    strengths of the human mind, and perhaps the least used of all.
+
+    Too many people choose not to think. But our technology, our
+    society, our impact is vast, and now, *today*, in *this* world,
+    that choice is one we can no longer afford.
+
+    -- Phil Plait, `from his “Bad Astronomy” blog
+       <http://blogs.discovermagazine.com/badastronomy/2008/09/11/uncritical-thinking-kills/>`__
+
+    People say “time is money”, but the fact is, time is a lot more
+    precious than money.  Because you can always get more money.  But
+    you can’t really make any more time, and you can’t make any more
+    attention.
+
+    -- Merlin Mann, `YouTube video
+       <http://www.youtube.com/watch?v=uOgHE5nEq04>`__
+
+    Too many people go through life complaining about their problems.
+    ...  Complaining does not work as a strategy.  We all have finite
+    time and energy.  Any time we spend whining is unlikely to help us
+    achieve our goals.  And it won’t make us happier.
+
+    -- Randy Pausch, `The Last Lecture`
+
+    Experience is what you get when you didn’t get what you wanted.
+    And experience is often the most valuable thing you have to offer.
+
+    -- Randy Pausch, `The Last Lecture`
+
+    Luck is what happens when preparation meets opportunity.
+
+    -- Seneca
+
+    A communicable ease.
+
+    -- Robert Charles Wilson, `Spin` (2006 Tor paperback: p. 211)
+
+    Forgiveness is the economy of the heart... forgiveness saves the
+    expense of anger, the cost of hatred, the waste of spirits.
+
+    -- Hannah More
+
+    The universe tends toward maximum irony.  Don’t push it.
+
+    -- `Jamie Zawinski <http://jwz.livejournal.com/801607.html>`__
+
+    There isn’t any greater potential threat to the status quo than
+    the discovery of extraterrestrial life, which is why some people
+    would prefer we didn’t try.
+
+    -- Luke McKinney, `The METI Controversy: Is Detection by Alien
+       Life a Threat to the Human Species?
+       <http://www.dailygalaxy.com/my_weblog/2008/05/the-meti-contro.html>`__
+
+    [You and I,], we’re two computers, if you think about it.  It’s
+    easy to make a computer that’s as intelligent as a human.  It’s
+    called a baby.
+
+    -- Steve Wozniak, `CIO video interview at a FIRST Robotics
+       competition in Boston
+       <http://www.youtube.com/watch?v=72rOerQsu28>`__
+
+    When new technology meet old business models, technology trumps.
+    Every time.
+
+    -- Nora Young, `Spark, episode 31
+       <http://www.cbc.ca/spark/blog/2008/04/episode_31_april_2_5_2008.html>`__
+
+    You couldn’t go back, but you couldn’t jump forward, either.
+    There was only now.
+
+    -- Frederic S. Durbin, from “The Bone Man”, `The Magazine of
+       Fantasy and Science Fiction`, December 2007
+
+    You need to beware of dictionaries.  They really don’t contain the
+    meanings of words; they just contain other words.
+
+    -- Robert Epstein, Ph.D., `Self-Help Without the Hype`
+
+    Watch out for false comforters, the ones who deny that life is
+    hard.  Only death is easy.
+
+    -- Albert E. Cowdrey, from “The Recreation Room”, `The Magazine of
+       Fantasy and Science Fiction`, October/November 2007
+
+    Four things do not come back: the spoken word, the sped arrow, the
+    past life, and the neglected opportunity.
+
+    -- Ted Chiang, from “The Merchant and the Alchemist’s Gate”, `The
+       Magazine of Fantasy and Science Fiction`, September 2007
+
+    Any voluntary organization is no more and no less than the sum of
+    its active members.
+
+    -- Charles Stross, in `a comment to an article by Cory Doctorow on
+       Boing Boing
+       <http://www.boingboing.net/2007/08/30/science-fiction-writ-1.html#comment-2890>`__
+
+    You were once shoved headfirst through someone’s vagina.  Why are
+    you acting so dignified?
+
+    -- http://xkcd.com/c291.html
+
+    Algorithmic knowledge doesn’t translate into good taste.
+
+    -- `David Turner (of FreeType)
+       <http://www.osnews.com/story.php/18166/Interview-with-David-Turner-of-Freetype/>`__
+
+    He could also fail, and although he did not fear death, he feared
+    dying and believed that knowledge of the difference between the
+    two was the true wellspring of courage.
+
+    -- Alex Irvine, “Wizard’s Six” (F&SF June 2007)
+
+    We are as much alive as we keep the earth alive.
+
+    -- Chief Dan George
+
+    Character does count.  For too long we have gotten by in a society
+    that says the only thing right is to get by and the only thing
+    wrong is to get caught.  Character is doing what’s right when
+    nobody is looking.
+
+    -- J. C. Watts
+
+    We must not take the choice of another being.  What is community
+    but a means to... for all we individuals to have... our *choices*.
+
+    -- China Miéville, `Perdido Street Station`
+
+    ... a scientist must also be absolutely like a child.  If he sees
+    a thing, he must say that he sees it, whether it was what he
+    thought he was going to see or not.  See first, think later, then
+    test.  But always see first.  Otherwise you will only see what you
+    were expecting.  Most scientists forget that.  ...  So, the other
+    reason I call myself Wonko the Sane is so that people will think I
+    am a fool.  That allows me to say what I see when I see it.  You
+    can’t possibly be a scientist if you mind people thinking that
+    you’re a fool.
+
+    -- Douglas Adams, `So Long, And Thanks For All The Fish`
+
+    The problem with saying something like that is that you would be
+    talking cross-eyed badger spit.
+
+    -- Douglas Adams, `Mostly Harmless`
+
+    Let the past hold on to itself and let the present move forward
+    into the future.
+
+    -- Douglas Adams, `Mostly Harmless`
+
+    Don’t keep your mind so open that your brain falls out.
+
+    -- `A comment by “Invincible Cow” on an article on OSNews
+       <http://www.osnews.com/permalink.php?news_id=17749&comment_id=233182>`__
+
+    | Tiger got to hunt, bird got to fly
+    | Man got to sit and wonder, “Why, why, why?”
+    | Tiger got to sleep, bird got to land
+    | Man got to tell himself he understand.
+
+    -- Kurt Vonnegut, `Cat’s Cradle`
+
+    Technology is neither good nor bad; nor is it neutral.
+
+    -- `Melvin Kranzberg’s first law of technology
+       <http://en.wikipedia.org/wiki/Kranzberg’s_laws_of_technology>`__
+
+    The interests of all humans are interlocked ... and politics is no
+    more than a temporal expression of social mathematics.
+
+    -- C.J. Cherryh, `Cyteen`
+
+    Republicans like to run by saying that government doesn’t work.
+    Then they get elected, and they prove it.
+
+    -- `Al Franken <http://www.alfranken.com/pages/accountability/>`__
+       (good luck, Al!)
+
+    | Question everything
+    | Understand logic, fairness and equality
+    | Explore the world
+    | Study science, technology and the arts
+    | Think for yourself
+
+    -- `Camp Quest Ontario <http://ontario.camp-quest.com/>`__
+
+    Science doesn’t work by vote and it doesn’t work by authority.
+
+    -- Richard Dawkins, `Big Mistake (The Guardian)
+       <http://commentisfree.guardian.co.uk/richard_dawkins/2006/12/post_845.html>`__
+
+    With higher intelligence comes an awareness of the complexity of
+    the world, and from this awareness arises a sense of mystery,
+    wonder.  Superstition is the dark side of wonder.
+
+    In wonder is the seed of joy.
+
+    -- Dean Koontz, `Seize The Night`
+
+    No matter how far down the wrong road you’ve gone, turn back.
+
+    -- Turkish proverb
+
+    The user is *always* right that there’s a problem.  The user is
+    often wrong about what the best solution is.
+
+    -- David Abrahams on docutils-develop, 2004-04-20
+
+    The customer isn’t always right, but is always the customer.
+
+    -- Dru Scott
+
+    When you lose small businesses, you lose big ideas.
+
+    -- Ted Turner,
+       http://www.washingtonmonthly.com/features/2004/0407.turner.html
+
+    Hofstadter’s Law: It always takes longer than you expect, even
+    when you take into account Hofstadter’s Law.
+
+    -- Douglas Hofstadter
+
+    Which statement seems more true?
+
+    (1) I have a brain.
+    (2) I am a brain.
+
+    -- Douglas Hofstadter
+
+    * most people are fools
+    * most authority is malignant
+    * God does not exist
+    * everything is wrong
+
+    -- Ted Nelson’s maxims,
+       http://www.wired.com/wired/archive/3.06/xanadu_pr.html
+
+    A problem is an opportunity in work clothes.
+
+    -- Jorge Gonzalez
+
+    The basic idea behind office hours is that if you can’t make
+    people work, you can at least prevent them from having fun.
+
+    -- Paul Graham, OSCON 2005
+
+    One machine can do the work of fifty ordinary men. No machine can
+    do the work of one extraordinary man.
+
+    -- Elbert Hubbard
+
+    Invention does not consist in creating out of void, but out of
+    chaos.
+
+    -- Mary Shelley (quoted in `Feynman’s Rainbow`)
+
+    My rule is, when you are unhappy, think about it.  But when you’re
+    happy, don’t.  Why spoil it?  You’re probably happy for some
+    ridiculous reason and you’d just spoil it to know it.
+
+    -- Richard Feynman, quoted in `Feynman’s Rainbow` by Leonard
+       Mlodinow, p. 159
+
+    Everybody dies.  It’s just a matter of when.  But with Arlene I
+    was really happy for a while.  So I have had it all.  After
+    Arlene, the rest of my life didn’t have to be so good, you see,
+    because I had already had it all.
+
+    [Arlene was his first wife; she died at a young age from TB.]
+
+    -- Richard Feynman, quoted in `Feynman’s Rainbow`, p. 159-160
+
+    Quantum economics:
+
+    When a bozon accelerates, it emits morons and can create a field
+    of ignorance.
+
+    -- http://uncyclopedia.org/wiki/Quantum_economics
+
+    Simplicity is prerequisite for reliability.
+
+    -- Edsger W. Dijkstra
+
+    I learned from him [Frank Herbert] that authors exist merely for
+    the story’s sake, not the other way around, and a good story had
+    to do two things: inform and entertain.  The informing part must
+    be entertaining enough to let readers live the story without
+    feeling like they’re on the receiving end of a sermon.  Writing
+    entertainment without information, without some insight into what
+    it is to be human, is a waste of good trees.
+
+    -- Bill Ransom, in the forward to `The Road To Dune` by Frank
+       Herbert, Brian Herbert, and Kevin J. Anderson
+
+    Most people are trustworthy, and I’d prefer to be more cynical,
+    but I’m finding overwhelmingly that people figure, “The right way
+    to live is to treat other people the way you want to be treated.”
+
+    -- Craig Newmark (founder, craigslist.org), on `Cranky Geeks
+       <http://www.crankygeeks.com/>`__ Episode 19, July 19, 2006
+
+    Software patents provide one more means of controlling access to
+    information.  They are the tool of choice for the internet
+    highwayman.
+
+    -- Anthony Taylor,
+       http://www.freesoftwaremagazine.com/articles/standards_battleground
+
+
+Free/Libre & Open Source Software (FLOSS)
+=========================================
+
+    As our society grows more dependent on computers, the software we
+    run is of critical importance to securing the future of a free
+    society. Free software is about having control over the technology
+    we use in our homes, schools and businesses, where computers work
+    for our individual and communal benefit, not for proprietary
+    software companies or governments who might seek to restrict and
+    monitor us.
+
+    -- `About the Free Software Foundation
+       <http://www.fsf.org/about/>`__
+
+    An appliance is not a stripped-down computer — it is a fully
+    functional computer with spyware on it out of the box.
+
+    Digital rights management always converges on malware.
+
+    As a member of the Walkman generation, I have made peace with the
+    fact that I will require a hearing aid long before I die, and of
+    course, it won’t be a hearing aid, it will be a computer I put in
+    my body. So when I get into a car (a computer I put my body into)
+    with my hearing aid (a computer I put inside my body) I want to
+    know that these technologies are not designed to keep secrets from
+    me, and to prevent me from terminating processes on them that work
+    against my interests.
+
+    Freedom in the future will require us to have the capacity to
+    monitor our devices and set meaningful policy on them, to examine
+    and terminate the processes that run on them, to maintain them as
+    honest servants to our will, and not as traitors and spies working
+    for criminals, thugs, and control freaks.
+
+    -- Cory Doctorow, `The Coming War on General Computation
+       <http://boingboing.net/2011/12/27/the-coming-war-on-general-purp.html>`__
+       keynote talk at the 28C3, the Chaos Computer Congress in Berlin
+       (`transcript here
+       <https://github.com/jwise/28c3-doctorow/blob/master/transcript.md>`__)
+
+    Proprietary software is an unsafe building material.
+
+    You can’t inspect it.  You can’t assess its complex failure modes
+    easily, by simply poking at the finished article.  And most
+    important of all, if you were aware of a [safety] problem ... that
+    you could fix, you couldn’t fix it.  If you were aware of a
+    catastrophic failure mode, you couldn’t do anything about it --
+    except ask the manufacturer to fix it... who sells software to
+    consumers under shrinkwrap... which basically says, “if the
+    software fails catastrophically and obliterates your town, we’ll
+    give you your money back.”
+
+    So proprietary software is an unsafe building material.  We
+    shouldn’t use it for purposes that could conceivably cause harm,
+    like running personal computers.  Let alone should we use it for
+    things like anti-lock brakes or throttle control in automobiles.
+
+    We wouldn’t allow people to build black-box elevators.  They’ve
+    got to be inspectable.  And they have to be repairable by the
+    people in whose buildings they are.  That’s a sensible rule,
+    arrived at over a long period of experience with what can happen
+    when things fall.  Which you would expect us to carry unchanged
+    into our experience of the digital environment, but which is not.
+
+    The basic principle of the difficulty that we face is we can’t see
+    enough and we can’t modify it fast enough to ... [assess] what
+    went wrong after it fails.  What we actually need is the ability
+    to harness civil society to prevent failure.
+
+    This is a problem which can be prevented more easily than it can
+    be coped with after the fact.
+
+    -- Eben Moglen, from `“When Software is in Everything: Future
+       Liability Nightmares Free Software Helps Avoid”, a speech to
+       the Scottish Society for Computers and Law (SSCL) in Edinburgh,
+       Scotland on June 30 (Software Freedom Law Show, Episode 0x2C,
+       July 20, 2010)
+       <http://www.softwarefreedom.org/podcast/2010/jul/20/episode-0x2c-eben-software-liability/>`__
+
+    You give away the *infinite* goods, not the *scarce* goods.  Your
+    time is a *scarce* good.  No one is saying that everything needs
+    to be free -- they’re saying that infinite goods *will* be free,
+    because of it’s very nature in economics. ...  Most programmers
+    don’t earn any kind of royalties for the software they write.
+    They are paid a salary, for their time -- but not for the software
+    itself (which is an infinite good).  And, I won’t even get into
+    the number of programmers who work on open source projects for
+    free...
+
+    But free alone isn’t a business model.  And it’s wrong to blame
+    free for the lack of establishing a complete business model. Just
+    because “give it away and pray” isn’t a workable business model,
+    that doesn’t mean that there aren’t business models that do work.
+
+    -- Mike Masnick, `Techdirt.com
+       <http://techdirt.com/articles/20080522/1545021204.shtml>`__
+
+    People who don’t value their freedom are likely to lose it.
+
+    -- Richard Stallman, `in an interview
+       <http://itmanagement.earthweb.com/cnews/article.php/3717476>`__
+
+    For a private business to blithely entrust their data to
+    proprietary formats and protocols is irresponsible at best.  For a
+    public company to do so can be looked upon as a breach of the
+    shareholder’s trust.
+
+    -- `Ray Yeargin <http://librenix.com/?inode=6565>`__
+
+    The whole GNU Project is really one big hack.  It’s one big act of
+    subversive playful cleverness.  To change society for the better
+    because I’m only interested in changing it for the better, but in
+    a clever way.
+
+    -- Richard Stallman in `Revolution OS
+       <http://video.google.com/videoplay?docid=7707585592627775409&hl=en>`__
+
+    My view is it’s just the unrolling of a thing that came from very
+    far, long ago.  It’s a reversal of a local eddy in the current of
+    time.  Microsoft made it appear that software was a product, for a
+    little while.  But knowledge is rarely a product, and the
+    technological information about the terms on which we and the
+    digital brains exist [i.e. software], that’s not a product.
+    That’s a culture.  That’s the record of a deposit of human beings
+    and the “other” in conversation.  It’s like literature: it can’t
+    be a product.  So what we are discovering is it’s a culture made
+    by communities.  And we could have known that in 1965 or 1970.  It
+    was hard to see in 1990.  But it’s easy to see again in 2006.  In
+    my judgement, this is in that historical sense more about clearing
+    away a temporary confusion than it is about some strange and
+    amazing departure that suddenly occurred.
+
+    -- `Eben Moglen, interview with Joe Barr, on how free software got
+       to where it is today
+       <http://www.linux.com/article.pl?sid=07/05/17/1645226>`__
+
+    Here are some general principles applicable to open source
+    projects (including Docutils):
+
+    * If it’s important to you, you should see it done.
+    * If you don’t do it, nobody else will.
+    * If you do it right, it will succeed and be adopted by others.
+    * If making changes to a project is important enough to you, and
+      the project leaders don’t listen, consider forking the project.
+      But discuss your ideas thoroughly first.
+
+    -- David Goodger (original?) on `docutils-users, 2005-04-04
+       <http://sourceforge.net/mailarchive/message.php?msg_id=11378559>`__
+
+    If open source is the soil from which your business has sprouted,
+    it makes sense to keep the soil healthy.
+
+    Open source does not allow for exclusive access to the inner
+    workings of anything. That’s what it means.
+
+    -- Daniel Robbins,
+       http://www-106.ibm.com/developerworks/library/l-dist2.html
+
+    And if there is anything I’ve learnt from Linux, it’s that
+    projects have a life of their own, and you should _not_ try to
+    enforce your “vision” too strongly on them.  Most often you’re
+    wrong anyway, and if you’re not flexible and willing to take input
+    from others (and willing to change direction when it turned out
+    your vision was flawed), you’ll never get anything good done.
+
+    -- Linus Torvalds,
+       http://www.linuxtimes.net/modules.php?name=News&file=article&sid=145
+
+    Your company may not have the resources to maintain an operating
+    system or other major piece of software on its own, but if that
+    software is essential to your business, it is likely to be
+    essential to many others with whom you can cooperate to keep it
+    alive and growing -- and your company’s share of that new
+    project’s costs will almost certainly be less than you’d spend to
+    purchase equivalent proprietary software.
+
+    -- Robin ‘Roblimo’ Miller,
+       http://trends.newsforge.com/article.pl?sid=05/02/02/2321235
+
+    1. Don’t confuse motion for progress.
+    2. Don’t undermine your own authority.
+    3. If you have authority, don’t shy away from using it where
+       appropriate.
+    4. If you expect professional behaviour you’ll get it, so expect
+       it all around.
+    5. The easier you make it to do things, the more people will be
+       able to do.
+    6. Be open and above-board always.  If you’re embarrassed to do so
+       because of what’s going on, that’s a sign of a big problem.
+    7. It’s only software and not worth your life.
+    8. People suck.  Deal.  (And never forget that you’re people too.)
+
+    -- Dan Sugalski’s rules for open-source projects,
+       http://www.sidhe.org/~dan/blog/archives/000435.html
+
+    I came for the quality.  I stayed for the freedom.
+
+    -- Sean Neakums, http://www.perkypants.org
+
+    | Free software.
+    | Free society.
+
+    -- Free Software Foundation
+
+    Freedom is not just for geeks
+
+    -- Jeff Waugh, http://www.linuxjournal.com/article/8752
+
+    Our code is free, but we do strictly enforce our trademark rights,
+    we must, in order to keep them valid.
+
+    -- http://www.mozilla.org/foundation/licensing.html
+
+
+Python
+======
+
+    I write programs because it’s fun.  (“Hey look, I just created
+    something out of pure thought!”)  I write Python programs because
+    it’s more fun to write programs in Python than in any other
+    language.  I help people to use Python because I want them to have
+    fun too.
+
+    -- Matthew Dixon Cowles
+
+    Dynamic languages let you experiment and fail faster.
+
+    -- `Bruce Eckle in his 2007 CodeMash keynote (paraphrased by Kevin Dangoor)
+       <http://www.blueskyonmars.com/2007/01/18/bruce-eckels-codemash-keynote-on-a-dynamic-world/>`__
+
+    It seems to me that Java is designed to make it difficult for
+    programmers to write bad code, while Python is designed to make it
+    easy to write good code.
+
+    -- Magnus Lycka,
+       http://permalink.gmane.org/gmane.comp.python.announce/5493
+
+    | A: I don’t like Python because of significant whitespace.
+    | B: Do you indent your code?
+    | A: Yes, of course.
+    | B: And the problem is?
+
+    -- Marko Samastur, http://markos.gaivo.net/blog/?p=126
+
+    Thus spake the Lord: Thou shalt indent with four spaces. No more,
+    no less.  Four shall be the number of spaces thou shalt indent,
+    and the number of thy indenting shall be four. Eight shalt thou
+    not indent, nor either indent thou two, excepting that thou then
+    proceed to four.  Tabs are right out.
+
+    -- Georg Brandl’s email signature
+
+
+Programming
+===========
+
+    Be transparent. Share your work constantly. Solicit
+    feedback. Appreciate critiques. Let other people point out your
+    mistakes. You are not your code. Do not be afraid of day-to-day
+    failures — learn from them. (As they say at Google, “don’t run
+    from failure — fail often, fail quickly, and learn.”) Cherish your
+    history, both the successes and mistakes. All of these behaviors
+    are the way to get better at programming. If you don’t follow
+    them, you’re cheating your own personal development.
+
+    -- `Ben Collins-Sussman <http://blog.red-bean.com/sussman/?p=96>`__
+
+    Designing software is hard, and unfortunately, a lot of the people
+    who call themselves programmers can’t really do it.
+
+    -- Joel Spolsky, `“How Hard Could It Be?: Five Easy Ways to Fail”
+       (Inc.com)
+       <http://www.inc.com/magazine/20071101/how-hard-could-it-be-five-easy-ways-to-fail.html>`__
+
+    Programming combines right- and left-brain activity
+    simultaneously: creativity and analysis.  Linear, looping,
+    chaotic, organized, rote, inspired, work, and fun.
+
+    -- David Goodger
+
+    Debugging is twice as hard as writing the code in the first place.
+    Therefore, if you write the code as cleverly as possible, you are,
+    by definition, not smart enough to debug it.
+
+    -- Brian W. Kernighan
+
+    Programs must be written for people to read, and only incidentally
+    for machines to execute.
+
+    -- Abelson & Sussman, `Structure and Interpretation of Computer
+       Programs <http://www-mitpress.mit.edu/sicp/>`__
+
+    1. Rule of Modularity: Write simple parts connected by clean
+       interfaces.
+
+    2. Rule of Clarity: Clarity is better than cleverness.
+
+    3. Rule of Composition: Design programs to be connected with other
+       programs.
+
+    4. Rule of Separation: Separate policy from mechanism; separate
+       interfaces from engines.
+
+    5. Rule of Simplicity: Design for simplicity; add complexity only
+       where you must.
+
+    6. Rule of Parsimony: Write a big program only when it is clear by
+       demonstration that nothing else will do.
+
+    7. Rule of Transparency: Design for visibility to make inspection
+       and debugging easier.
+
+    8. Rule of Robustness: Robustness is the child of transparency and
+       simplicity.
+
+    9. Rule of Representation: Fold knowledge into data, so program
+       logic can be stupid and robust.
+
+    10. Rule of Least Surprise: In interface design, always do the
+        least surprising thing.
+
+    11. Rule of Silence: When a program has nothing surprising to say,
+        it should say nothing.
+
+    12. Rule of Repair: Repair what you can -- but when you must fail,
+        fail noisily and as soon as possible.
+
+    13. Rule of Economy: Programmer time is expensive; conserve it in
+        preference to machine time.
+
+    14. Rule of Generation: Avoid hand-hacking; write programs to
+        write programs when you can.
+
+    15. Rule of Optimization: Prototype before polishing. Get it
+        working before you optimize it.
+
+    16. Rule of Diversity: Distrust all claims for one true way.
+
+    17. Rule of Extensibility: Design for the future, because it will
+        be here sooner than you think.
+
+    -- Eric S. Raymond, Basics of the Unix Philosophy, from `The Art
+       of Unix Programming
+       <http://www.faqs.org/docs/artu/ch01s06.html>`__
+
+    The programmer, like the poet, works only slightly removed from
+    pure thought-stuff.  He builds his castles in the air, from air,
+    creating by exertion of the imagination.  Few media of creation
+    are so flexible, so easy to polish and rework, so readily capable
+    of realizing grand conceptual structures.
+
+    -- Fred Brooks, `The Mythical Man-Month`
+
+    Programmers are procrastinators.  Get in, get some coffee, check
+    the mailbox, read the RSS feeds, read the news, check out latest
+    articles on techie websites, browse through political discussions
+    on the designated sections of the programming forums.  Rinse and
+    repeat to make sure nothing is missed.  Go to lunch.  Come back,
+    stare at the IDE for a few minutes.  Check the mailbox.  Get some
+    coffee.  Before you know it, the day is over.
+
+    -- http://www.defmacro.org/ramblings/fp.html
+
+
+The Internet
+============
+
+    The best way to get information on Usenet is not to ask a
+    question, but to post the wrong information.
+
+    -- Aahz on docutils-develop, 2004-04-21
+
+    On the one hand, I think [the Internet] is the coolest thing in
+    the world, on the other, it’s the most dangerous time sink.
+
+    -- Neil Gaiman, on `Cranky Geeks <http://www.crankygeeks.com/>`__
+       Episode 30, October 2, 2006
+
+    The greatest thing about the Internet is that it allows anyone to
+    publish anything.  That’s also the worst thing about the Internet.
+
+    -- me (although I’m pretty sure it’s not original to me; I
+       probably paraphrased somebody here)
+
+
+Reality & Delusion: Rationality vs. Religion/Faith/Belief/Superstition
+======================================================================
+
+    You’re entitled to your own opinions. You’re not entitled to your
+    own facts.
+
+    -- attributed to US Senator Daniel Patrick Moynihan
+
+    The question I was asking [in the film `Riligulous
+    <http://www.imdb.com/title/tt0815241/>`__] was, how can otherwise
+    intelligent people believe in a talking snake?  How do people
+    build this wall in their mind between what they *must* know, in
+    part of their mind, is untrue, and yet they maintain this belief?
+
+    If it was as simple as saying, all the smart people are atheists
+    and all the stupid people are religulous, it would be very simple.
+    But it’s not that simple, because we all know very intelligent
+    people who somehow put that wall up in their mind.  That doesn’t
+    mean I respect it intellectually.  ...  If you do hold that
+    belief, if you believe in Santa Claus, a god, Jesus, whatever you
+    want, I really have to disqualify you from the highest rank of
+    thinkers.  I’m sorry, I just do.
+
+    If you believe in something that is *obviously ridiculous* and
+    anachronistic, something that some desert-dweller had as a brain
+    fart 3000 years ago, wrote down, and somehow it got passed along
+    in a game of telephone, and now you’re still following it?  I’m
+    sorry, you can’t be in the higest rank of thinkers.  Amen!
+
+    -- `Bill Maher, interviewed by Neil deGrasse Tyson on Startalk
+       Radio (season 3, episode 15)
+       <http://www.startalkradio.net/show/real-science-with-bill-maher-part-1/>`__
+
+    I believe that what we call “tolerance” is actually just a fear of
+    being proven wrong.  Because if you state what you believe over
+    and over again loudly you will get busted every single time.
+
+    -- `Penn Jillette on the Nerdist podcast 195
+       <http://www.nerdist.com/2012/04/nerdist-podcast-penn-jillette/>`__
+
+    [Regarding a “unified field theory”:] We assume there’s one to be
+    found, don’t we?  That’s kind of audacious, isn’t it?  We are
+    layering onto the universe our own philosophical requirements for
+    it to behave as we wish.  The universe historically has not obeyed
+    us in that way.
+
+    The history of science is replete with people trying to layer
+    their own philosophical elegance onto [the universe].
+
+    -- `Neil deGrasse Tyson on the Nerdist Podcast #139
+       <http://www.nerdist.com/2011/11/nerdist-podcast-139-neil-degrasse-tyson/>`__
+
+    If you walk up to something and say, “This is irreducibly
+    complex,” which means of course that there is no way this can have
+    existed in a simpler form and function, *and* it contains some
+    complexity that we will never understand, thereby requiring some
+    kind of intelligent force operating on it.  Here’s what’s
+    particularly ... inexcusiably hubristic.  It’s [someone who says],
+    “*I* can’t figure out how this works, and so no one alive today
+    can figure out how this works, no one who will ever be born will
+    figure out how this works.  Therefore it is intelligently
+    designed.”  That is the height of hubristic thinking, to assert
+    that because you can’t figure it out, no one who will ever be born
+    after you will be able to do so as well.
+
+    -- *ibid*
+
+    In science, if you can’t admit you don’t know, you will never make
+    a discovery in your life.  The scientist has to not only be
+    comfortable with ignorance, but embrace it.  Because therein is
+    that force which attracts you to the frontier where you put a foot
+    in what is known, a foot in what is unknown, and you investigate
+    with the intent of discovery.
+
+    You get these newspaper articles where a new science result comes
+    out and the lead sentence is, “Scientists will be sent back to the
+    drawing board.  They’re baffled.”  If you’re an active research
+    scientist, you are always at the drawing board.  You are always
+    baffled.  That is not a new state.  That is a permanent state.
+    The idea that a scientist might not know something is presented as 
+    presented as some kind of major finding in the newspapers.  But in
+    fact that’s a daily finding.
+
+    -- *ibid*
+
+    Science literacy is vaccine against charlatans of the world [who]
+    would exploit your ignorance of the forces of nature.
+
+    -- `Neil deGrasse Tyson, interviewed by Stephen Colbert at
+       Montclair Kimberley Academy 2010-01-29
+       <http://www.haydenplanetarium.org/tyson/watch/2010/01/29/stephen-colbert-interview-montclair-kimberley-academy>`__
+       (`or on YouTube
+       <http://www.youtube.com/watch?v=YXh9RQCvxmg>`__) — well worth
+       watching the whole thing, informative and highly entertaining
+
+    [Regarding the “Nemesis” extinction-causing companion star
+    hypothesis:] It was an interesting hypothesis that was never
+    supported by data.  And when you’re not supported by data, you
+    *discard* the hypothesis.  That’s how science works.  You don’t
+    believe something just ’cause you want to, or think something’s
+    true just ’cause it feels good.  At some point you’ve got to
+    confront the data.
+
+    *Colbert:* So you’ve never been in politics?
+
+    -- *ibid*, around 0:58:30
+
+    Faith — that comfortable sanctuary from the complications of
+    reality.
+
+    -- from `The Technician` (novel) by Neal Asher
+
+    Teach a man to reason and he’ll think for a lifetime.
+
+    -- Dr. Phil Plait, `The Bad Astronomer
+       <http://blogs.discovermagazine.com/badastronomy/2011/06/02/a-reasonable-mug/>`__
+
+    Human consciousness is vulnerable to certain types of
+    transmissible memetic virus, and religions that promise life
+    beyond death are a particularly pernicious example because they
+    exploit our natural aversion to halting states.
+
+    -- spoken by a character in `Accelerando` by Charles Stross
+
+    I regard the brain as a computer which will stop working when its
+    components fail.  There is no heaven or afterlife for broken down
+    computers; that is a fairy story for people afraid of the dark.
+
+    -- Stephen Hawking
+
+    It annoys me that the burden of proof is on us.  It should be:
+    “You came up with the idea.  Why do you believe it?”  I could tell
+    you I’ve got superpowers.  But I can’t go up to people saying
+    “Prove I can’t fly.”  They’d go: “What do you mean, ‘Prove you
+    can’t fly’?  Prove you can!”
+
+    -- Ricky Gervais on being an atheist
+
+    | Science adjusts its views
+    |   based on what’s observed.
+    | Faith is the denial of observation
+    |   so that belief can be preserved.
+
+    -- Tim Minchin, `Storm, the Animated Movie
+       <http://www.stormmovie.net>`__
+
+    Skeptical doubt is an antidote to foolish beliefs.
+
+    Skepticism is an antidote for nonsense.
+
+    It’s a pragmatic tool of inquiry and of knowledge.
+
+    -- Paul Kurtz, on the `For Good Reason podcast
+       <http://forgoodreason.libsyn.com/paul-kurtz-exuberant-skepticism>`__
+
+    Reality is that which, when you stop believing in it, doesn’t go
+    away.
+
+    -- Philip K. Dick
+
+    Paraphrase [of the Philip K. Dick quote above]: reality is
+    independent of belief.  Belief doesn’t lead to truth or reality;
+    rather, in the absence of evidence belief is often better termed
+    “delusion”.  Belief is neither necessary nor sufficient for
+    reality.
+
+    Reality is that for which evidence exists, that which can be
+    repeatably tested and rigorously proven.
+
+    -- me
+
+    Thou shalt keep thy religion to thyself.
+
+    -- George Carlin
+
+    There is a fundamental difference between religion, which is based
+    on authority, [and] science, which is based on observation and
+    reason. Science will win because it works.
+
+    -- `Stephen Hawking
+       <http://abcnews.go.com/WN/Technology/stephen-hawking-religion-science-win/story?id=10830164>`__
+
+    And, of course, the irony is that creationism itself shows us that
+    despite our highly-evolved brains, humans still cling to
+    easily-disproven nonsense if it’s taught early enough and with
+    fervor.
+
+    -- Phil Plait, `Bad Astronomy
+       <http://blogs.discovermagazine.com/badastronomy/2009/08/15/creationists-believe-the-darndest-things/>`__
+
+    Science learns ... dogma doesn’t.
+
+    -- Phil Plait, `Bad Astronomy
+       <http://blogs.discovermagazine.com/badastronomy/2009/05/28/the-evolution-of-creationist-astronomy/>`__
+
+    I think people are getting a bit fed up with other people
+    thrusting their imaginary friends down their throats.
+
+    -- Richard Dawkins on `Real Time with Bill Maher
+       <http://www.hbo.com/billmaher/>`__, 2008-04-11
+
+    Richard Dawkins ... `The God Delusion` ... hopefully someday it’ll
+    be by the bed in every hotel in America.
+
+    -- Bill Maher on `Real Time with Bill Maher
+       <http://www.hbo.com/billmaher/>`__, 2008-04-11
+
+    Be open-minded, but not so open-minded that your brains fall out.
+
+    -- Carl Sagan
+
+    I too believe in people.  I believe that, given proper
+    encouragement to think, and given the best information available,
+    people will courageously cast aside celestial comfort blankets and
+    lead intellectually fulfilled, emotionally *liberated* lives.
+
+    -- Richard Dawkins, `Times Online
+       <http://www.timesonline.co.uk/tol/comment/columnists/guest_contributors/article1779771.ece>`__
+
+    **WARNING:** This is a work of fiction.  **Do NOT take it
+    literally.**
+
+    **CONTENT ADVISORY:** Contains verses descriptive or advocating
+    suicide, incest, bestiality, sadomasochism, sexual activity in a
+    violent context, murder, morbid violence, use of drugs or alcohol,
+    homosexuality, voyeurism, revenge, undermining of authority
+    figures, lawlessness, and human rights violations and atrocities.
+
+    **EXPOSURE WARNING:** Exposure to contents for extended periods of
+    time or during formative years in children may cause delusions,
+    hallucinations, decreased cognitive and objective reasoning
+    abilities, and, in extreme cases, pathological disorders, hatred,
+    bigotry, and violence including, but not limited to fanaticism,
+    murder, and genocide.
+
+    -- `Sticker attached to a copy of the “HOLY BIBLE”
+       <http://bp1.blogger.com/_IWn1UTEW0RY/RqeHZxAVowI/AAAAAAAADZ4/chPZekPJdxM/s1600-h/bible_fiction.jpg>`_
+
+    The idea that God is an oversized white male with a flowing beard,
+    who sits in the sky and tallies the fall of every sparrow is
+    ludicrous.  But if by “God,” one means the set of physical laws
+    that govern the universe, then clearly there is such a God.  This
+    God is emotionally unsatisfying... it does not make much sense to
+    pray to the law of gravity.
+
+    -- Carl Sagan
+
+    Extraordinary claims require extraordinary evidence.
+
+    -- Carl Sagan
+
+    I think the roots of this antagonism to science run very deep.
+    They’re ancient.  We see them in Genesis, this first story, this
+    founding myth of ours, in which the first humans are doomed and
+    cursed eternally for asking a question, for partaking of the fruit
+    of the Tree of Knowledge.  It’s puzzling that Eden is synonymous
+    with paradise when, if you think about it at all, it’s more like a
+    maximum-security prison with twenty-four hour surveillance.  It’s
+    a horrible place.  Adam and Eve have no childhood.  They awaken
+    full-grown.  What is a human being without a childhood?  Our long
+    childhood is a critical feature of our species.  It differentiates
+    us, to a degree, from most other species.  We take a longer time
+    to mature.  We depend upon these formative years and the social
+    fabric to learn many of the things we need to know.
+
+    -- Ann Druyan
+
+    When my husband [Carl Sagan] died, because he was so famous and
+    known for not being a believer, many people would come up to me --
+    it still sometimes happens -- and ask me if Carl changed at the
+    end and converted to a belief in an afterlife.  They also
+    frequently ask me if I think I will see him again.  Carl faced his
+    death with unflagging courage and never sought refuge in
+    illusions.  The tragedy was that we knew we would never see each
+    other again.  I don’t ever expect to be reunited with Carl.
+
+    -- Ann Druyan
+
+    People are always going on about “how did September the 11th
+    change you?”  Well here’s how it changed me: let’s all stop being
+    so damned respectful.
+
+    -- `Richard Dawkins, “An atheist’s call to arms” speech at TED
+       <http://www.ted.com/index.php/talks/view/id/113>`__
+
+    How is it that hardly any major religion has looked at science and
+    concluded, “This is better than we thought!  The Universe is much
+    bigger than our prophets said, grander, more subtle, more
+    elegant”?  Instead they say, “No, no, no!  My god is a little god,
+    and I want him to stay that way.”  A religion, old or new, that
+    stressed the magnificence of the Universe as revealed by modern
+    science might be able to draw forth reserves of reverence and awe
+    hardly tapped by the conventional faiths.
+
+    -- Carl Sagan
+
+    But just what is the core of Dawkins’ radical message?  Well, it
+    goes something like this: If you claim that something is true, I
+    will examine the evidence which supports your claim; if you have
+    no evidence, I will not accept that what you say is true and I
+    will think you a foolish and gullible person for believing it so.
+
+    -- `Dan Gardner, The Ottawa Citizen, 2007-05-05
+       <http://www.canada.com/ottawacitizen/columnists/story.html?id=62d4e647-9088-47dc-8a46-6397e3a6e30d>`__
+
+    Religion ends and philosophy begins, just as alchemy ends and
+    chemistry begins, and astrology ends and astronomy begins.
+
+    -- `Christopher Hitchins, as interviewed by Lou Dobbs on CNN
+       <http://www.youtube.com/watch?v=iZ_l3Utr670>`__
+
+    :Colbert: If I just think that God just—[claps]—*did it*, that I
+              can understand.
+    :Dawkins: And who just did God then?
+
+    -- Stephen Colbert & Richard Dawkins, interview on `The Colbert
+       Report`, 2006-10-17
+
+    Reality must take precedence over public relations, for nature
+    cannot be fooled.
+
+    -- Richard P. Feynman
+
+    My suggestion is that you won’t find any intelligent person who
+    feels the need for the supernatural.  What you will find is the
+    need for a sense of transcendent wonder, which I share as well.
+
+    -- Richard Dawkins, from `Religion: For Dummies
+       <http://www.beliefnet.com/story/136/story_13688_2.html>`__, an
+       interview
+
+    For the purposes of decision making, a permanently hidden god is
+    equivalent to a non-existent one.
+
+    -- From `a comment by Adrian D. on Scott Adams’ Dilbert Blog
+       <http://dilbertblog.typepad.com/the_dilbert_blog/2006/11/atheists_the_ne.html#comment-25564291>`__
+
+    The wisdom is accessible to us.  We’re not a stupid race.  We
+    invented the zipper; we can do it.
+
+    I see religion as one of the last overwhelming vestiges of
+    barbarism in our culture.
+
+    All of this recourse to religious thinking -- expressions like “we
+    shouldn’t play God”, etc. -- how do we get past all that?  How do
+    we manage to get beyond it so that we become rational beings
+    instead of irrational beings?  That to me is the central question.
+
+    -- Harlan Ellison, in the “Science Future Science Fiction” panel
+       discussion, UCLA, 2002-01-26 (available on the Dune [2000]
+       special edition director’s cut DVD, 2nd disc)
+
+    Philosophy is questions that may never be answered.  Religion is
+    answers that may never be questioned.
+
+    -- author unknown
+
+    The fact that a believer is happier than a skeptic is no more to
+    the point than the fact that a drunken man is happier than a sober
+    one.
+
+    -- George Bernard Shaw
+
+    It is far better to grasp the universe as it really is than to
+    persist in delusion, however satisfying and reassuring.
+
+    -- Carl Sagan
+
+    I can live with doubt and uncertainty and not knowing.  I think
+    it’s much more interesting to live not knowing than to have
+    answers which might be wrong.  ... But I don’t have to know an
+    answer.  I don’t feel frightened by not knowing things, by being
+    lost in a mysterious universe without having any purpose -- which
+    is the way it really is, as far as I can tell.  It doesn’t
+    frighten me.
+
+    -- Richard Feynman
+
+    Human beings are perhaps never more frightening than when they are
+    convinced beyond doubt that they are right.
+
+    -- Laurens van der Post, `The Lost World of the Kalahari` (1958)
+
+    Nonbelievers like myself stand beside you, dumbstruck by the
+    Muslim hordes who chant death to whole nations of the living.  But
+    we stand dumbstruck by *you* as well -- by your denial of tangible
+    reality, by the suffering you create in service to your religious
+    myths, and by your attachment to an imaginary God.
+
+    -- Sam Harris, `Letter to a Christian Nation`
+
+    We’re going to look back and be amazed that we approached this
+    asymptote of destructive capacity while allowing ourselves to be
+    balkanized by fantasy. ... At some point, there is going to be
+    enough pressure that it is just going to be too *embarrassing* to
+    believe in God.
+
+    -- Sam Harris, quoted in `Wired News: Battle of the New Atheism
+       <http://www.wired.com/news/wiredmag/0,71985-0.html>`__
+
+    We explain our existence by a combination of the anthropic
+    principle and Darwin’s principle of natural selection.  That
+    combination provides a complete and deeply satisfying explanation
+    for everything that we see and know.  Not only is the god
+    hypothesis unnecessary. It is spectacularly unparsimonious.  Not
+    only do we need no God to explain the universe and life.  God
+    stands out in the universe as the most glaring of all superfluous
+    sore thumbs.  We cannot, of course, disprove God, just as we can’t
+    disprove Thor, fairies, leprechauns and the Flying Spaghetti
+    Monster.  But, like those other fantasies that we can’t disprove,
+    we can say that God is very very improbable.
+
+    -- Richard Dawkins, conclusion to `Why There Almost Certainly Is
+       No God
+       <http://news.yahoo.com/s/huffpost/20061023/cm_huffpost/032164>`__
+
+    We are all atheists about most of the gods that societies have
+    ever believed in.  Some of us just go one god further.
+
+    -- Richard Dawkins, “Root of All Evil? part 1: The God Delusion”,
+       Channel 4 Television Corporation (2006)
+
+    I contend that we are both atheists.  I just believe in one fewer
+    god than you do.  When you understand why you dismiss all the
+    other possible gods, you will understand why I dismiss yours.
+
+    -- Stephen Henry Roberts
+
+    As a scientist, I’m increasingly worried about how faith is
+    undermining science.  It’s something we must resist, because
+    irrational faith is feeding murderous intolerance throughout the
+    world.
+
+    -- Richard Dawkins, “Root of All Evil? part 2: The Virus of
+       Faith”, Channel 4 Television Corporation (2006)
+
+    Science weighs up evidence and advances.  Religion is hidebound
+    belief for belief’s sake.  It’s bad for our children, and it’s bad
+    for you.
+
+    -- Richard Dawkins, “Root of All Evil? part 2: The Virus of
+       Faith”, Channel 4 Television Corporation (2006)
+
+    Let me explain why, when it comes to children, I think of religion
+    as a dangerous virus.  It’s a virus which is transmitted partly
+    through teachers and clergy, but also down the generations from
+    parent to child to grandchild.  Children are especially vulnerable
+    to infection by the virus of religion.
+
+    A child is genetically pre-programmed to accumulate knowledge from
+    figures of authority.  The child brain, for very good Darwinian
+    reasons, has to be set up in such a way that it believes what it’s
+    told by its elders, because there just isn’t time for the child to
+    experiment with warnings like “Don’t go too near the cliff edge!”
+    or “Don’t swim in the river, there are crocodiles!”  Any child who
+    applied a scientific sceptical questioning attitude to that, would
+    be dead.
+
+    No wonder the Jesuits said, “Give me the child for his first seven
+    years and I’ll give you the man.”
+
+    The child brain will automatically believe what it’s told even if
+    what it’s told is nonsense.  And then when the child grows up it
+    will tend to pass on that same nonsense to its children.
+
+    And so religion goes on from generation to generation.
+
+    For many people, part of growing up is killing off the virus of
+    faith with a good strong dose of rational thinking.  But if an
+    individual doesn’t succeed in shaking it off, his mind is stuck in
+    a permanent state of infancy.  And there is a real danger that he
+    will infect the next generation.
+
+    -- Richard Dawkins, “Root of All Evil? part 2: The Virus of
+       Faith”, Channel 4 Television Corporation (2006)
+
+    Nobody not brought up in the faith could reach any verdict other
+    than: barking mad.
+
+    -- Richard Dawkins, “Root of All Evil? part 2: The Virus of
+       Faith”, Channel 4 Television Corporation (2006)
+
+    Religion is an insult to human dignity.  With or without it you
+    would have good people doing good things and evil people doing
+    evil things.  But for good people to do evil things, that takes
+    religion.
+
+    -- Steven Weinberg, Nobel-prize-winning theoretical physicist
+
+    Some say that while religious fundamentalists betray reason,
+    moderate believers betray reason and faith equally.
+
+    -- Richard Dawkins, “Root of All Evil? part 2: The Virus of
+       Faith”, Channel 4 Television Corporation (2006)
+
+    ... the brain is responsible for consciousness.  And we can be
+    reasonably sure that when that brain ceases to be, when it falls
+    apart and decomposes, that will be the end of us.  From that quite
+    a lot of things follow, especially morally.  We are the very
+    privileged owners of a brief spark of consciousness.  And we
+    therefore have to take responsibility for it.  We cannot rely, as
+    Christians or Muslims do, on a world elsewhere, a paradise, to
+    which one can work towards and maybe make sacrifices, and,
+    crucially, make sacrifices of other people.  We have a marvelous
+    gift.  When you see it develop in children, this ability to become
+    aware that other people have minds just like your own and feelings
+    that are just as important as your own, and this gift of empathy
+    seems to me to be the building block of our moral system.
+
+    ...
+
+    And if you have a sacred text that tells you how the world began
+    or what the relationship is between this sky-god and you, it does
+    curtail your curiosity, it cuts off a source of wonder.  The
+    loveliness of the world in its wondrousness is not apparent to me
+    in Islam or Christianity and all the other major religions.
+
+    -- Ian McEwen, interviewed in “Root of All Evil? part 2: The Virus
+       of Faith”, Channel 4 Television Corporation (2006)
+
+    Look around you.  Nature demands our attention, begs us to
+    explore, to question.  Religion can only provide facile,
+    ultimately unsatisfying answers.  Science, in constantly seeking
+    real explanations, reveals the true majesty of our world in all
+    its complexity.
+
+    People sometimes say, “there must be more than just this world,
+    than just this life.”  But how much more do you want?!?
+
+    -- Richard Dawkins, “Root of All Evil? part 2: The Virus of
+       Faith”, Channel 4 Television Corporation (2006)
+
+    We are privileged to be alive and we should make the most of our
+    time on this world.
+
+    -- Richard Dawkins, “Root of All Evil? part 2: The Virus of
+       Faith”, Channel 4 Television Corporation (2006)
+
+
+Getting Things Done
+===================
+
+    :ZH: For a lot of people your books are so full of mind-blowing
+      and life-changing ideas, that they get overwhelmed.  They want
+      to start, but don’t know how to.  What would be the best first
+      step they can take to make a positive change?
+
+    :Covey: Listen to your conscience regarding something that you
+      simply know you should do, then start small on it—make a promise
+      and keep it.  Then move forward and make a little larger promise
+      and keep it.  Eventually you’ll discover that your sense of
+      honor will become greater than your moods, and that will give
+      you a level of confidence and excitement that you can move to
+      other areas where you feel you need to make improvements or give
+      service.
+
+    :ZH: To give us some insight into your life, what is your typical
+      morning routine on a work day, that incorporates some of your
+      principles into your everyday life?
+
+    :Covey: I make an effort every morning to win what I call the
+      “private victory.”  I work out on a stationary bike while I am
+      studying the scriptures for at least 30 minutes. Then I swim in
+      a home pool vigorously for 15 minutes, then I do yoga in a
+      shallow part of the pool for 15 minutes. Then I go into my
+      library and pray with a listening spirit, listening primarily to
+      my conscience while I visualize the rest of my entire day,
+      including important professional activities and key
+      relationships with my loved ones, working associates and
+      clients. I see myself living by correct principles and
+      accomplishing worthy purposes. One of my favorite quotes is,
+      “The greatest battles of life are fought out every day in the
+      silent chambers of one’s own soul.” (David O. McKay) Much of
+      this listening and visualizing work is very challenging, so I
+      win the private victory when I have made my mind up and commit
+      to live by correct principles and to serve worthy purposes.
+
+    -- `Zen Habits interview with Stephen R. Covey
+       <http://zenhabits.net/2008/02/exclusive-interview-stephen-covey-on-his-morning-routine-blogs-technology-gtd-and-the-secret/>`__
+
+    GTD has helped me develop my own idea of what a project really is:
+
+    1. It has more than one physical action.
+    2. Its projected outcome is valuable, desirable, and well
+       articulated (even if it needs to change or adapt as the
+       project’s constraints evolve).
+    3. Everyone involved in the project understands and agrees on the
+       project’s value and desirable outcome (or, failing at that,
+       they at least understand what their role in its envisionable
+       success must be).
+    4. It’s something to which I’ve made some kind of
+       commitment--either a public commitment to others or even just a
+       mental obligation I’ve made with myself. This is something in
+       the world that I agree deserves my time and attention to the
+       exclusion of other things.
+
+    -- Merlin Mann, `A Year of Getting Things Done: Part 1, The Good
+       Stuff
+       <http://www.43folders.com/2004/12/29/a-year-of-getting-things-done-part-1-the-good-stuff>`__
+
+    My definition of “stuff” goes like this: Anything that has landed
+    in your world, psychologically or physically, that doesn’t belong
+    where it is, the way it is, for all eternity, but you haven’t
+    decided what to do with it yet.
+
+    You’ve received a letter ... you’ve opened it, you’ve read it, and
+    that letter is still around.  ...  Why didn’t you throw it away?
+    ...  This letter is now stuff, folks.  That letter does not belong
+    where it is, the way it is, for all eternity in your life, but you
+    haven’t decided what to do with it yet.  It now has a piece of you
+    psychologically.
+
+    -- from `a David Allen video
+       <http://www.youtube.com/watch?v=w-lvJAXZNmE>`__
+
+    One of the core ideas in GTD is that the failing of a
+    priority-based planning system is: it requires an incredible
+    amount of conceit, because it assumes that you’re never going to
+    be interrupted.  When in fact, for almost all of us our entire
+    work day is nothing but interruption.
+
+    ...
+
+    I see GTD in the great pantheon as a subset of lifehacks, and not
+    the other way around.  To me lifehacks are all about making a
+    synaptic leap between the smart part of your brain and the dumb
+    part of your brain.  Forcing these two parts of your brain that
+    would otherwise have nothing to do with each other, forcing them
+    to have a relationship that’s satisfying to everyone.
+
+    ...
+
+    [Your brain] is not an alarm clock, and it’s not a whiteboard.
+    Find affordances for getting stuff into the physical world, into a
+    system you trust, and then making it all about action instead of
+    meta-work.
+
+    ...
+
+    Let’s be honest: multitasking is a myth.  The idea that you can
+    actually do two things at once is a myth.  You *can* change modes
+    very quickly and it *looks* like you’re doing two things at once.
+
+    ...
+
+    “How to become more Dude-like” is an excellent topic.  ...  The
+    Dude had the right approach.
+
+    -- Merlin Mann, `“Know How” talk at IDEO
+       <http://www.43folders.com/2007/10/08/merlin-ideo-talk>`__
+
+    Write it down or write it off.
+
+    -- Eric MacNight, `title of blog post
+       <http://www.goodhabitsgoodstudents.com/blog/?p=38>`__
+
+
+Goodgers & Badgers
+==================
+
+    Millennia ago, the badgers wiped out their peace-loving cousins
+    the goodgers, and now, only the dedicated efforts of the ABC (the
+    Anti-Badger Crusade) have kept them from overwhelming humanity in
+    a tide of striped death.
+
+    Join the ABC today! Keep your children safe from the badger
+    scourge!
+
+    Contact your nearest ABC mission for details.
+
+    -- http://forums.questionablecontent.net/viewtopic.php?t=4090&postdays=0&postorder=asc&start=100&sid=43ea00760329ebba2cc0545831029a64
+
+Here the original text and formatting is left intact and unedited:
+
+    |         Unfine oneday there was two jollifriends, Badger and
+    | Goodger, and one asses an utter “Quit fishing! and hand me
+    | that tart while you’re at it.”
+    |         “That’s a hell of a thing to call someone’s mother and
+    | I’m sure she’s something’s mother or will be or could be.”
+    |         “Metaphysics!” says Badger “I’m talking about pastry -
+    | haven’t you got any and anyway who’s she?”
+    |         “I’m glad you asked. She’s one of my splinter
+    | personalities.”
+    |         “ooo! I didn’t know that about you Goodger what’s that
+    | she’s got all over her?”
+    |         “Rasberry jam, I think, and don’t those seeds itch!”
+    |         “I imagine they do. Mine do too.”
+    |         “Actually, Badger, I think I’m peering my have-a-rod.”
+    |         “Well make up your mind. If that’s not jam, it stinks.
+    | What is this? The ocean?”
+    |         “No, it’s a fairy tale.”
+    |         “The hell it is.”
+    |         “Well after a fashion anyway. But I think that is the
+    | ocean you’re stepping in.”
+    |         “Oh. Maybe that’s what stinks. Well now I wish that
+    | you’d go back to metaphysics, because I’m certainly
+    | not going to have sex with you.”
+    |         “ I wasn’t asking. Have you had a look at your own
+    | nose lately?”
+    |         “Look whose talking!”
+    |         “ Wellokay just a minute I will...”
+    | ....so Goodger went off to a rock concert. He had some doped
+    | cotton candy and went around snapping the elastics on
+    | people’s pantyhose until he got unrested. Badger was stuck
+    | on the beach with this sticky splinter personality who
+    | smiled perfunctorily when Badger asked her anything but had
+    | no suggestions as to what they should do.
+    |         “Maybe we should be like in that poem and look for
+    | oysters.”
+    |         “Don’t look at me!” said the jam-covered unlady and
+    | that was all she said from that time until the 16th
+    | Century, which came back for a visit late that afternoon,
+    | complete with pirates.
+    |         “ I can’t say I dislike the costumes,” said the woman
+    | “but they didn’t believe in schizophrenia back now so I’ll
+    | have to be a devil WOWF!”
+    |         The she-devil chased Badger up and down the beach
+    | until 1952, when some people brought towels and an umbrella
+    | and started to have a picnic.
+    |         “Help! Help!” cried Badger “A woman that my friend
+    | Goodger used to think that he sometimes was has turned into
+    | a devil and...”
+    |         Well you can imagine how this went over on Loose Rocks
+    | Beach in 1952.
+    |         “Are you human?” asked a little girl “Because if you
+    | are you look pretty sick.”
+    |         “Don’t strange to talkers.” said her father. “And for
+    | gawdsake don’t stare. He was probably born that way.”
+    |         “What are you implying?” said Badger, but at that
+    | moment a big paw clapped down on his shoulder. Thinking it
+    | was the she-devil, which in a way it was (for instance he
+    | was in the way of where Mom was going to put the bowl of
+    | fruit salad) -thinking, I say, that it was a succubus,
+    | Badger leaped out of his hair and splashed into the water,
+    | wading for France, where he hoped that it would be 1902 or
+    | sometime quiet.
+    |         “Wait!” cried Goodger, who had got out of prism by
+    | exchanging faces with a dull old card sharp. “Wait! Wait!”
+    | Badger thought that Goodger had said “Wade”, and so he
+    | proceeded to swim just to be perverse. An oyster ate him.
+    | Goodger sighed and chewed on some cotton candy. The little
+    | girl grew up to be mayor of Fleabite, Oregon and the
+    | pirates converted to Sikhs. An End.
+
+    -- http://groups.google.ca/group/alt.non.sequitur/browse_thread/thread/1821d83a46abb19f/c9c216a52ccc6cd7?lnk=st&q=goodger+badger&rnum=1&hl=en
+
+
+By Others, About Me
+===================
+
+These first two were written by my good friend “Fearsclave” in his
+`LiveJournal blog <http://www.livejournal.com/users/fearsclave>`__.
+He uses “EKH” for my initials, weakly encoded [==
+“DJG”.encode(‘rot1’)] to protect my identity.
+
+    I spent the evening visiting my old friend EKH, who is pretty much
+    your average Enlightenment philosopher’s ideal of a good human
+    being whose life is governed by reason.  He has a lovely wife and
+    two perfect kids.  He makes a living doing really arcane things
+    that I do not even begin to understand in Python.  He is the most
+    brilliant person I have ever met in terms of sheer brute abstract
+    reasoning power.  He plays Go at a near-professional level, and is
+    fluent in Japanese.  And he can build houses.  You want to be him.
+    Trust me.  Or at least have him for a friend.
+
+    It occurs to me that this is one area where I have been very
+    lucky.
+
+    -- http://www.livejournal.com/users/fearsclave/253063.html
+
+I feel obligated to correct certain errors in the above:
+
+* I wish my life were governed by reason, but the world is not always
+  reasonable, and neither am I.
+* My children are not perfect, but they’re good kids, `raised well
+  (IMO) <beliefs.html#parenting>`__, and I’m proud of them.
+* I like to think that I’m intelligent, but I don’t know how
+  “brilliant” I am.  I can only assume that Fearsclave has not met so
+  many people with “sheer brute abstract reasoning power”.
+* I play go at about a 1-dan or 2-dan amateur level, hardly
+  near-professional.
+* My Japanese is conversational, but has plenty of holes.  My
+  vocabulary, for example, sucks.
+* I have *helped* my father (who *can* build houses) to build
+  *additions* to houses, and am handy around my own house.
+* You don’t want to be me, believe me.  I have plenty of problems of
+  my own.
+
+But I do appreciate the sentiment.  Right back at ya, man.
+
+----------
+
+    I get married tomorrow.  Yikes.  ...
+
+    Also tomorrow, it’s my de facto niece Erika’s (daughter of my de
+    facto brother EKH) birthday.  She’ll be at the wedding.  I plan on
+    getting everybody to sing Happy Birthday to her.  And sticking
+    candles on her piece of wedding cake.
+
+    -- http://fearsclave.livejournal.com/423243.html
+
+
+`The God Delusion` by Richard Dawkins
+=====================================
+
+`The God Delusion` is a powerful book which contains a lot of truth.
+Humanists, naturalists, `brights <http://the-brights.net/>`_,
+freethinkers, “atheists”, and agnostics will find it a very
+interesting and worthy read.  People “of faith” may find it a
+challenge though—a challenge to their faith.  In fact, I challenge any
+person of faith to read `The God Delusion` with an open mind and to
+try to refute its arguments.  If their faith is entirely unaffected,
+they must be deluding themselves.
+
+There are so many good quotes in this book that I had to make a
+special section for it.  Below, other people quoted in `The God
+Delusion` are identified by name and page number.  Direct quotes of
+Richard Dawkins’ words only show the page number.
+
+    Isn’t it enough to see that a garden is beautiful without having
+    to believe that there are fairies at the bottom of it too?
+
+    -- Douglas Adams, dedication page
+
+    I’d take the awe of understanding over the awe of ignorance any
+    day.
+
+    -- Douglas Adams, p. 117
+
+    Most scientists are bored by what they have already discovered.
+    It is ignorance that drives them on.
+
+    -- Matt Ridley, p. 125
+
+    Mystics exult in mystery and want it to stay mysterious.
+    Scientists exult in mystery for a different reason: it gives them
+    something to do. ... one of the truly bad effects of religion is
+    that it teaches us that it is a virtue to be satisfied with not
+    understanding.
+
+    -- p. 125
+
+    Why is God considered an explanation for anything?  It’s not -
+    it’s a failure to explain, a shrug of the shoulders, an ‘I dunno’
+    dressed up in spirituality and ritual.  If someone credits
+    something to God, generally what it means is that they haven’t a
+    clue, so they’re attributing it to an unreachable, unknowable
+    sky-fairy.  Ask for an explanation of where that bloke came from,
+    and odds are you’ll get a vague, pseudo-philosophical reply about
+    having always existed, or being outside nature.  Which, of course,
+    explains nothing.
+
+    -- “Ben”, from `an entry on his “Religion is Bullshit” blog
+       <http://www.religionisbullshit.net/blog/2005/09/god-did-it-explains-nothing.php>`__,
+       p. 134
+
+    Men never do evil so completely and cheerfully as when they do it
+    from religious conviction.
+
+    -- Blaise Pascal, p. 249
+
+    Religion is excellent stuff for keeping common people quiet.
+
+    -- Napoleon Bonaparte, p. 276
+
+    Religion is regarded by the common people as true, by the wise as
+    false, and by the rulers as useful.
+
+    -- Seneca the Younger, p. 276
+
+    But what is so hard for us to understand is that ... *these people
+    actually believe what they say they believe*.
+
+    -- p. 305
+
+    Those who can make you believe absurdities can make you commit
+    atrocities.
+
+    -- Voltaire, p. 306
+
+    Many people would sooner die than think.  In fact they do.
+
+    -- Bertrand Russel, p. 306
+
+    As long as we accept the principle that religious faith must be
+    respected simply because it is religious faith, it is hard to
+    withhold respect from the faith of Osama bin Laden and the suicide
+    bombers.  The alternative, one so transparent that it should need
+    no urging, is to abandon the principle of automatic respect for
+    religious faith.  This is one reason why I do everything in my
+    power to warn people against faith itself, not just against
+    so-called ‘extremist’ faith.  The teachings of ‘moderate’
+    religion, though not extremist in themselves, are an open
+    invitation to extremism.
+
+    -- p. 306
+
+    More generally (and this applies to Christianity no less than to
+    Islam), what is really pernicious is the practice of teaching
+    children that faith itself is a virtue.  Faith is an evil
+    precisely because it requires no justification and brooks no
+    argument.  Teaching children that unquestioned faith is a virtue
+    primes them — given certain other ingredients that are not hard
+    to come by — to grow up into potentially lethal weapons for
+    future jihads or crusades.
+
+    -- p. 307
+
+    If children were taught to question and think through their
+    beliefs, instead of being taught the superior virtue of faith
+    without question, it is a good bet that there would be no suicide
+    bombers.
+
+    -- p. 308
+
+    Faith can be very very dangerous, and deliberately to implant it
+    into the vulnerable mind of an innocent child is a grievous wrong.
+
+    -- p. 308
+
+    Children, I’ll argue, have a human right not to have their minds
+    crippled by exposure to other people’s bad ideas — no matter who
+    these other people are.  Parents, correspondingly, have no
+    God-given licence to enculturate their children in whatever ways
+    they personally choose: no right to limit the horizons of their
+    children’s knowledge, to bring them up in an atmosphere of dogma
+    and superstition, or to insist they follow the straight and narrow
+    paths of their own faith.
+
+    In short, children have a right not to have their minds addled by
+    nonsense, and we as a society have a duty to protect them from it.
+    So we should no more allow parents to teach their children to
+    believe, for example, in the literal truth of the Bible or that
+    the planets rule their lives, than we should allow parents to
+    knock their children’s teeth out or lock them in a dungeon.
+
+    -- Nicholas Humphrey, p. 326
+
+    I thank my own parents for taking the view that children should be
+    taught not so much *what* to think as *how* to think.  If, having
+    been fairly and properly exposed to all the scientific evidence,
+    they grow up and decide that the Bible is literally true or that
+    the movements of the planets rule their lives, that is their
+    privilege.  The important point is that it is *their* privilege to
+    decide what they shall think, and not their parents’ privilege to
+    impose it by *force majeure*.  And this, of course, is especially
+    important when we reflect that children become the parents of the
+    next generation, in a position to pass on whatever indoctrination
+    may have moulded them.
+
+    -- p. 327
+
+    What can be more soul shaking than peering through a 100-inch
+    telescope at a distant galaxy, holding a 100-million-year-old
+    fossil or a 500,000-year-old stone tool in one’s hand, standing
+    before the immense chasm of space and time that is the Grand
+    Canyon, or listening to a scientist who gazed upon the face of the
+    universe’s creation and did not blink?  That is deep and sacred
+    science.
+
+    -- Michael Shermer, p. 345
+
+    I believe that when I die I shall rot, and nothing of my ego will
+    survive.  I am not young and I love life.  But I should scorn to
+    shiver with terror at the thought of annihilation.  Happiness is
+    nonetheless true happiness because it must come to an end, nor do
+    thought and love lose their value because they are not
+    everlasting.  Many a man has borne himself proudly on the
+    scaffold; surely the same pride should teach us to think truly
+    about man’s place in the world.  Even if the open windows of
+    science at first make us shiver after the cosy indoor warmth of
+    traditional humanizing myths, in the end the fresh air brings
+    vigour, and the great spaces have a splendour of their own.
+
+    -- Bertrand Russell (1925 essay “What I Believe”), p. 354:
+
+    If your pet is dying in pain, you will be condemned for cruelty if
+    you do not summon the vet to give him a general anaesthetic from
+    which he will not come round.  But if your doctor performs exactly
+    the same merciful service for you when you are dying in pain, he
+    runs the risk of being prosecuted for murder.  When I am dying, I
+    should like my life to be taken out under a general anaesthetic,
+    exactly as if it were a diseased appendix.  But I shall not be
+    allowed that privilege, because I have the ill-luck to be born a
+    member of *Homo sapiens* rather than, for example, *Canis
+    familiaris* or *Felis catus*.  At least, that will be the case
+    unless I move to a more enlightened place like Switzerland, the
+    Netherlands or Oregon.  Why are such enlightened places so rare?
+    Mostly because of the influence of religion.
+
+    -- p. 357
+
+    As many atheists have said better than me, the knowledge that we
+    have only one life should make it all the more precious.  The
+    atheist view is correspondingly life-affirming and life-enhancing,
+    while at the same time never being tainted with self-delusion,
+    wishful thinking, or the whingeing self-pity of those who feel
+    that life owes them something.
+
+    -- p. 361
+
+    | That it will never come again
+    | Is what makes life so sweet.
+
+    -- Emily Dickinson, p. 361
+
+    Now, my own suspicion is that the universe is not only queerer
+    than we suppose, but queerer than we can suppose ... I suspect
+    that there are more things in heaven and earth than are dreamed
+    of, or can be dreamed of, in any philosophy.
+
+    -- J. B. S. Haldane, p. 364
+
+    The fact that we live at the bottom of a deep gravity well, on the
+    surface of a gas-covered planet going around a nuclear fireball
+    ninety million miles away and think this to be *normal* is
+    obviously some indication of how skewed our perspective tends to
+    be.
+
+    -- Douglas Adams, p. 364
+
+    ‘Tell me,’ the great twentieth-century philosopher Ludwig
+    Wittgenstein once asked a friend, ‘why do people always say it was
+    natural for man to assume that the sun went round the Earth rather
+    than that the Earth was rotating?’ His friend replied, ‘Well,
+    obviously because it just looks as though the Sun is going round
+    the Earth.’ Wittgenstein responded, ‘Well, what would it have
+    looked like if it had looked as though the Earth was rotating?’ I
+    sometimes quote this remark of Wittgenstein in lectures, expecting
+    the audience to laugh.  Instead, they seem stunned into silence.
+
+    -- p. 367
+
+    Science flings open the narrow window through which we are
+    accustomed to viewing the spectrum of possibilities.  We are
+    liberated by calculation and reason to visit regions of
+    possibility that had once seemed out of bounds or inhabited by
+    dragons.
+
+    -- p. 374
+
+    I genuinely don’t know the answer, but I am thrilled to be alive
+    at a time when humanity is pushing against the limits of
+    understanding.  Even better, we may eventually discover that there
+    are no limits.
+
+    -- p. 374 (the conclusion to the main text)
+
+
+`The Demon-Haunted World` by Carl Sagan
+=======================================
+
+Below, other people quoted in `The Demon-Haunted World` are identified
+by name and page number.  Direct quotes of Carl Sagan’s words only
+show the page number.
+
+    All our science, measured against reality, is primitive and
+    childlike—and yet it is the most precious thing we have.
+
+    -- Albert Einstein, p. 2
+
+    Skepticism does not sell well.
+
+    -- p. 5
+
+    Men think epilepsy divine, merely because they do not understand
+    it.  But if they called everything divine which they do not
+    understand, why, there would be no end of divine things.
+
+    -- Hippocrates, p. 8
+
+    Leave nothing to chance.  Overlook nothing.  Combine contradictory
+    observations.  Allow yourself enough time.
+
+    -- Hippocrates, p. 8
+
+    It is far better to grasp the universe as it really is than to
+    persist in delusion, however satisfying and reassuring.
+
+    -- p. 12
+
+    Except for hydrogen, all the atoms that make each of us up—the
+    iron in our blood, the calcium in our bones, the carbon in our
+    brains—were manufactured in red giant stars thousands of
+    light-years away in space and billions of years ago in time.  We
+    are, as I like to say, starstuff.
+
+    -- p. 14
+
+    Religions are often the state-protected nurseries of pseudoscience.
+
+    -- p. 15
+
+    Science is far from a perfect instrument of knowledge.  It is just
+    the best we have.  In this respect, as in many others, it’s like
+    democracy.  Science by itself cannot advocate courses of human
+    action, but it can certainly illuminate the possible consequences
+    of alternative courses of action.
+
+    The scientific way of thinking is at once imaginative and
+    disciplined.  This is central to its success.  Science invites us
+    to let the facts in, even when they don’t conform to our
+    preconceptions.  It counsels us to carry alternative hypotheses in
+    our heads and see which best fits the facts.  It urges on us a
+    delicate balance between no-holds-barred openness to new ideas,
+    however heretical, and the most rigorous skeptical scrutiny of
+    everything—new ideas and established wisdom.  This kind of
+    thinking is also an essential tool for a democracy in an age of
+    change.
+
+    One of the reasons for its success is that science has built-in,
+    error-correcting machinery at its very heart.  Some may consider
+    this an overbroad characterization, but to me every time we
+    exercise self-criticism, every time we test our ideas against the
+    outside world, we are doing science.  When we are self-indulgent
+    and uncritical, when we confuse hopes and facts, we slide into
+    pseudoscience and superstition.
+
+    Every time a scientific paper presents a bit of data, it’s
+    accompanied by an error-bar—a quiet but insistent reminder that
+    no knowledge is complete or perfect.  It’s a calibration of how
+    much we trust what we think we know.  If the error bars are small,
+    the accuracy of our empirical knowledge is high; if the error bars
+    are large, then so is the uncertainty in our knowledge.  Except in
+    pure mathematics, nothing is known for certain (although much is
+    certainly false).
+
+    Moreover, scientists are usually careful to characterize the
+    veridical status of their attempts to understand the
+    world—ranging from conjectures and hypotheses, which aer highly
+    tentative, all the way up to laws of Nature which are repeatedly
+    and systematically confirmed through many interrogations of how
+    the world works.  But even laws of Nature are not absolutely
+    certain.  There may be new circumstances never before
+    examined—inside black holes, say, or within the electron, or
+    close to the speed of light—where even our vaunted laws of
+    Nature break down and, however valid they may be in ordinary
+    circumstances, need correction.
+
+    Humans may crave absolute certainty; they may aspire to it; they
+    may pretend, as partisans of certain religions do, to have
+    attained it.  But the history of science—by far the most
+    successful claim to knowledge accessible to humans—teaches that
+    the most we can hope for is successive improvement in our
+    understanding, learning from our mistakes, an asymptotic approach
+    to the Universe, but with the proviso that absolute certainty will
+    always elude us.
+
+    -- p. 27-28
+
+    Despite usage to the contrary, there is no necessary implication
+    in the word “spiritual” that we are talking of anything other than
+    matter (including the matter of which the brain is made), or
+    anything outside the realm of science.  ...  Science is not only
+    compatible with spirituality; it is a profound source of
+    spirituality.
+
+    -- p. 29
+
+    Science may be hard to understand.  It may challenge cherished
+    beliefs.  When its products are placed at the disposal of
+    politicians or industrialists, it may lead to weapons of mass
+    destruction and grave threats to the environment.  But one thing
+    you have to say about it: It delivers the goods.
+
+    -- p. 30
+
+    Think of how many religions attempt to validate themselves with
+    prophecy.  Think of how many people rely on the prophecies,
+    however vague, however unfulfilled, to support or prop up their
+    beliefs.  Yet has there ever been a religion with the prophetic
+    accuracy and reliability of science?  There isn’t a religion on
+    the planet that doesn’t long for a comparable ability—precise,
+    and repeatedly demonstrated before committed skeptics—to
+    foretell future events.  No other human institution comes close.
+
+    -- p. 30
+
+    Valid criticism does you a favor.
+
+    -- p. 32
+
+    Science, Ann Druyan notes, is forever whispering in our ears,
+    “Remember, you’re very new at this.  You might be mistaken.
+    You’ve been wrong before.”  Despite all the talk of humility, show
+    me something comparable in religion.  Scripture is said to be
+    divinely inspired—a phrase with many meanings.  But what if it’s
+    simply made up by fallible humans?  Miracles are attested, but
+    what if they’re instead some mix of charlatanry, unfamiliar states
+    of consciousness, misapprehensions of natural phenomena, and
+    mental illness?  No contemporary religion and no New Age belief
+    seems to me to take sufficient account of the grandeur,
+    magnificence, subtlety and intricacy of the Universe revealed by
+    science.  The fact that so little of the findings of modern
+    science is prefigured in Scripture to my mind casts further doubt
+    on its divine inspiration.
+
+    But of course I might be wrong.
+
+    -- p. 35
+
+    The difference between physics and metaphysics, [Robert W.] Wood
+    concluded as he raised his glass high, is not that the
+    practitioners of one are smarter than the practitioners of the
+    other.  The difference is that the metaphysicist has no
+    laboratory.
+
+    -- p. 37
+
+    An extraterrestrial being, newly arrived on Earth—scrutinizing
+    what we mainly present to our children in television, radio,
+    movies, newspapers, magazines, the comics, and many books—might
+    easily conclude that we are intent on teaching them murder, rape,
+    cruelty, superstition, credulity, and consumerism.  We keep at it,
+    and through constant repetition many of them finally get it.  What
+    kind of society could we create if, instead, we drummed into them
+    science and a sense of hope?
+
+    -- p. 39
+
+    There are wonders enough out there without our inventing any.
+
+    -- p. 59
+
+    Those who have something to sell, those who wish to influence
+    public opinion, those in power, a skeptic might suggest, have a
+    vested interest in discouraging skepticism.
+
+    -- p. 77
+
+    Special cautions are necessary when the stakes are high.  We are
+    not obliged to make up our minds before the evidence is in.  It’s
+    permitted not to be sure.
+
+    -- p. 180
+
+    I’m frequently asked, “Do you believe there’s extraterrestrial
+    intelligence?”  I give the standard arguments—there are a lot of
+    places out there, the molecules of life are everywhere, I use the
+    word *billions*, and so on.  Then I say it would be astonishing to
+    me if there weren’t extraterrestrial intelligence, but of course
+    there is as yet no compelling evidence for it.
+
+    Often, I’m asked next, “What do you really think?”
+
+    I say, “I just told you what I really think.”
+
+    “Yes, but what’s your gut feeling?”
+
+    But I try not to think with my gut.  If I’m serious about
+    understanding the world, thinking with anything besides my brain,
+    as tempting as that might be, is likely to get me into trouble.
+    Really, it’s okay to reserve judgment until the evidence is in.
+
+    -- p. 180
+
+    Keeping an open mind is a virtue, but not so open that your brains
+    fall out.
+
+    -- James Oberg, p. 187
+
+    Better the hard truth, I say, than the comforting fantasy.
+
+    -- p. 204
+
+    Gullibility kills.
+
+    -- p. 218
+
+    Those who invalidate reason ought seriously to consider whether
+    they argue against reason with or without reason; if with reason,
+    then they establish the principles that they are laboring to
+    dethrone: but if they argue without reason (which, in order to be
+    consistent with themselves they must do), they are out of reach of
+    rational conviction, nor do they deserve a rational argument.
+
+    -- Ethan Allen, p. 255
+
+    We are all flawed and creatures of our times.
+
+    -- p. 259
+
+    Ignorance more frequently begets confidence than does knowledge:
+    it is those who know little, and not those who know much, who so
+    positively assert that this or that problem will never be solved
+    by science.
+
+    -- Charles Darwin, Introduction, `The Descent of Man`, 1871
+
+    Nature free at once and rid of her haughty lords is seen to do all
+    things spontaneously of herself without the meddling of the gods.
+
+    -- Lucretius, p. 310
+
+    In a world in transition, students and teachers both need to teach
+    themselves one essential skill—learning how to learn.
+
+    -- p. 321
+
+    Or we might say: “I don’t know the answer.  Maybe no one knows.
+    Maybe when you grow up, you’ll be the first person to find out.”
+
+    -- p. 323
+
+    If you accept the literal truth of every word of the Bible, then
+    the Earth must be flat.  The same is true for the Qu’ran.
+    Pronouncing the Earth round then means you’re an atheist.
+
+    -- p. 325
+
+    We must not believe the many, who say that only free people ought
+    to be educated, but we should rather believe the philosophers who
+    say that only the educated are free.
+
+    -- Epictetus, Roman philosopher and former slave, `Discourses`
+
+    Free thought is a necessary, but not a sufficient, condition for
+    democracy.
+
+    -- p. 417
+
+    It is not the function of our government to keep the citizen from
+    falling into error; it is the function of the citizen to keep the
+    government from falling into error.
+
+    -- U.S. Supreme Court Justice Robert H. Jackson, 1950
+
+    The cost of education is trivial compared to the cost of ignorance.
+
+    -- Thomas Jefferson, p. 427
+
+    In the demon-haunted world that we inhabit by virtue of being
+    human, [the scientific method] may be all that stands between us
+    and the enveloping darkness.
+
+    -- p. 434
+
+
+.. _`Procrastinators Handbook`:
+
+`The Procrastinator’s Handbook` by Rita Emmett
+==============================================
+
+Below, other people quoted in `The Procrastinator’s Handbook` are
+identified by name and page number.  Direct quotes of Rita Emmett’s
+words only show the page number.
+
+    Emmett’s Law: The dread of doing a task uses up more time and
+    energy than doing the task itself.
+
+    -- p. 9
+
+    Life is difficult.
+
+    -- Scott Peck, `The Road Less Traveled`, p. 13
+
+    We do not stop playing because we grow old; we grow old because we
+    stop playing.
+
+    -- Benjamin Franklin, p. 28
+
+    You will never *find* time for anything.  If you want time, you
+    must *make* it.
+
+    -- Charles Buxton, p. 28
+
+    Unless each day can be looked back upon by an individual as one in
+    which he has had some fun, some joy, some real satisfaction, that
+    day is a loss.
+
+    -- Dwight D. Eisenhower, p. 29
+
+    Rest is not idleness, and to lie sometimes on the grass under the
+    trees on a summer’s day, listening to the murmur of water, or
+    watching the clouds float across the sky, is by no means a waste
+    of time.
+
+    -- Sir J. Lubbock, p. 29
+
+    | In creating, the hardest part is
+    | To begin.
+
+    -- Anonymous, p. 29
+
+    | Tomorrow’s fate, though thou be wise,
+    | Thou canst not tell nor yet surmise;
+    | Pass, therefore, not today in vain,
+    | For it will never come again.
+
+    -- Omar Khayyam, p. 29
+
+    What ever the mind of man can conceive and believe, it can achieve.
+
+    -- Napoleon Hill, p. 36
+
+    Nothing is so fatiguing as the eternal hanging on of an
+    uncompleted task.
+
+    -- William James, p. 45
+
+    Whether you think you can or you think you can’t, you’re right!
+
+    -- Henry Ford, p. 45
+
+    Time is not measured by the passing of years, but by what one
+    does, what one feels, and what one achieves.
+
+    -- Jawaharlal Nehru, p. 45
+
+    Remember that lost time does not return.
+
+    -- Thomas a Kempis, p. 46
+
+    Time wasted is existence; time used is life.
+
+    -- Edward Young, p. 46
+
+    | Success breeds success.
+    | Failure breeds failure.
+
+    -- p. 57
+
+    Anyone can do any amount of work, provided it isn’t the work he or
+    she is supposed to be doing at the moment.
+
+    -- Robert Benchley, p. 62
+
+    Beware the barrenness of a too busy life.
+
+    -- Socrates, p. 63
+
+    It’s not hard to make decisions when you know what your values
+    are.
+
+    -- Roy Disney, p. 63
+
+    Don’t put off for tomorrow what you can do today, because if you
+    enjoy it today you can do it again tomorrow.
+
+    -- James A. Michener, p. 63
+
+    Procrastination is opportunity’s natural assassin.
+
+    -- Victor Kiam, p. 63
+
+    | Lost, yesterday,
+    | somewhere between sunrise and sunset,
+    | two golden hours,
+    | each set with sixty diamond minutes.
+    | No reward is offered
+    | for they are gone forever.
+
+    -- Horace Mann, p. 63
+
+    Emmett’s Second Law: Obsession with perfection is the downfall of
+    procrastinators.
+
+    -- p. 69
+
+    The person who never makes a mistake probably isn’t doing anything.
+
+    -- p. 77
+
+    A man would do nothing if he waited until he could do it so well
+    that no one could find fault.
+
+    -- Cardinal John Henry Newman, p. 95
+
+    When you aim for perfection you discover it’s a moving target.
+
+    -- George Fisher, p. 95
+
+    There is no perfect time to write.  There’s only now.
+
+    -- Barbara Kingsolver, p. 95
+
+    We should not let our fears hold us back from pursuing our hopes.
+
+    -- John F. Kennedy, p. 95
+
+    What you are afraid to do is a clear indication of the next thing
+    you need to do.
+
+    -- Ralph Waldo Emerson, p. 96
+
+    Security is mostly a superstition.  It does not exist in nature.
+    Life is either a daring adventure or nothing.
+
+    -- Helen Keller, p. 96
+
+    | Though right or wrong you’re bound to find
+    | Relief in making up your mind
+
+    -- Thornton Burgess, p. 96
+
+    | In any moment of decision,
+    | the very best thing you can do, is what is right;
+    | the next best thing you can do, is what is wrong;
+    | the worst thing you can do is NOTHING.
+
+    -- Theodore Roosevelt, p. 96
+
+    Oh, I’ve had my moments, and if I had it to do over again, I’d
+    have more of them.  In fact, I’d try to have nothing else.
+
+    If I had it to do again, I would travel lighter next time.
+
+    -- Nadine Stair, p. 98
+
+    Is it possible that being busy is the new status symbol of our
+    age?
+
+    -- p. 100
+
+    If you can spend a perfectly useless afternoon in a perfectly
+    useless manner, you have learned how to live.
+
+    -- Lin Yutang, p. 108
+
+    It’s easy to say “no” when there’s a deeper “yes!” burning inside.
+
+    -- Stephen R. Covey, p. 109
+
+    Time is the stuff of which life is made.
+
+    -- Benjamin Franklin, p. 109
+
+    Sometimes you must slow down to go faster.
+
+    -- Ann McGee Cooper, p. 109
+
+    A journey of 10,000 miles begins with but a single step.
+
+    -- Chinese proverb, p. 114
+
+    If certain things in your life are always hard to find, it’s
+    probably because they don’t have their own special place.
+
+    -- p. 119
+
+    At any given time we are actually the best we can be at that time.
+
+    -- Wayne Dyer, p. 132
+
+    The person who wastes today lamenting yesterday will waste
+    tomorrow lamenting today.
+
+    -- Philip M. Raskin, p. 132
+
+    Here is a test to find whether your mission on earth is
+    finished—if you’re alive, it isn’t.
+
+    -- Richard Bach, p. 132
+
+    The really unhappy people are the ones who leave undone what they
+    can do, and start doing what they don’t understand; no wonder they
+    come to grief.
+
+    -- Johann Wolfgang von Goethe, p. 132
+
+    I’d rather be a failure at something I love than a success at
+    something I hate.
+
+    -- George Burns, p. 132
+
+    Success is never final, failure is never fatal; it is courage that
+    counts.
+
+    -- Winston Churchill, p. 133
+
+    Even if you’re on the right track, you’ll get run over if you just
+    sit there.
+
+    -- Will Rogers, p. 133
+
+    | If you fail to plan,
+    | You plan to fail.
+
+    -- p. 144
+
+    By recording your dreams and goals on paper, you set in motion the
+    process of becoming the person you most want to be.
+
+    -- Mark Victor Hansen, p. 146
+
+    The indispensable first step to getting the things you want out of
+    life is this: Decide what you want.
+
+    -- Ben Stein, p. 146
+
+    You must have long-range goals to keep you from being frustrated
+    by short-range failures.
+
+    -- Charles C. Noble, p. 147
+
+    Handle each piece of paper only once.
+
+    -- Alan Lakein, p. 150
+
+    Life, is not a having and a getting, but a being and a becoming.
+
+    -- Myrna Loy, p. 174
+
+    Not what we have, but what we enjoy, constitutes our abundance.
+
+    -- John Petit-Senn, p. 175
+
+    You must do the thing you think you cannot do.
+
+    -- Eleanor Roosevelt, p. 175
+
+    Motivation is when your dreams put on work clothes.
+
+    -- Hal Roach, p. 192
+
+    | Regret for the things we DID can be tempered by time;
+    | it is regret for the things we did NOT do that is inconsolable.
+
+    -- Sydney J. Harris, p. 193
+
+    A man in debt is so far a slave.
+
+    -- Ralph Waldo Emerson, p. 193
+
+    Never spend your money before you have it.
+
+    -- Thomas Jefferson, p. 193
+
+    Once you make a decision, the universe conspires to make it
+    happen.
+
+    -- Ralph Waldo Emerson, p. 193
+
+    | For of all sad words
+    |   of tongue or pen,
+    | The saddest are these,
+    |   “It might have been.”
+
+    -- John Greenleaf Whittier, p. 195
+
+    Live each day as if it were your last ... and one day you’ll be
+    right!
+
+    -- Hal Roach, p. 198
+
+    | I shall be telling this with a sigh
+    | Somewhere ages and ages hence:
+    | Two roads diverged in a wood, and I—
+    | I took the one less traveled by,
+    | And that has made all the difference.
+
+    -- from Robert Frost, “The Road Not Taken”; p. 211
+
+    Goals are dreams with a deadline.
+
+    -- Dottie Walters

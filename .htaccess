@@ -1,0 +1,16 @@
+RedirectMatch permanent (/crew/|/~)goodger/cv/(.*) http://python.net/~goodger/professional/cv/$2
+
+Redirect permanent /crew/goodger/dvds.html http://python.net/~goodger/personal/dvds.html
+Redirect permanent /~goodger/dvds.html http://python.net/~goodger/personal/dvds.html
+
+Redirect permanent /crew/goodger/rubik/ http://python.net/~goodger/personal/rubik/
+Redirect permanent /~goodger/rubik/ http://python.net/~goodger/personal/rubik/
+
+Redirect permanent /crew/goodger/osx.html http://python.net/~goodger/professional/osx.html
+Redirect permanent /~goodger/osx.html http://python.net/~goodger/professional/osx.html
+
+Redirect permanent /crew/goodger/emacs http://python.net/~goodger/projects/emacs
+Redirect permanent /~goodger/emacs http://python.net/~goodger/projects/emacs
+
+Redirect permanent /crew/goodger/personal/dvd-wish-list.html http://python.net/~goodger/personal/wish-list.html#dvds
+Redirect permanent /~goodger/personal/dvd-wish-list.html http://python.net/~goodger/personal/wish-list.html#dvds

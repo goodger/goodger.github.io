@@ -1,0 +1,54 @@
+=================================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__ -- Day 4
+=================================================================
+
+-----------------------------------
+ Sprint Day 4 -- Tuesday, March 23
+-----------------------------------
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+Met two fellow PyConeers at the hostel at breakfast: Tamer Fahmy of
+Austria, and Andrew Gaul of the USA.  We walked down to GWU together.
+When I introduced myself, I was asked my area of interest.  I answered
+"Docutils," and Andrew said something like, "Oh, right!  You're
+famous!"  In a very small circle, perhaps.
+
+Today was the last day of the `Docutils sprint`_.  As on each of the
+previous days, I did an architecture & code walk-through and then
+hacking continued.  In addition to hacking, we formed a human assembly
+line and stuffed tote bags.  Most of the sprinters present registered
+and received their totes and T-shirts.  As a PyCon volunteer, I
+received a second, black "Event Staff" shirt.  Good thing, too; I'd
+planned it that way.  Brought only 6 shirts for an 8-night stay.
+
+Lloyd Kvam joined the Docutils sprint today, and worked on `The
+Docutils Document Tree <http://docutils.sf.net/spec/doctree.html>`__
+document.  (How many times can *you* say "doc" in a single sentence?)
+Reggie completed the fragment/publish_parts API.  Matt, Ed & Bill,
+Aahz, and Ian all made progress.  It's been a fun, productive four
+days.
+
+Laura Creighton offered some advice.  She and Jacob Hallen hadn't been
+able to devote a lot of time to the sprint, but would have had there
+been a collection of smaller tasks (bug fixes, tests, docs, etc.)
+prepared beforehand.  Valid point; I'll have to take that into account
+if and when I do another sprint.
+
+Around 7pm, Laura, Jacob, Armin Rigo, and I headed out to Georgetown
+for dinner at `Makoto
+<http://www.epicurious.com/erg/dc/makoto.html>`__, a tiny Japanese
+restaurant.  Laura's treat.  It turns out that back when she wrote me
+several times asking for reST help, it was regarding the PyPy spec
+draft she was writing, and she felt she owed me a meal.  The meal was
+excellent, 8 or 10 courses (lost count): sashimi, sushi, yakimono,
+soup, on and on.
+
+We took a bus back, and I transferred up to Adams-Morgan.  Gotta get
+up early tomorrow -- manning the registration desk at 8am.
+
+* next: `Day 5 -- Conference Day 1 -- Wednesday, March 24 <day_5.html>`__
+* up: `Contents <./>`__
+
+.. _Docutils sprint: http://www.python.org/cgi-bin/moinmoin/DocutilsSprint

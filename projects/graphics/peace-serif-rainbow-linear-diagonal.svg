@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   width="595.28000pt"
+   height="841.88975pt"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.40"
+   sodipodi:docbase="/Users/david/graphics/peace"
+   sodipodi:docname="peace-serif-rainbow-linear-diagonal.svg"
+   inkscape:export-filename="/Users/david/graphics/peace/peace-serif-rainbow-linear-diagonal.png"
+   inkscape:export-xdpi="72.000000"
+   inkscape:export-ydpi="72.000000"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient2523"
+       x1="0.15000001"
+       x2="0.85000002"
+       y1="0.15000001"
+       y2="0.85000002">
+      <stop
+         offset="0.0000000"
+         style="stop-color:#ff0000;stop-opacity:1.0000000;"
+         id="stop2530" />
+      <stop
+         offset="0.16599999"
+         style="stop-color:#ffa500;stop-opacity:1.0000000;"
+         id="stop2529" />
+      <stop
+         offset="0.33300000"
+         style="stop-color:#ffff00;stop-opacity:1.0000000;"
+         id="stop2528" />
+      <stop
+         offset="0.50000000"
+         style="stop-color:#00ff00;stop-opacity:1.0000000;"
+         id="stop2527" />
+      <stop
+         offset="0.66600001"
+         style="stop-color:#00ffff;stop-opacity:1.0000000;"
+         id="stop2526" />
+      <stop
+         offset="0.83333331"
+         style="stop-color:#0000ff;stop-opacity:1.0000000;"
+         id="stop2525" />
+      <stop
+         offset="0.89999998"
+         style="stop-color:#6000ff;stop-opacity:1.0000000;"
+         id="stop2524" />
+      <stop
+         offset="1.0000000"
+         style="stop-color:#8000ff;stop-opacity:1.0000000;"
+         id="stop2531" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient2523"
+       id="radialGradient2560"
+       cx="354.33072"
+       cy="875.19684"
+       fx="354.33072"
+       fy="890.00000"
+       r="70.866142"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6973608"
+     inkscape:cx="283.46458"
+     inkscape:cy="141.73227"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1148"
+     inkscape:window-height="820"
+     inkscape:window-x="4"
+     inkscape:window-y="22"
+     gridspacingx="2.5000000mm"
+     gridspacingy="2.5000000mm"
+     inkscape:grid-points="false" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title
+           id="title1833">Rainbow Peace Symbol (linear, serif)</dc:title>
+        <dc:date
+           id="date1835">2005-02-04</dc:date>
+        <dc:creator
+           id="creator1837">
+          <cc:Agent
+             id="Agent1838">
+            <dc:title
+               id="title1839">David Goodger &lt;goodger@python.org&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           id="license1845"
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:subject
+           id="subject1095">
+          <rdf:Bag
+             id="Bag1096">
+            <rdf:li
+               id="li1205">peace</rdf:li>
+            <rdf:li
+               id="li1207">symbol</rdf:li>
+            <rdf:li
+               id="li1209">rainbow</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain"
+         id="License1846">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction"
+           id="permits1847" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution"
+           id="permits1848" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
+           id="permits1849" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="fill-opacity:1.0;fill:url(#radialGradient2560);">
+    <path
+       id="path1997"
+       style="fill:url(#linearGradient2523);fill-rule:nonzero;stroke:#000000;stroke-width:0.62500000;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000;stroke-dasharray:none;stroke-linecap:butt;marker-start:none;marker-mid:none;marker-end:none;"
+       d="M 425.19686,875.19683 C 425.19686,914.31494 393.44882,946.06298 354.33071,946.06298 C 315.21260,946.06298 283.46457,914.31494 283.46457,875.19683 C 283.46457,836.07872 315.21260,804.33069 354.33071,804.33069 C 393.44882,804.33069 425.19686,836.07872 425.19686,875.19683 z M 345.46875,917.40939 C 345.46875,904.78578 345.46875,906.20369 345.46875,901.91723 C 342.35937,905.02661 344.73497,902.65101 335.26303,912.12295 C 329.95966,917.42632 330.06242,922.07089 335.72012,924.96500 C 341.31272,927.82582 345.46875,923.45104 345.46875,917.40939 z M 321.39844,900.78906 L 345.46875,876.71875 C 345.46875,876.71875 345.44580,859.26860 345.68815,836.35938 C 345.77740,827.92303 343.67828,822.48208 336.36635,825.28851 C 333.46549,826.40190 330.63719,827.63965 327.97649,829.16278 C 322.65508,832.20902 317.91167,836.14812 313.95219,840.77642 C 306.03323,850.03303 301.25000,862.04645 301.25000,875.18750 C 301.25000,881.58058 302.39656,887.69736 304.48547,893.36061 C 305.52992,896.19223 306.66289,899.00110 308.30006,901.49317 C 309.13196,902.75948 312.58080,909.38731 321.39844,900.78906 z M 387.48136,900.78751 C 396.29900,909.38576 399.74784,902.75793 400.57974,901.49162 C 402.21691,898.99955 403.34988,896.19068 404.39433,893.35906 C 406.48324,887.69581 407.62980,881.57903 407.62980,875.18595 C 407.62980,862.04490 402.84657,850.03148 394.92761,840.77487 C 390.96813,836.14657 386.22472,832.20747 380.90331,829.16123 C 378.24261,827.63810 375.41431,826.40035 372.51345,825.28696 C 365.20152,822.48053 363.10240,827.92148 363.19165,836.35783 C 363.43400,859.26705 363.41105,876.71720 363.41105,876.71720 L 387.48136,900.78751 z M 363.18750,917.40939 C 363.18750,923.45104 367.34353,927.82582 372.93613,924.96500 C 378.59383,922.07088 378.69659,917.42632 373.39322,912.12295 C 363.92128,902.65101 366.29688,905.02661 363.18750,901.91723 C 363.18750,906.20369 363.18750,904.78578 363.18750,917.40939 z " />
+  </g>
+</svg>

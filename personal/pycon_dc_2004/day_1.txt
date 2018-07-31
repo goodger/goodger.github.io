@@ -1,0 +1,76 @@
+=================================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__ -- Day 1
+=================================================================
+
+------------------------------------
+ Sprint Day 1 -- Saturday, March 20
+------------------------------------
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+Woke up around 6:20 without an alarm.  Pretty good, considering that
+last night, somebody started a party nearby with loud, booming
+reggae/dance music.  Earplugs to the rescue.
+
+Showered, changed and ate -- hostel-provided toast & jelly and fake
+orange juice.  Brushed my teeth and set off for `George Washington
+University <http://www.gwu.edu/>`__.
+
+The city is very quiet at 7:20am on a Saturday.  The walk took me
+about 35 minutes, over 3 kilometers (2 miles).  It's warmer today; I
+could open my jacket and didn't really need my gloves or hat.
+
+Arrived at the `Cafritz Conference Center
+<http://gwired.gwu.edu/cafritz/>`__ just before 8am.  A few people
+were already there -- Michael McLay, Ted Leung, Brian Dorsey, and Bill
+Sconce.  I helped set up the tables, extension cords, and network
+cables.  People trickled in over the morning, becoming a good-size
+group.  I met the (former) PythonLabs crew: Barry Warsaw, Fred Drake,
+Guido van Rossum, Jeremy Hylton, and Tim Peters.
+
+The `Docutils sprint`_ began with Oliver Rutherfurd and Matt Gilbert.
+I did a walk-through of the architecture & the code, beginning with
+`PEP 258's block diagram
+<http://docutils.sf.net/spec/pep-0258.html#docutils-project-model>`__.
+Soon more people arrived though, including Aahz, Fred Drake, Bill
+Sconce, Steve Holden (our most esteemed conference organizer), and Ian
+Bicking.  Oliver began working on his DocBook writer, Matt & Fred on
+MoinMoin integration, Steve & Bill on a DocPy/LaTeX writer, Aahz on a
+FrameMaker writer and generic stylesheet ideas, and Ian on the Python
+Source reader.  Andrew Kuchling joined us in the afternoon to write a
+directive for the ABC music language.  We transferred lots of
+knowledge and made some progress on the code.
+
+Around 1pm lunch discussions began.  Aahz forced the issue by standing
+up and saying something like, "Anybody who wants lunch stand up; let's
+go."  We ate at a Thai place on Pennsylvania Avenue.  Very nice.  Then
+back to the sprint.
+
+Although I own a laptop, I didn't bring it to the conference for
+several reasons.  My wife is working on a project and needs it; I
+didn't want to have to worry about breaking it or having it stolen;
+and I figured as sprint coach I ought not to be concentrating on my
+own code, but on the sprinters'.  That last reason turned out to be
+the most significant.  My lack of computer meant that I was an
+accessible consultant to all.  I'd recommend this strategy to future
+sprint coaches.
+
+Sprinters started taking their leave in the afternoon.  Ian and I were
+the last in our sprint room; we left at 6:30pm, asking the 15 or so
+people in the other room to have building management lock the doors.
+
+Ian and I took a walk through the city, up to Adams-Morgan, where I'm
+staying.  We had dinner at a Middle Eastern restaurant at the corner
+of 18th and Florida -- not bad at all, spicy & cheap.  We walked
+through the Saturday evening crowds, but neither of us being clubbers,
+did not join in.  I left him at the Woodley Park-Zoo metro station,
+with its long, looooooong escalators.  I returned to WISC, taking the
+scening route, and found a good deal at the local Blockbuster store.
+
+Back at WISC now, writing this up.  Think I'll turn in early tonight.
+
+* next: `Day 2 -- Sprint Day 2 -- Sunday, March 21 <day_2.html>`__
+* up: `Contents <./>`__
+
+.. _Docutils sprint: http://www.python.org/cgi-bin/moinmoin/DocutilsSprint

@@ -1,0 +1,89 @@
+.. -*- coding: utf-8 -*-
+
+=============
+ Conferences
+=============
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `PyCon <../pycon/>`__
+
+   * `Python <../python/>`__
+
+   * `David Goodger’s Projects <../>`__
+
+   * `My home page <../../>`__
+
+Here is a list of talks and tutorails I have presented at various
+conferences over the years.
+
+.. contents::
+
+.. Note:: If there is no link from a talk or tutorial presentation
+   below, or no link to a particular format, it means that I do not
+   have files for that presentation.  Please do not write to ask for
+   them, because **they do not exist!** If I do prepare files, I will
+   post them here.
+
+
+PyCon
+=====
+
+I have been particularly involved with PyCon_, the annual U.S. Python
+community conference, so `my presentations at PyCon have their own
+page <../pycon/>`__.
+
+.. _PyCon: http://www.python.org/community/pycon/
+
+
+PyCon India 2010
+================
+
+I was invited to give a keynote talk at PyCon India 2010 in Bangalore,
+titled `Python in India`.  I also gave a talk about my `Polyform
+Puzzler`_ project.
+
+
+RuPy 2009
+=========
+
+`RuPy <http://rupy.eu>`__ is the "strongly dynamic conference"
+featuring talks about Ruby, Python, and other languages and
+technologies.  I was invited to give a "community-oriented talk"
+at RuPy 2009 in Poznan, Poland, billed as a keynote:
+
+* `The story of my visit to Poznan (blog post)
+  <http://www.artima.com/weblogs/viewpost.jsp?thread=276019>`__
+* Video of my RuPy 2009 talk `via rupy.blip.tv
+  <http://rupy.blip.tv/file/3011513/>`__ or `via mefeedia.com
+  <http://www.mefeedia.com/watch/26976224>`__ (the beginning of the
+  video is a bit messed up, but persevere, it's soon fixed)
+* `Plain HTML handout/script <rupy/2009/handout.html>`__
+* `S5 HTML slideshow <rupy/2009/presentation.html>`__ (use the arrow keys
+  to navigate, or mouse over the lower left corner for controls)
+* `reStructuredText source <rupy/2009/presentation.txt>`__
+
+
+MontrealPython
+==============
+
+I gave a talk about my `Polyform Puzzler`_ project at the first
+meeting of the Montreal Python users group on February 7, 2008.  It
+was a lot of fun, and the group seemed to enjoy it.
+
+.. _Polyform Puzzler: http://puzzler.sourceforge.net/
+
+* `Video of the talk
+  <http://video.google.com/videoplay?docid=4654600992090030361>`__
+
+
+OSCON
+=====
+
+In 2007 I was invited to present my tutorial, `Code Like a Pythonista:
+Idiomatic Python <../pycon/2007/idiomatic/>`__, at OSCON__.  This was
+a revised encore presentation (to a different and larger audience) of
+a tutorial I had presented at `PyCon 2007 <../pycon/#2007>`__.
+
+__ http://conferences.oreilly.com/oscon

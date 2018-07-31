@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42"
+   sodipodi:docbase="/Users/david/graphics/ankh"
+   sodipodi:docname="ankh3.svg"
+   inkscape:export-filename="/Users/david/graphics/ankh/ankh3.png"
+   inkscape:export-xdpi="288.00000"
+   inkscape:export-ydpi="288.00000">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.4090688"
+     inkscape:cx="261.65115"
+     inkscape:cy="634.60018"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="701"
+     inkscape:window-height="763"
+     inkscape:window-x="4"
+     inkscape:window-y="22"
+     inkscape:guide-points="true">
+    <sodipodi:guide
+       orientation="vertical"
+       position="261.65114"
+       id="guide1313" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="213.25179"
+       id="guide2912" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ankh 3</dc:title>
+        <dc:date>2005-09-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>David Goodger &lt;goodger@python.org&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>copyright ©2005 by David John Goodger</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>A curved, pointed Ankh, the Egyptian symbol of life.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g3316">
+      <path
+         sodipodi:nodetypes="cccscccsccsc"
+         d="M 261.65114,393.30661 C 261.65114,393.30661 261.65114,505.57507 261.65114,505.57507 C 261.65114,505.57507 257.53907,488.58186 250.55971,482.51286 C 256.94419,472.29769 258.64139,417.32303 256.18357,410.47459 C 254.80435,406.63156 233.84362,411.97538 224.79171,419.67581 C 218.72271,413.91025 204.14430,415.85064 204.14430,415.85064 C 214.55796,409.72834 230.15098,401.51297 254.48212,399.99572 C 254.48212,399.99572 223.66770,368.14521 231.07746,344.68101 C 234.20713,334.77040 242.56655,329.94893 261.65114,329.94893 C 261.65114,329.94893 261.65114,341.75581 261.65114,341.75581 C 254.03900,341.75581 246.72162,343.77673 246.32657,352.38749 C 246.02156,359.03592 248.85583,374.32004 261.65114,393.30661 z "
+         style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.37500000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+         id="path1335" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         transform="matrix(-1.000000,0.000000,0.000000,1.000000,523.3023,0.000000)"
+         id="use2951"
+         xlink:href="#path1335"
+         y="0.0000000"
+         x="0.0000000" />
+    </g>
+  </g>
+</svg>

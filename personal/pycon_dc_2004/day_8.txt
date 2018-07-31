@@ -1,0 +1,51 @@
+=================================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__ -- Day 8
+=================================================================
+
+------------------------------------
+ Heading Home -- Saturday, March 27
+------------------------------------
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+It was raining this morning.  Packed up and left the hostel at 9am,
+took a bus down to a metro station then on to Pentagon City.  I'm not
+sure, but I think the "Fashion Center" mall there may have been the
+mall in `Minority Report <http://us.imdb.com/title/tt0181689>`__, and
+possibly also in `No Way Out <http://www.imdb.com/title/tt0093640>`__.
+Bought a "PFC" -- portable folding cart -- for my bags because I was
+getting tired and sore carrying them around.  A couple more wee
+gifties for the kids.  Visited the `Bang & Olufsen
+<http://www.bang-olufsen.com/>`__ store, and fantasized.
+
+On the opposite side of the street -- reachable via a metro underpass
+-- was another mall, not so upscale.  Browsed around a Borders
+book/CD/DVD/coffee store, and a Best Buy.  Then it was time to get to
+the airport, 2 stops away.
+
+Got my boarding pass, and two last-minute gifts: a nice bookmark for
+my wife, and a black & yellow "jungle carpet python" plushie, for my
+kids.  And for me, too, I guess -- I'll name it "Monty" and it'll be a
+cousin to Eric, the conference mascot brought by Bill Sconce.  A
+Cinnabon later, and it was time to get to the gate.  Spent my last 90
+US cents on some mints -- no currency to carry home.
+
+On takeoff I had a good view of the Pentagon, and I see the need for
+so much security.  The airport is literally a stone's throw away, and
+a last-minute course correction would be (and was) deadly.  I wonder
+if security is the reason why, on both arrival in and departure from
+DC, the plane wasn't brought all the way to the jetway.  Passengers
+had to go down a flight of stairs to the tarmac and back up.
+
+As I write this on the plane, I look back on the last week as an
+unmitigated success.  I met loads of people I'd only ever exchanged
+email with before, and plenty others new to me.  It's amazing the
+places my software has gotten to -- rumored to be in use at NASA, the
+NSA, the OSAF, and I'm sure at many other companies and organizations
+large and small.  I guess Docutils and reStructuredText have hit a
+sweet spot.
+
+Warms my heart.
+
+* up: `Contents <./>`__

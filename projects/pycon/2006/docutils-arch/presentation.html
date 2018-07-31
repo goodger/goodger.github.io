@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.15b.dev: http://docutils.sourceforge.net/" />
+<title>Docutils: Architecture, Extending, and Embedding</title>
+<link rel="stylesheet" href="../../../../../../../default.css" type="text/css" />
+</head>
+<body>
+<div class="document" id="docutils-architecture-extending-and-embedding">
+<h1 class="title">Docutils: Architecture, Extending, and Embedding</h1>
+
+<div class="huge center line-block">
+<div class="line">David Goodger</div>
+<div class="line">&amp;</div>
+<div class="line">Felix Wiemann</div>
+</div>
+<div class="big center line-block">
+<div class="line"><a class="reference external" href="http://docutils.sourceforge.net">http://docutils.sourceforge.net</a></div>
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="handout docutils container">
+We will describe the architecture of Docutils, how to add
+functionality to Docutils, and how to use Docutils in your own
+applications.  Not necessarily in that order.</div>
+<div class="handout topic">
+<p class="topic-title first">Introductions</p>
+<p>David Goodger:</p>
+<ul class="simple">
+<li>project founder &amp; architect</li>
+<li>a Python Enhancement Proposal (PEP) Editor</li>
+<li>was just elected Director of the Board of the PSF and appointed Secretary</li>
+<li>from, and currently living in: Montreal, Canada</li>
+<li>work for a large investment organization, writing software in Python</li>
+</ul>
+<p>Felix Wiemann:</p>
+<ul class="simple">
+<li>joined the project about 2 years ago</li>
+<li>release manager</li>
+<li>from Paderborn, Germany</li>
+<li>work for a large software company in Paderborn, doing
+automation work in Python</li>
+</ul>
+</div>
+<div class="section" id="what-is-docutils">
+<h1>What is Docutils?</h1>
+<ul class="incremental">
+<li><p class="first">Text processing framework <span class="handout">(because we need more
+frameworks)</span></p>
+</li>
+<li><p class="first">A set of tools for processing plaintext documentation into useful
+formats, such as HTML, XML, and LaTeX</p>
+</li>
+<li><p class="first">111,111 lines of code, tests, &amp; documentation</p>
+<p class="handout">Split about evenly between the three.</p>
+</li>
+<li><p class="first">Existing components:</p>
+<ul class="incremental simple">
+<li>reStructuredText parser</li>
+<li>Standalone document, PEP, document tree readers</li>
+<li>HTML (+ S5 &amp; PEP), LaTeX, <span class="handout">native</span> XML, pseudo-XML
+writers; experimental <span class="handout">(incomplete) writers for</span>
+OpenDocument, RTF, man page</li>
+</ul>
+</li>
+<li><p class="first">Internal document model (tree of element &amp; text nodes)</p>
+<p class="handout">The doctree is the glue that holds everything together.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="what-is-restructuredtext">
+<h1>What is reStructuredText?</h1>
+<ul class="incremental">
+<li><p class="first">WYSIWYG plain-text markup language</p>
+</li>
+<li><p class="first">Very easy to read, unobtrusive markup</p>
+</li>
+<li><p class="first">Easy to write</p>
+</li>
+<li><p class="first">Powerful</p>
+<p class="handout">Powerful enough for most uses, yet simple enough to fit your
+brain.  (DG) I designed it to fit <em>my</em> brain, which is relatively
+small.</p>
+</li>
+<li><p class="first">Extensible</p>
+</li>
+<li><p class="first">Used for documentation, for taking notes, and for making
+presentations.</p>
+<p class="handout">There’s even a book that has been written with reStructuredText
+(“C++ Template Metaprogramming” by David Abrahams &amp; Aleksey
+Gurtovoy), but they ran into the limitations of reST and
+Docutils, so we wouldn't recommend this approach — yet.
+reStructuredText has to (and will) become more powerful.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="status">
+<h1>Status</h1>
+<p class="incremental">Docutils 0.4 released January 9.</p>
+<ul class="incremental">
+<li><p class="first">Experimental</p>
+<p><span class="incremental">(That’s what the “0.” means)</span></p>
+<ul class="incremental simple">
+<li>API subject to change<span class="incremental">, but no arbitrary changes</span></li>
+<li>Document model too</li>
+<li>A few bugs <span class="incremental">(details, details)</span></li>
+<li>Lots of to-do items <span class="incremental">(come join our sprint!)</span></li>
+</ul>
+</li>
+<li><p class="first">Yet it’s already very usable! :-)</p>
+</li>
+<li><p class="first">From release 0.4, micro releases (0.4.x) are bugfix-only.
+We’re currently working on 0.5.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="existing-uses">
+<h1>Existing Uses</h1>
+<ul class="simple">
+<li>Docutils front-end tools (rst2html.py, rst2s5.py, rstpep2html.py, etc.)</li>
+<li>Wikis (MoinMoin, ZWiki, Trac, others)</li>
+<li>Blogs</li>
+<li>PEPs, GLEPs <span class="handout">(Gentoo Linux)</span>, TIPs <span class="handout">(TCL)</span>, PEGs
+<span class="handout">(Gzz)</span></li>
+<li>Auto-documentation systems: Epydoc, Pudge, Endo</li>
+<li>Roundup</li>
+<li>Documentation: <span class="incremental">from NASA</span> <span class="incremental">to the William Tyndale Society Journal</span></li>
+</ul>
+</div>
+<div class="section" id="whats-missing">
+<h1>What’s Missing?</h1>
+<p class="incremental">Major features:</p>
+<ul class="incremental">
+<li><p class="first">Plugin support</p>
+<p class="handout">There are many existing extensions to Docutils (mostly in the
+<a class="reference external" href="http://docutils.sourceforge.net/sandbox/">sandbox</a>), but they aren’t easily usable as plugins.</p>
+<p class="handout">We want to be able to specify “use extension X, Y, and Z” from
+the command line, or have a directory for auto-loaded plugins,
+or both.</p>
+<p class="handout">If you're a plugin guru, we could use your advice!</p>
+</li>
+<li><p class="first">Python source reader</p>
+<p class="handout">This was the original “itch” that Docutils was created to
+“scratch”, but the PySource reader isn’t functional yet.</p>
+<p class="handout">Sprint!  (Hint, hint)</p>
+</li>
+<li><p class="first">Nested inline markup</p>
+</li>
+<li><p class="first">Many more things (better GUI, reStructuredText writer, <em>&lt;insert
+your idea here&gt;</em>, ...)</p>
+<p class="handout">See the <a class="reference external" href="http://docutils.sourceforge.net/docs/dev/todo.html">to-do list</a>.</p>
+</li>
+</ul>
+<p class="incremental">Please come to the Docutils Sprint and help out!</p>
+</div>
+<div class="section" id="component-architecture">
+<h1>Component Architecture</h1>
+<p></p>
+<img alt="components.png" src="components.png" />
+<p class="handout">In the component diagram, thick solid lines denote the transfer of
+standard document tree data.  The double line between Reader and
+Transformer denotes a possibly non-standard document tree.</p>
+</div>
+<div class="section" id="data-flow-1">
+<h1>Data Flow (1)</h1>
+<p></p>
+<img alt="components-small.png" class="align-right" src="components-small.png" />
+<p class="handout">Docutils components are selected at run time by the client application
+or front end.</p>
+<ol class="incremental arabic">
+<li><p class="first">The <strong>Publisher</strong> calls the <strong>Reader</strong>.</p>
+<p class="handout">The Reader understands the context of the input.  For example, the
+PEP Reader knows that PEPs begin with an RFC-822-style header, that
+a table of contents should be added after the header, and that all
+hyperlinks should be collected near the end of the document.</p>
+<p class="handout">Typical text files use the Standalone Reader.  To extract
+docstrings &amp; comments from Python source code, you’d use the Python
+Source Reader (under active development).  To reprocess an existing
+document tree, use the doctree Reader.</p>
+</li>
+<li><p class="first">The Reader calls an <strong>Input</strong> object to gather text data.</p>
+<p class="handout">The Input classes provide a uniform interface for reading from
+arbitrary low-level input sources, such as files, strings, and even
+pre-parsed document trees.  Input objects handle the decoding of
+input text to Unicode.  Unicode is exclusively used internally.</p>
+</li>
+<li><p class="first">The Reader calls the <strong>Parser</strong>, passing the input text.</p>
+<p class="handout">There are currently two parsers installed in Docutils: the
+reStructuredText Parser, and the &quot;Null&quot; parser (used for
+reprocessing existing document trees, in conjunction with the
+doctree Reader and Input class).  The parser generates a <strong>document
+tree</strong>, a tree of element and Text nodes, and returns it to the
+Reader.</p>
+</li>
+<li><p class="first">The Reader returns the doctree(s) to the Publisher.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="data-flow-2">
+<h1>Data Flow (2)</h1>
+<p></p>
+<img alt="components-small.png" class="align-right" src="components-small.png" />
+<ol class="incremental arabic" start="5">
+<li><p class="first">The Publisher runs the <strong>Transformer</strong>.</p>
+<p class="handout">The Transformer applies various <strong>Transforms</strong> to the document
+tree, in a pre-determined order.  Transforms modify the document
+tree in-place: resolving references, numbering sections, creating
+tables of contents, and performing other functions on the entire
+document or parts of the document.</p>
+</li>
+<li><p class="first">The Transformer returns the doctree to the Publisher.</p>
+<p class="handout">At this point, the doctree is standard, no matter what Parser was
+used or Reader context was in place.</p>
+</li>
+<li><p class="first">The Publisher calls the <strong>Writer</strong>.</p>
+<p class="handout">The Writer translates the document tree to a format like HTML or
+LaTeX.</p>
+</li>
+<li><p class="first">The Writer sends the result to an <strong>Output</strong> object.</p>
+<p class="handout">As with Input, the Output object provides a uniform interface for
+writing to arbitrary low-level destinations, such as files and
+strings.  Output objects also handle text encoding.</p>
+</li>
+</ol>
+<p class="handout">The Publisher directly calls only the Reader, the Transformer, and the
+Writer.  However it manages <em>all</em> objects (Input, Output, Reader,
+Parser, Transformer, Transform, and Writer instances) and passes them
+where they are needed.  For example, the Input and Parser objects are
+passed to the Reader.</p>
+<p class="handout">All of this complexity is encapsulated in the Publisher convenience
+functions; more on these later.</p>
+</div>
+<div class="section" id="document-tree">
+<h1>Document Tree</h1>
+<p class="incremental">Sample input text:</p>
+<pre class="incremental literal-block">
+&quot;&quot;&quot;
+I like the Python_ language.
+
+.. _Python: http://www.python.org/
+&quot;&quot;&quot;
+</pre>
+<p class="incremental">Resulting doctree:</p>
+<pre class="incremental literal-block">
+&lt;document source=&quot;doctree-demo.txt&quot;&gt;
+    &lt;paragraph&gt;
+        I like the
+        &lt;reference
+         refuri=&quot;http://www.python.org/&quot;&gt;
+            Python
+         language.
+</pre>
+<p class="handout">The document tree data structure is similar to a DOM tree, but with
+specific node names (classes) instead of DOM’s generic nodes.  The
+schema is documented in an XML Document Type Definition (DTD),
+which comes in two parts:</p>
+<ul class="handout simple">
+<li>the Docutils Generic DTD, docutils.dtd, and</li>
+<li>the OASIS Exchange Table Model, soextbl.dtd.</li>
+</ul>
+<p class="handout">The DTD defines a rich set of elements, suitable for many input and
+output formats.  The DTD retains all information necessary to
+reconstruct the original input text, or a reasonable facsimile
+thereof.</p>
+<p class="handout">The document tree holds the components of Docutils together.  The
+document tree is the unifying intermediate data structure used
+internally throughout Docutils, first created by the Parser and
+translated by the Writer.  The``docutils.nodes`` module is a class
+library implementing the nodes of the document tree.</p>
+</div>
+<div class="section" id="docutils-as-a-library-1">
+<h1>Docutils as a Library (1)</h1>
+<p class="handout">How to use Docutils from your own application.</p>
+<p class="incremental">Convenience functions, from <tt class="docutils literal">docutils.core</tt>:</p>
+<ul class="incremental">
+<li><pre class="first literal-block">
+<strong>publish_cmdline</strong>(writer_name='html',
+                description='...')
+</pre>
+<p class="handout">The <tt class="docutils literal">publish_cmdline</tt> function is used by all the front-end
+tools provided with Docutils.  The example above is from
+<tt class="docutils literal">rst2html.py</tt>.</p>
+</li>
+<li><pre class="first literal-block">
+<strong>publish_file</strong>(source_path='test.txt',
+             destination_path='test.tex',
+             writer_name='latex')
+</pre>
+<p class="handout">You can also pass file objects in the <tt class="docutils literal">source</tt> and
+<tt class="docutils literal">destination</tt> parameters.</p>
+</li>
+<li><pre class="first literal-block">
+input = get_rst_document()
+output = <strong>publish_string</strong>(source=input,
+                        writer_name='html')
+</pre>
+<p class="handout">This is what is typically used in wikis and similar applications.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="docutils-as-a-library-2">
+<h1>Docutils as a Library (2)</h1>
+<ul>
+<li><p class="first"><tt class="docutils literal">publish_doctree</tt>:</p>
+<pre class="incremental literal-block">
+&gt;&gt;&gt; input = open('test.txt', 'r')
+&gt;&gt;&gt; document = <strong>publish_doctree</strong>(source=input)
+<span class="incremental">&gt;&gt;&gt; print document.pformat()</span>
+<span class="incremental">&lt;document source=&quot;&lt;string&gt;&quot;&gt;
+    &lt;paragraph&gt;
+        This is a test.</span>
+
+<span class="incremental">&gt;&gt;&gt; print document[0].pformat()</span>
+<span class="incremental">&lt;paragraph&gt;
+    This is a test.</span>
+</pre>
+</li>
+</ul>
+</div>
+<div class="section" id="docutils-as-a-library-3">
+<h1>Docutils as a Library (3)</h1>
+<ul>
+<li><p class="first"><tt class="docutils literal">publish_from_doctree</tt>:</p>
+<pre class="incremental literal-block">
+&gt;&gt;&gt; output = <strong>publish_from_doctree</strong>(
+...     document, writer_name='html')
+<span class="incremental">&gt;&gt;&gt; print output</span>
+<span class="incremental">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;
+&lt;!DOCTYPE html PUBLIC ...&gt;
+&lt;html xmlns=&quot;...&quot; xml:lang=&quot;en&quot; lang=&quot;en&quot;&gt;
+&lt;head&gt;...&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&quot;document&quot;&gt;
+&lt;p&gt;This is a test.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</span>
+</pre>
+</li>
+</ul>
+<p class="handout">Nabu uses the <tt class="docutils literal">publish_doctree</tt> and <tt class="docutils literal">publish_from_doctree</tt> functions.</p>
+</div>
+<div class="section" id="extending-docutils">
+<h1>Extending Docutils</h1>
+<p class="handout">Docutils is completely modular.  New components of all types can be
+added:</p>
+<ul class="incremental simple">
+<li>Readers</li>
+<li>Parsers</li>
+<li>Writers</li>
+</ul>
+<ul class="incremental simple">
+<li>Transforms</li>
+</ul>
+</div>
+<div class="section" id="test-first-development">
+<h1>Test-First Development</h1>
+<div class="section" id="the-test-suite">
+<h2>The Test Suite</h2>
+<ul class="incremental">
+<li><p class="first">based on unittest.py</p>
+<p class="handout">but with</p>
+</li>
+<li><p class="first">significant additions</p>
+</li>
+<li><p class="first">data-driven</p>
+</li>
+<li><p class="first"><span class="handout">we have</span> Test <em>modules</em> &amp; test <em>packages</em></p>
+<ul>
+<li><p class="first"><tt class="docutils literal"><span class="pre">test_*.py</span></tt></p>
+</li>
+<li><p class="first"><tt class="docutils literal">test_*/</tt></p>
+<p class="handout">(requires an __init__.py module; a real package!)</p>
+</li>
+</ul>
+</li>
+<li><p class="first">1000 tests!</p>
+</li>
+</ul>
+<p class="handout">(DG) I first learned unit testing when I began Docutils.  There is
+absolutely no way I could have developed Docutils without unit
+testing.</p>
+</div>
+</div>
+<div class="section" id="extending-rest">
+<h1>Extending reST</h1>
+<p class="handout">reStructuredText has three extension mechanisms:</p>
+<ul class="incremental">
+<li><p class="first">directives</p>
+</li>
+<li><p class="first">interpreted text roles</p>
+</li>
+<li><p class="first">language translations</p>
+<p class="incremental">19 languages supported: <span class="incremental">English,</span> <span class="incremental">German,</span> <span class="incremental">French,</span> <span class="incremental">Dutch,</span>
+<span class="incremental">Italian,</span> <span class="incremental">Russian,</span> <span class="incremental">Esperanto,</span> <span class="incremental">Japanese,</span> <span class="incremental">Chinese</span>
+<span class="incremental">(simplified &amp; traditional!)</span> <span class="incremental">... and it’s easy to add new
+languages</span></p>
+</li>
+</ul>
+</div>
+<div class="section" id="language-example">
+<h1>Language Example</h1>
+<p class="incremental">German input text<span class="handout">(“bild” is German for “image”)</span>:</p>
+<pre class="incremental literal-block">
+&quot;&quot;&quot;
+.. bild:: test.png
+&quot;&quot;&quot;
+</pre>
+<p class="incremental">Process with this command line:</p>
+<pre class="incremental literal-block">
+rst2html.py <strong>--language de</strong> test.txt test.html
+</pre>
+</div>
+<div class="section" id="write-a-transform">
+<h1>Write a Transform</h1>
+</div>
+<div class="section" id="sprint">
+<h1>Sprint!</h1>
+<p class="huge center">Join the Docutils sprint!</p>
+<p class="handout">We will both be here for all 4 sprint days.</p>
+</div>
+<div class="section" id="and-thats-just-the-beginning">
+<h1>And that’s just the beginning!</h1>
+<div class="big center incremental line-block">
+<div class="line"><a class="reference external" href="http://docutils.sourceforge.net">http://docutils.sourceforge.net</a></div>
+<div class="line"><br /></div>
+<div class="line"><span class="incremental">docutils-users&#64;lists.sourceforge.net</span></div>
+<div class="line"><br /></div>
+<div class="line"><span class="incremental">docutils-develop&#64;lists.sourceforge.net</span></div>
+</div>
+<p class="huge center incremental">Did we mention the sprint?</p>
+<p class="huge center incremental">Thanks for listening!</p>
+<p class="huge center incremental">Questions?  <span class="incremental">We’ve got answers!</span></p>
+</div>
+</div>
+<div class="footer">
+<hr class="footer" />
+<a class="reference external" href="presentation.txt">View document source</a>.
+Generated on: 2018-07-27 20:08 UTC.
+Generated by <a class="reference external" href="http://docutils.sourceforge.net/">Docutils</a> from <a class="reference external" href="http://docutils.sourceforge.net/rst.html">reStructuredText</a> source.
+
+</div>
+</body>
+</html>

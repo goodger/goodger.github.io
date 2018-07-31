@@ -1,0 +1,73 @@
+.. -*- coding: utf-8 -*-
+
+=====================================
+ `David Goodger’s <../>`__ Wish List
+=====================================
+
+:Contact: goodger@python.org
+:Updated: $Date: 2012-03-31 07:17:54 -0400 (Sat, 31 Mar 2012) $
+
+This list is primarily for me to keep track of potential additions to
+my collections.  However if anybody would like to help me expand my
+collections, I wouldn’t object!
+
+.. contents::
+
+DVDs
+====
+
+I also have an `Amazon.ca wish list`_.  `FutureShop.ca`_ may be
+cheaper though.
+
+I always prefer the anamorphic widescreen, extended edition,
+director’s cut, collector’s edition.  *Never* the fullscreen (pan &
+scan) version.
+
+For the movies I already own, please see my `DVD collection`_.
+
+* `Bliss <http://www.imdb.com/title/tt0088821/>`__ (1985, `Australia
+  <http://www.ezydvd.com.au/item.zml/778957>`__)
+
+* `Comfort and Joy <http://www.imdb.com/title/tt0087072>`__ (1984, Scotland)
+
+* `Late for Dinner <http://www.imdb.com/title/tt0102279/>`__
+
+* `Life Of Python <http://www.imdb.com/title/tt0220292>`__
+
+* `Monty Python’s Flying Circus
+  <http://www.imdb.com/title/tt0063929/>`__ (Boxed Set)
+
+* `Subway <http://www.imdb.com/title/tt0090095>`__
+
+.. _Amazon.ca wish list:
+   http://www.amazon.ca/exec/obidos/registry/200YG9OZEZWBW
+.. _FutureShop.ca:
+   http://www.futureshop.ca/home.asp?newlang=EN&langid=EN&dept=0
+.. _DVD Collection: dvds.html
+
+
+Books
+=====
+
+See my `Amazon.ca wish list`_.
+
+
+Puzzles
+=======
+
+I also have a `puzzle-related wish list on my Polyform Puzzler site
+<http://puzzler.sourceforge.net/docs/FAQ.html#wish-list>`_.
+
+* Kadon’s `Octiamond Ring
+  <http://www.gamepuzzles.com/esspoly.htm#OR>`__
+
+* Kadon’s `Hexnut <http://www.gamepuzzles.com/esspoly2.htm#HN>`__ and
+  `Hexnut II <http://www.gamepuzzles.com/esspoly2.htm#HN2>`__
+
+
+Wii Games
+=========
+
+* Super Paper Mario
+
+* WarioWare: Smooth Moves

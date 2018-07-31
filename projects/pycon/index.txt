@@ -1,0 +1,182 @@
+.. -*- coding: utf-8 -*-
+
+========
+ PyCon_
+========
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `Other conferences <../conferences/>`__
+
+   * `Python <../python/>`__
+
+   * `David Goodger’s Projects <../>`__
+
+   * `My home page <../../>`__
+
+.. contents::
+
+PyCon_ is the annual North American Python community conference, first
+held in 2003, organized and staffed by community volunteers, and
+underwritten by the `Python Software Foundation
+<http://www.python.org/psf/>`__.  I attended my first PyCon_ in 2004
+in Washington D.C.  I was "on staff" from the beginning, helping out
+more each year.  I was the Chair of `PyCon 2008`__ and `PyCon 2009`__,
+both held in Chicago.
+
+I contribute to the `PyCon weblog <http://pycon.blogspot.com/>`_.
+
+.. Note:: If there is no link from a talk or tutorial presentation
+   below, it means that I do not have files for that presentation.
+   Please do not write to ask for them, because **they do not exist!**
+   If I do prepare files, I will post them here.
+
+.. _PyCon: http://www.python.org/community/pycon/
+__ 2008_
+__ 2009_
+
+
+2010
+====
+
+`PyCon 2010 <http://us.pycon.org/2010/>`_ was held February 17 to 25
+in Atlanta, Georgia: tutorials on February 17 & 18, conference talks
+February 19-21, and development sprints February 22-25.  My
+presentations:
+
+* Tutorial: "wxPython I: Intro to GUI Programming"
+
+* Tutorial: "wxPython II: GUI Programming and MVC"
+
+* Lightning talk: "PyCon Swag"
+
+Staff roles (volunteer):
+
+* Tote bag & giveaway coordinator
+* Registration desk staffer
+
+
+2009
+====
+
+`PyCon 2009 <http://us.pycon.org/2009/>`_ was held March 25 to April 2
+in Rosemont (Chicago), Illinois: tutorials on March 25 & 26,
+conference talks March 27-29, and development sprints March 30 to
+April 2.  It was widely hailed as the best PyCon to date.  Apart from
+opening remarks and introductions for keynote speakers, I didn't make
+any presentations.  I learned my lesson in 2008.
+
+Staff role: I chaired the PyCon 2009 organizing committee, as a
+full-time employee of the Python Software Foundation.
+
+
+2008
+====
+
+`PyCon 2008 <http://us.pycon.org/2008>`_ was held March 13-20 in
+Rosemont (Chicago), Illinois: tutorials on March 13, conference talks
+March 14-16, and development sprints March 17-20.  It was the biggest
+to date, with over 1000 attendees, and (IMHO) a great success.  My
+presentations:
+
+* Tutorial: "wxPython I: Intro to GUI Programming with wxPython and MVC"
+
+* Tutorial: "wxPython II: Advanced GUI Programming with wxPython and MVC"
+
+* Keynote: Chair's Opening Remarks
+
+* Introductions for other keynote speakers
+
+Staff role (volunteer): I chaired the PyCon 2008 organizing committee.
+
+
+2007
+====
+
+`PyCon 2007 <http://us.pycon.org/TX2007>`_ was held February 23-25 in
+Dallas, Texas, with tutorials on February 22 and sprints February 26
+through March 1.  My presentations at PyCon 2007:
+
+* Tutorial: `Code Like a Pythonista: Idiomatic Python
+  <2007/idiomatic/>`__
+
+* Lightning talk: `PyCon 2008 <2007/pycon2008>`__
+
+* Coached the `Docutils sprint
+  <http://wiki.python.org/moin/PyCon2007/DocutilsSprint>`__
+
+Staff roles (volunteer):
+
+* Financial aid program coordinator
+* Tutorials coordinator
+* Program committee
+* Session chair
+* Registration desk staffer
+* PyCon "Chair-in-training"
+
+
+2006
+====
+
+`PyCon 2006 <http://us.pycon.org/TX2006>`_ was held in Dallas, Texas,
+on February 24-26, with tutorials on February 23 and sprints February
+27 through March 2.  My presentations:
+
+* Tutorial: `Text and Data Processing <2006/text-processing/>`__
+
+* Talk: `Understanding Unicode <2006/unicode/>`__
+
+* Talk: `Easy Slide Shows With reStructuredText & S5
+  <2006/docutils-s5/>`__
+
+* Lightning talk: `BIG & BOLD Slides With reST S5 <2006/s5-big/>`__
+
+* Talk: `Docutils Developers Tutorial: Architecture, Extending, and
+  Embedding <2006/docutils-arch/>`__
+
+* Coached the `Docutils sprint
+  <http://wiki.python.org/moin/PyCon2006/Sprints/DocutilsSprint>`__
+
+Staff roles (volunteer):
+
+* Volunteer coordinator
+* Sprint coordinator
+
+
+2005
+====
+
+`PyCon 2005
+<http://us.pycon.org/zope/original/pycon/pastevents/dc2005>`__ was
+held in Washington D.C. on March 23-25, with sprints March 19-22.  
+
+I presented a lightning talk: `Easy Menus in Emacs <../emacs/>`_.
+
+Staff roles (volunteer):
+
+* Volunteer coordinator
+* Program committee
+* Session chair
+* Registration desk staffer
+
+
+2004
+====
+
+`PyCon 2004
+<http://us.pycon.org/zope/original/pycon/pastevents/dc2004>`__ was
+held in Washington D.C. on March 24-26, with sprints March 20-23.
+
+`A Week at PyCon DC 2004 <../../personal/pycon_dc_2004/>`__ gives a
+narrative account of the events.
+
+I coached the `Docutils sprint
+<http://wiki.python.org/moin/DocutilsSprint>`__ and held a `Docutils
+birds-of-a-feather (BoF) session
+<http://wiki.python.org/moin/DocutilsBof>`__.
+
+Staff roles (volunteer):
+
+* Session chair
+* Registration desk staffer

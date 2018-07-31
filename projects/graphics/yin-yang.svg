@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765.00000px"
+   height="990.00000px"
+   id="svg15107"
+   sodipodi:version="0.32"
+   inkscape:version="0.42"
+   sodipodi:docbase="/Users/david/graphics"
+   sodipodi:docname="yin-yang.svg"
+   inkscape:export-filename="/Users/david/graphics/yin-yang.png"
+   inkscape:export-xdpi="288.00000"
+   inkscape:export-ydpi="288.00000">
+  <defs
+     id="defs15109" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.5000000"
+     inkscape:cx="620.00000"
+     inkscape:cy="583.00760"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     gridspacingx="10.000000px"
+     gridspacingy="10.000000px"
+     gridtolerance="5.0000000px"
+     inkscape:window-width="1276"
+     inkscape:window-height="810"
+     inkscape:window-x="4"
+     inkscape:window-y="22" />
+  <metadata
+     id="metadata15112">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Yin-Yang</dc:title>
+        <dc:date>2005-09-10</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>David Goodger &lt;goodger@python.org&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>dedicated to the public domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g18116"
+       transform="matrix(-1.000000,0.000000,0.000000,-1.000000,1240.000,820.0000)">
+      <path
+         d="M 740.00000 410.00000 A 120.00000 120.00000 0 1 1  500.00000,410.00000 A 120.00000 120.00000 0 1 1  740.00000 410.00000 z"
+         sodipodi:ry="120.00000"
+         sodipodi:rx="120.00000"
+         sodipodi:cy="410.00000"
+         sodipodi:cx="620.00000"
+         id="path15922"
+         style="opacity:1.0000000;fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:3.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+         sodipodi:type="arc" />
+      <path
+         id="path15860"
+         d="M 620.00000,290.00000 C 653.12000,290.00000 680.00000,316.88000 680.00000,350.00000 C 680.00000,383.12000 653.12000,410.00000 620.00000,410.00000 C 586.88000,410.00000 560.00000,436.88000 560.00000,470.00000 C 560.00000,503.12000 586.88000,530.00000 620.00000,530.00000 C 553.76000,530.00000 500.00000,476.24000 500.00000,410.00000 C 500.00000,343.76000 553.76000,290.00000 620.00000,290.00000 z "
+         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+      <path
+         id="path15918"
+         d="M 635.00000,350.00000 C 635.00000,358.28000 628.28000,365.00000 620.00000,365.00000 C 611.72000,365.00000 605.00000,358.28000 605.00000,350.00000 C 605.00000,341.72000 611.72000,335.00000 620.00000,335.00000 C 628.28000,335.00000 635.00000,341.72000 635.00000,350.00000 z "
+         style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+      <path
+         id="path15123"
+         d="M 620.00000,410.00000 C 586.88000,410.00000 560.00000,436.88000 560.00000,470.00000 C 560.00000,503.12000 586.88000,530.00000 620.00000,530.00000 C 686.24000,530.00000 740.00000,476.24000 740.00000,410.00000 C 740.00000,343.76000 686.24000,290.00000 620.00000,290.00000 C 653.12000,290.00000 680.00000,316.88000 680.00000,350.00000 C 680.00000,383.12000 653.12000,410.00000 620.00000,410.00000 z "
+         style="fill:#ffffff;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+      <path
+         id="path15914"
+         d="M 635.00000,470.00000 C 635.00000,478.28000 628.28000,485.00000 620.00000,485.00000 C 611.72000,485.00000 605.00000,478.28000 605.00000,470.00000 C 605.00000,461.72000 611.72000,455.00000 620.00000,455.00000 C 628.28000,455.00000 635.00000,461.72000 635.00000,470.00000 z "
+         style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000" />
+    </g>
+  </g>
+</svg>

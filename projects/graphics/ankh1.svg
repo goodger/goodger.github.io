@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42"
+   sodipodi:docbase="/Users/david/graphics/ankh"
+   sodipodi:docname="ankh1.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.2931572"
+     inkscape:cx="261.72925"
+     inkscape:cy="637.02778"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="876"
+     inkscape:window-height="759"
+     inkscape:window-x="200"
+     inkscape:window-y="104"
+     inkscape:guide-points="true">
+    <sodipodi:guide
+       orientation="vertical"
+       position="261.65114"
+       id="guide1313" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="213.25179"
+       id="guide2912" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ankh 1</dc:title>
+        <dc:date>2005-09-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>David Goodger &lt;goodger@python.org&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>copyright ©2005 by David John Goodger</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>A serif Ankh, the Egyptian symbol of life, reminiscent of an iron cross.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path1335"
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.50000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none"
+       d="M 261.65114,393.30661 C 261.65114,393.30661 261.65114,505.57507 261.65114,505.57507 L 245.09761,505.57507 C 251.61532,495.44440 257.48531,429.60151 256.18357,410.12057 C 241.38968,410.12057 224.47556,413.30545 213.25179,417.55229 C 213.25179,417.55229 213.25179,393.08726 213.25179,393.08726 C 224.47557,397.63744 238.65346,399.99572 254.48212,399.99572 C 254.48212,399.99572 223.66770,363.29001 231.07746,339.82581 C 234.20713,329.91520 242.56655,325.09373 261.65114,325.09373 C 261.65114,325.09373 261.65114,343.27306 261.65114,343.27306 C 254.03900,343.27306 246.72162,345.29398 246.32657,353.90474 C 246.02156,360.55317 248.85583,374.32004 261.65114,393.30661 z "
+       sodipodi:nodetypes="cccccccsccsc" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1335"
+       id="use2951"
+       transform="matrix(-1.000000,0.000000,0.000000,1.000000,523.4585,0.000000)"
+       width="744.09448"
+       height="1052.3622" />
+  </g>
+</svg>

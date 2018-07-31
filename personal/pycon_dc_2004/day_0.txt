@@ -1,0 +1,102 @@
+==================================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__ --  Day 0
+==================================================================
+
+---------------------------------------------
+ Arrival and Sightseeing -- Friday, March 19
+---------------------------------------------
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+6:30am -- Left home after saying goodbye to my wife & kids.  I'll miss
+them; hope they miss me too!
+
+7am -- Arrived at Pierre Elliott Trudeau (formerly Dorval)
+International Airport.  Got my boarding pass from a kiosk with my
+credit card.  Neat.  Checked one bag, but the new security requires me
+to carry it through US customs & immigration.  Then, because my
+destination was Reagan National Airport, a security guard pawed
+through my *checked* bag and sent it through X-ray.  Fine.
+
+But when I got to the gate, I had to undergo another search with a
+hand-held metal detector, including my shoes.  My carry-on, jacket,
+and wallet were searched too.
+
+I feel safe now.
+
+10:30am -- Arrived in DC after an uneventful flight.  Took the metro
+in to Dupont Circle, but I should've gone one further -- long walk.
+In the metro, I kept hearing the PA system saying "George Clinton".  I
+finally realized I was misunderstanding "doors closing" through a poor
+speaker system.
+
+Checked in at the `Washington International Student Center`__ (WISC)
+by a Japanese guy named Tomo, with whom I had a nice conversation.
+WISC is a hostel, very no-frills.  Each room has 3 sets of triple bunk
+beds, everything needs a paint job, but the bathrooms are clean.
+Can't beat $22/night, breakfast included (toast, jelly, and cheap
+"citrus punch").
+
+__ http://www.washingtondchostel.com
+
+12:30pm -- Made my bed, dropped off my stuff, and headed in to the
+`Smithsonian museums
+<http://smithsonian.org/visit/infocenter/dcmuseum.htm>`__.  Tomo noted
+that pattern: whereas Americans usually wanted to see the White House
+first, Canadians tended toward the Smithsonian.  I did the geekiest
+two: `Air & Space <http://www.nasm.si.edu/>`__ and `Natural History
+<http://www.mnh.si.edu/>`__.  Apollo capsule, moon lander, Saturn V
+engines -- very cool.  Hope diamond, crystals and mineral formations
+-- amazingly beautiful.
+
+I consider this an "advance scout" mission for the day when my whole
+family visits.  That happened once before, when I went to France on
+business and had a free day in Paris.  Saw all the major sights --
+from the outside.  Didn't have time to wait in line to get in.
+
+Washington's `National Mall <http://www.nps.gov/nama/>`__ is a lot
+like the Champs Elysee in Paris.  The `Washington Monument
+<http://www.nps.gov/wash/>`__ was closed by the time I got there, but
+it's so huge that didn't really matter.
+
+I was a bit disappointed that the Reflecting Pool was empty.  I wanted
+to do the "Forrest?" "Jenny?" "Forrest!" "Jenny!" scene or at least
+imagine it, but no luck.
+
+The new `World War II Memorial <http://www.wwiimemorial.com>`__,
+around the Rainbow Pool, looks quite impressive.  Almost ready to
+open.
+
+The `Lincoln Memorial <http://www.nps.gov/linc/>`__ was most
+impressive.  I'd never read the entire Gettysburg Address, so it was
+moving to read it carved into the wall.
+
+Next, I visited the `Korean War Veterans Memorial
+<http://www.nps.gov/kowa/>`__ -- very moving.  Especially reading
+these words carved into the wall: "Freedom Is Not Free".
+
+The `Vietnam Veterans Memorial <http://www.nps.gov/vive/>`__ was
+particularly moving.  I know no one who fought in Vietnam or lost a
+relative or friend there, but still I felt tears welling up.  The
+names just go on and on.  What a waste of life, on both sides.  War
+has no winners, only losers, but the price must be paid from time to
+time.
+
+Back to WISC, dropped off the Smithsonian gifts for the wife & kids.
+Then off to Best Buy to check out DVDs.  I found a few that were good
+deals, considering the exchange rate.  But only a few.  Most had the
+same price point in US dollars as in Canadian, favoring the Canadian
+consumer.
+
+10pm -- Back at WISC now.  Had no dinner, but don't feel hungry.  Had
+a Polish sausage between Smithsonian museums around 2:30.
+
+I'll be heading for bed soon.  I don't have an alarm clock or watch for
+the morning, but I should be able to wake up in time.
+
+I noticed that DC is a jaywalking town, much like Montreal.  Warms my
+heart.
+
+* next: `Day 1 -- Sprint Day 1 -- Saturday, March 20 <day_1.html>`__
+* up: `Contents <./>`__

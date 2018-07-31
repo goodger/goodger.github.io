@@ -1,0 +1,123 @@
+.. -*- coding: utf-8 -*-
+
+==============================
+ Hipster PDA Projects & Links
+==============================
+
+:Contact: goodger@python.org
+:Updated: $Date: 2007-11-08 16:02:02 -0500 (Thu, 08 Nov 2007) $
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `My projects <../>`__
+
+   * `My home page <../../>`__
+
+.. contents::
+
+The original `Hipster PDA`_ [#hPDA]_ is a small stack of 3"x5" index
+cards, a binder clip to keep them together, with a pen attached.  I
+use an `hPDA Poly Case (Mark 2)`__ which removes the need for the binder
+clip---easier and far more flexible.  hPDAs are small, sleek, simple,
+low-tech, cheap, flexible, and hackable, useful for GTD [#gtd]_, to-do
+lists, and notes.  It fits in my pocket so I take it with me
+everywhere: **ubiquitous capture**.
+
+__ hpda-pc2_
+
+.. _Hipster PDA: http://www.hipsterpda.com
+
+.. [#hPDA] The "PDA" in "Hipster PDA" stands for "parietal
+   disgorgement aid", not "personal digital assistant".  The idea is
+   to clear details and minutiae out your brain by writing it all
+   down.
+
+.. [#gtd] "GTD" stands for `Getting Things Done`: a book, methodology,
+   and seminars by David Allen, and a way of life for many.  Some
+   links:
+
+   * `GTD on Wikipedia <http://en.wikipedia.org/wiki/Gtd>`__
+   * `Summary of the GTD book on Wikisummaries
+     <http://www.wikisummaries.org/Getting_Things_Done:_The_Art_of_Stress-Free_Productivity>`__
+   * `43 Folders <http://www.43folders.com>`_
+   * `The David Allen Company <http://www.davidco.com/>`__
+
+
+.. _`hpda-pc2`:
+
+hPDA Poly Case, Mark 2
+======================
+
+Coming soon!
+
+.. 
+  * `My blog article <>` __, with detailed background discussion,
+    examples, usage tips, customization ideas, and more.
+
+  * `An Instructable (step-by-step instructions) for the hPDA Poly Case,
+    Mark 2 <>` __ on `Instructables.com
+    <http://www.instructables.com>`__.
+
+
+  Nerdster PDA
+  ============
+
+  `The Nerdster PDA <>`__ is a simple Hipster PDA case for the nerd in
+  all of us!
+
+
+Links
+=====
+
+* `HipsterPDA.com`__ (links to `43 Folders`_)
+
+  __ `Hipster PDA`_
+
+* `Hipster PDA page on the 43 Folders wiki
+  <http://wiki.43folders.com/index.php/Hipster_PDA>`__
+
+* `Hipster PDA article on Wikipedia
+  <http://en.wikipedia.org/wiki/Hipster_PDA>`__
+
+* `D*I*Y Planner templates <http://diyplanner.com/templates/index>`__
+
+* `SVG Planner <http://pa.rsons.org/node/8>`__
+
+* `Tricking out the Hipster <http://gurno.com/dru/?q=node/30>`__
+
+* `Hipster PDA category on Lifehacker
+  <http://lifehacker.com/software/hipster-pda/>`__
+
+* `iCal to hPDA printing
+  <http://www.leancrew.com/all-this/2005/09/ical_to_hpda_printing.html>`__
+
+* `Poly folder - DIY 99 cent Hipster PDA case mod
+  <http://slowburnproductions.wordpress.com/2006/09/18/diy-99-cent-hipster-pda-case-mod/>`__
+  (this is what I call the Hipster PDA Poly Case, Mark 1)
+
+* `Hipster Variants
+  <http://wiki.43folders.com/index.php/Hipster_Variants>`__
+
+* `Hipster PDA Hacks
+  <http://wiki.43folders.com/index.php/Hipster_PDA/Hacks>`__
+
+* `Hipster GPS <http://jamesforeman.com/blog/?p=56>`__
+
+* `Hipster PDA Tips for People Obsessed With Productivity Pr0n But Bad
+  At Actual Productivity
+  <http://web.archive.org/web/20051104044636/http://www.slowburnproductions.com/2005/09/hipster-pda-tips-for-people-obsessed.html>`__
+
+* `Hipster PDA Pen Holder
+  <http://www.flickr.com/photos/23801395@N00/sets/708674/>`__
+
+* `Index Card Wallet <http://www.indexcardwallet.com/>`__
+
+* `HipsterPDA Cover :: Get Hip(per)!
+  <http://www.eleven21.com/hipster/>`__
+
+* `24 Things You Can Do With an Index Card
+  <http://webworkerdaily.com/2007/10/10/24-things-you-can-do-with-an-index-card/>`__
+
+* `Six More Reasons to Use a Paper To Do List
+  <http://webworkerdaily.com/2007/04/18/six-more-reasons-to-use-a-paper-to-do-list/>`__

@@ -1,0 +1,175 @@
+=======================================
+ `David Goodger’s <../../>`__ Graphics
+=======================================
+
+:Contact: goodger@python.org
+:Updated: $Date: 2008-10-07 16:48:28 -0400 (Tue, 07 Oct 2008) $
+
+
+These SVG (scalable vector graphics) files were created by me from
+scratch using Inkscape_, an excellent and versatile Free_ vector
+drawing package.  Thumbnails are shown below, linked to the SVG files
+(right/control-click and “Save Link As...” to save them).
+
+.. _Inkscape: http://www.inkscape.org/ 
+.. _Free: http://www.gnu.org/philosophy/philosophy.html
+
+
+.. contents::
+
+
+Mickey’s Infinite Copyright
+===========================
+
+    Featured on `Boing Boing`__ and in `Lawrence Lessig’s blog`__,
+    this image is `now available as a sticker from
+    BumperActive.com`__, with 22% ($1) per sale going to the `Creative
+    Commons`_.
+
+When will Mickey Mouse’s 1928 debut, `Steamboat Willie,`__ `enter the
+public domain?`__ `At the current rate, never!`__ As of this writing,
+it’s 78 years old, fer cryin’ out loud!
+
+What this means is that nothing in the commercial creative world
+(books, art, film, music, etc.), published during your lifetime, will
+ever enter the public domain in your lifetime.  In other words, it’s
+locked up for life.  That’s really sad, and disastrous for dynamic
+culture!  You can fight this trend using `Creative Commons`_ licenses
+on your work.
+
+Please feel free (as in freedom) to put these on personal T-shirts,
+especially if you’re visiting Disney World or Disneyland, or attending
+a Disney film premiere ;-).
+
+`Free Mickey!`__
+
+.. _Creative Commons: http://creativecommons.org
+__ http://www.boingboing.net/2006/09/24/infographic_disney_w.html
+__ http://www.lessig.org/blog/archives/003540.shtml
+__ http://www.bumperactive.com/archives/000912.jsp
+__ http://www.imdb.com/title/tt0019422/
+__ http://www.reason.com/links/links011703.shtml
+__ http://www.zmag.org/cartoons/show_toon.cfm?toonID=869&toonList=
+   &index=by_artist.cfm&artist=10
+__ http://jd.manilasites.com/2003/01/18
+
+:Copyright: ©2005-2006, David John Goodger
+:License:   `Creative Commons Attribution-NonCommercial-ShareAlike
+            <http://creativecommons.org/licenses/by-nc-sa/2.5/>`__.
+            (Contact me if you’d like to do something commercial with
+            these images.  Why?  Because I want the `Creative
+            Commons`_ to benefit from the proceeds.)
+
+.. list-table::
+   :class: borderless align-center
+
+   * - .. figure:: mic1.png
+          :target: mic1.svg
+
+          The original.
+
+     - .. figure:: mic2.png
+          :target: mic2.svg
+
+          A variation on the typeface used for the copyright symbol.
+
+     - .. figure:: no_infinite_copyright.png
+          :target: no_infinite_copyright.svg
+
+          No infinite copyright!  (The “no symbol” or “prohibition
+          sign”—the red circle with a diagonal line—comes from
+          `Wikipedia <http://en.wikipedia.org/wiki/No_symbol>`__.)
+
+Updated 2006-01-08: Changed the infinity symbol to use a more
+symmetrical typeface.
+
+Updated 2008-10-07: Added the “No infininite copyright!” version.
+
+
+Peace Symbols
+=============
+
+The rainbow gradient is modified from one I found in the `Open Clip
+Art Library <http://www.openclipart.org/>`__.
+
+:Copyright: None.  I hereby dedicate these files to the `public
+            domain`_ (also indicated in the SVG files’ metadata).
+
+.. _public domain: http://creativecommons.org/licenses/publicdomain
+
+.. list-table::
+   :class: borderless align-center
+
+   * - .. figure:: peace-sans-black.png
+          :target: peace-sans-black.svg
+
+          A black, “sans-serif” (sharp intersections) peace
+          symbol.
+
+     - .. figure:: peace-serif-black.png
+          :target: peace-serif-black.svg
+
+          A black, “serif” (curved, tapered intersections) peace symbol.
+
+.. list-table::
+   :class: borderless align-center
+
+   * - .. figure:: peace-serif-rainbow-linear.png
+          :target: peace-serif-rainbow-linear.svg
+
+          A serif peace symbol, rainbow-colored with a horizontal linear
+          gradient.
+
+     - .. figure:: peace-serif-rainbow-linear-vertical.png
+          :target: peace-serif-rainbow-linear-vertical.svg
+
+          A serif peace symbol, rainbow-colored with a vertical linear
+          gradient.
+
+     - .. figure:: peace-serif-rainbow-linear-diagonal.png
+          :target: peace-serif-rainbow-linear-diagonal.svg
+
+          A serif peace symbol, rainbow-colored with a diagonal linear
+          gradient.
+
+Peace!
+
+
+Ankh
+====
+
+The Ankh is the Egyptian symbol of life.
+
+:Copyright: ©2005, David John Goodger
+:License:   `Creative Commons Attribution-NonCommercial-ShareAlike
+            <http://creativecommons.org/licenses/by-nc-sa/2.5/>`__
+            (contact me if you’d like to do something commercial with
+            these images)
+
+.. list-table::
+   :class: borderless align-center
+
+   * - .. figure:: ankh1.png
+          :target: ankh1.svg
+
+          A serif Ankh, reminiscent of an iron cross.
+
+     - .. figure:: ankh2.png
+          :target: ankh2.svg
+
+          A highly curved, sharp Ankh.
+
+     - .. figure:: ankh3.png
+          :target: ankh3.svg
+
+          A curved, pointed Ankh.
+
+
+Yin-Yang
+========
+
+:Copyright: None.  I hereby dedicate these files to the `public
+            domain`_ (also indicated in the SVG files’ metadata).
+
+.. figure:: yin-yang.png
+   :target: yin-yang.svg

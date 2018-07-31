@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   width="210.00157mm"
+   height="296.99999mm"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.40"
+   sodipodi:docbase="/Users/david/graphics/peace"
+   sodipodi:docname="peace-sans-black.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:export-filename="/Users/david/graphics/peace/peace-sans-black.png"
+   inkscape:export-xdpi="72.000000"
+   inkscape:export-ydpi="72.000000">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6973608"
+     inkscape:cx="283.46458"
+     inkscape:cy="141.73227"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1148"
+     inkscape:window-height="820"
+     inkscape:window-x="4"
+     inkscape:window-y="22"
+     gridspacingx="2.5000000mm"
+     gridspacingy="2.5000000mm"
+     inkscape:grid-points="true">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="487.00000"
+       id="guide2962" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+    <rdf:RDF
+       id="RDF5">
+      <cc:Work
+         rdf:about=""
+         id="Work6">
+        <dc:format
+           id="format7">image/svg+xml</dc:format>
+        <dc:type
+           id="type9"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title
+           id="title1874">Peace Symbol (sans-serif)</dc:title>
+        <dc:date
+           id="date1876">2005-02-04</dc:date>
+        <dc:creator
+           id="creator1878">
+          <cc:Agent
+             id="Agent1879">
+            <dc:title
+               id="title1880">David Goodger &lt;goodger@python.org&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           id="license1882"
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain"
+         id="License1883">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction"
+           id="permits1884" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution"
+           id="permits1885" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks"
+           id="permits1886" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path8865"
+       style="fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:0.11643541;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-opacity:1.0000000;opacity:1.0000000;"
+       d="M 425.19686,875.19683 C 425.19686,914.31494 393.44882,946.06298 354.33071,946.06298 C 315.21260,946.06298 283.46457,914.31494 283.46457,875.19683 C 283.46457,836.07872 315.21260,804.33069 354.33071,804.33069 C 393.44882,804.33069 425.19686,836.07872 425.19686,875.19683 z M 363.18750,822.90625 L 363.18750,876.71875 L 395.28125,908.81250 C 402.82000,899.65462 407.40625,887.97365 407.40625,875.18750 C 407.40625,848.90541 388.27334,827.13380 363.18750,822.90625 z M 381.84375,920.43750 L 363.18750,901.78125 L 363.18750,927.50000 C 369.94415,926.36155 376.20844,923.87002 381.84375,920.43750 z M 345.46875,927.50000 L 345.46875,901.78125 L 326.81250,920.43750 C 332.44781,923.87001 338.71210,926.36155 345.46875,927.50000 z M 313.37500,908.81250 L 345.46875,876.71875 L 345.46875,822.90625 C 320.38292,827.13381 301.25001,848.90540 301.25000,875.18750 C 301.25000,887.97365 305.83625,899.65463 313.37500,908.81250 z " />
+  </g>
+</svg>

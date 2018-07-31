@@ -1,0 +1,219 @@
+.. -*- coding: utf-8 -*-
+
+===================
+ Rex Cube Solution
+===================
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+.. image:: images/LanLanRexCube.jpg
+   :align: right
+   :class: borderless
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `My puzzle pages <../>`_
+   * `My home page <../../>`_
+
+.. contents::
+
+Adapted by David Goodger from the `Twisty Puzzling tutorial on YouTube
+<https://www.youtube.com/watch?v=oeOq5NRjIOc>`__.
+
+Types of pieces:
+
+* edges (2 colors)
+* centers (squares)
+* petals (triangles/wedges)
+
+Corner designations:
+
+.. image:: images/cube-corners.png
+   :class: borderless
+
+* |T| T: Top
+* |B| B: Bottom
+* |F| F: Front
+* |R| R: Rear (not seen)
+* |UL| UL: Upper Left
+* |LL| LL: Lower Left
+* |UR| UR: Upper Right
+* |LR| LR: Lower Right
+
+The icons above are used to indicate moves, along with arrows. Move
+the closest part of the corner in the direction of the arrow.
+
+Face designations:
+
+.. image:: images/cube-faces.png
+   :class: borderless
+
+* Top
+* Left
+* Right
+
+1: Solve the edges of one face
+==============================
+
+Let's choose white for the first face.
+
+Orient the cube so the white face is the top.
+
+2: Move the white center to the white/top face
+==============================================
+
+* Move the white center to the bottom face, the side opposite the
+  white edges.
+
+* Rotate one corner with two white edges from the cube's top to the
+  cube's side.
+
+* Rotate the white center from the cube's bottom to the cube's side
+  with the two white edges.
+
+* Rotate the corner with the two white edges and white center to the
+  cube's top.
+
+* Now the top has four white edges and a white center.
+
+3: Check parity
+===============
+
+* Orient the cube so the white face is now the bottom.
+
+* Examine each side. Each bottom edge is white and another color. Move
+  the corresponding color centers to matching bottom edge colors.
+
+* If the final face's center can't be solved (it's on the top), do
+  step 4. Otherwise, skip to step 5.
+
+4: Fix parity
+=============
+
+* Orient the cube so the white face is now the top.
+
+* Swap two opposite white edges:
+
+  - |UR| |down|
+  - |LR| |down|
+  - |B| |right|
+  - |UL| |up|
+  - |LL| |up|
+  - |UL| |down|
+  - |R| ↶
+  - |LR| |down|
+  - |UR| |up|
+  
+* Optional confirmation: redo steps 2 & 3.  Not necessary though, as
+  we'll solve the centers later (and they'll get mixed up anyway).
+
+5: Solve the vertical edges
+===========================
+
+* Orient the cube so the white face is now the bottom.
+
+* Check for vertical edges that are already solved.  If none, solve
+  the first edge without touching the bottom face.
+
+* Solving the vertical edges should be pretty easy.
+
+.. * When the next needed edge is 
+
+6: Solve the edges of the top face
+==================================
+
+* If the top face edges are already solved, skip to step 7.
+
+* Scenario: One top face edge is correctly positioned, one is
+  incorrectly positioned with the top color on top, and the other two
+  incorrectly positioned.  Three edges need to cycle:
+
+  - Move one edge into position.
+  - Move the unmoved edge into the same position.
+  - Undo both moves (same moves repeated, in reverse directions).
+
+7: Solve centers
+================
+
+Keep the white face on the bottom.
+
+To move a center from the L face to the R face:
+
+- |UR| |up|
+- |UL| |up|
+- |UR| |down|
+- |UL| |down|
+
+To move a center from the R face to the L face:
+
+- |UL| |up|
+- |UR| |up|
+- |UL| |down|
+- |UR| |down|
+
+To move a center from the opposite face to the R face, position the
+cube so the destination is face R, then:
+
+- |UR| |up|
+- |UL| |down|
+- |UR| |down|
+- |UL| |up|
+
+If the center is on the T face and needs to move to the R face:
+
+- |UL| |up|
+- |UR| |up|
+- |UL| |down|
+- |UR| |down|
+
+8: Solve petals
+===============
+
+Starting with the white face, find a white petal to move.  Set up the
+cube so the white center adjoins the white petal, but opposite the
+destination petal.  Remember the setup moves.  With the white center &
+petal on face L, white petal adjacent to corner F, do these moves:
+
+- Setup moves: side with petal into position, center into position
+
+Petal group reversal moves:
+
+- |UL| |up|
+- |UR| |up|
+- |UL| |down|
+- |UR| |down|
+- |B| |right|
+- |UR| |down|
+- |B| |left|
+- |UR| |up|
+
+Finally,
+
+- Undo setup moves: center back, other side back
+
+The petal group reversal sequence reverses the petal group
+(petal-center-petal) from corners LL to F, as well as the petal group
+from corners LR to F, without disturbing any other pieces.
+
+If the petal to move is adjacent to a corner of the destination face,
+turn it onto the destination face and reverse the petal group.  Or
+reverse the petal group first.
+
+.. |F|  image:: images/corner-F.png
+.. |R|  image:: images/corner-R.png
+.. |T|  image:: images/corner-T.png
+.. |B|  image:: images/corner-B.png
+.. |UL| image:: images/corner-UL.png
+.. |LL| image:: images/corner-LL.png
+.. |UR| image:: images/corner-UR.png
+.. |LR| image:: images/corner-LR.png
+.. these arrows don't work on windows:
+.. |left|  replace:: 🡸
+.. |up|    replace:: 🡹
+.. |right| replace:: 🡺
+.. |down|  replace:: 🡻
+.. |ccw|   replace:: ↶
+.. |cw|    replace:: ↷
+

@@ -1,0 +1,117 @@
+.. -*- coding: utf-8 -*-
+
+=========================================
+ `David Goodger’s <../>`__ Mac OS X Page
+=========================================
+
+:Contact: goodger@python.org
+:Updated: $Date: 2005-10-13 09:06:05 -0400 (Thu, 13 Oct 2005) $
+
+Some notes about Mac OS X that may be helpful to others.
+
+.. contents::
+
+
+------------------------------
+ Installed 3rd-Party Software
+------------------------------
+
+For **Unix/Linux geeks** adopting the OS X platform, `Fink
+<http://fink.sourceforge.net/>`_ and `DarwinPorts
+<http://darwinports.opendarwin.org/>`_ are indispensible.  There’s
+also `Gentoo for Mac OS X
+<http://www.gentoo.org/doc/en/macos-guide.xml>`_, but I can’t vouch
+for it as haven’t tried it yet.
+
+Two great utilities for **efficient application launching** and many
+other tasks are `Butler <http://www.petermaurer.de/butler/>`_ (for
+menu-based shortcuts) and `QuickSilver
+<http://quicksilver.blacktree.com/>`_ (keyboard-based).
+
+2005 PowerBook models include **two-finger scrolling**.  Older
+PowerBooks and iBooks can get this feature via `iScroll2
+<http://www-users.kawo2.rwth-aachen.de/~razzfazz/>`_, a free trackpad
+driver.  `SideTrack
+<http://www.ragingmenace.com/software/sidetrack/>`_ is a shareware
+trackpad driver with a different implementation.
+
+To **monitor your CPU**, `MenuMeters
+<http://www.ragingmenace.com/software/menumeters/>`_ is great.  It
+also lets you monitor memory, disk, and network activity, but I just
+use it as a CPU monitor.
+
+A great **pop-up mini calendar** is `CalendarClock
+<http://www.petermaurer.de/calendarclock/>`_, which is no longer
+available from its author |---| it has been merged into the shareware
+`MenuCalendarClock <http://www.objectpark.net/mcc.html>`_.  A
+“donationware” alternative is available: `MenuCal
+<http://s87431262.onlinehome.us/>`_.
+
+Several OS X ports of **Emacs** and **XEmacs** exist.  For example,
+`Carbon Emacs Package
+<http://home.att.ne.jp/alpha/z123/emacs-mac-e.html>`_ and `Carbon
+XEmacs <http://members.shaw.ca/akochoi-xemacs/index.html>`_.  `Or you
+can build your own from source
+<http://www.gnu.org/software/emacs/emacs.html>`__.
+
+`Firefox <http://www.mozilla.org/products/firefox/>`_ is a free,
+cross-platform **web browser**.  Apple’s Safari works fine, but
+because I work on multiple operating systems, Firefox’s cross-platform
+nature makes it a winner.
+
+`Thunderbird <http://www.mozilla.org/products/thunderbird/>`_ is a
+free, cross-platform **email client**.  Again, Apple’s Mail works
+fine, but Thunderbird also works on Linux and other operating systems.
+
+`NeoOffice/J <http://www.neooffice.org/>`_ is an OS X port of
+`OpenOffice.org <http://www.openoffice.org>`_, a free **integrated
+office software suite**.  Includes word processor, spreadsheet,
+presentation, and drawing functionality.
+
+`Colloquy <http://www.colloquy.info>`_ is a good IRC client.  For more
+flexibility than iChat offers (such as multiple accounts and
+services), use `Adium <http://www.adiumx.com>`_ or `Fire
+<http://fire.sourceforge.net/>`_ (which also does IRC).
+
+`VLC <http://www.videolan.com>`_ is indispensible for playing
+DivX/XviD video and obscure codecs.
+
+For backing up DVDs: `MacTheRipper <http://www.ripdifferent.com>`_,
+`yade X <http://www.macetvideo.com/dl_center/dl_center.html>`_ (Yet
+Another DVD Extractor), `DVD Imager
+<http://lonestar.utsa.edu/llee/applescript/dvdimager.html>`_, and
+`ImageBurner <http://homepage.mac.com/adg/ImageBurner/>`_.
+
+
+---------------
+ Tips & Tricks
+---------------
+
+Keyboard
+========
+
+* [fn] + [delete] makes a forward-delete.
+
+* Hold down [command] and hit [tab] repeatedly to switch between open
+  applications.  With an application icon selected, hit [Q] to quit
+  that app.  Hold down [shift] to reverse the order.
+
+* Hold down [command] and hit [`] repeatedly to cycle between open
+  windows in the current application.
+
+* Shift-Command-G (same shortcut as in the Finder) in Open/Save dialog
+  boxes brings up a "Go to folder" dialog, enabling keyboard-driven
+  filesystem navigation and access to hidden directories.  The dialog
+  supports autocomplete with [tab].
+
+
+Finder
+======
+
+* [option] + [command] + [i] (or [option] + File -> Get Info) opens an
+  info panel which always reflects the currently selected file(s)
+  and/or folder(s).
+
+
+.. |---| unicode:: U+02014 .. em dash
+   :trim:

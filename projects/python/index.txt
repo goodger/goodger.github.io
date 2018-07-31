@@ -1,0 +1,44 @@
+.. -*- coding: utf-8 -*-
+
+=========
+ Python_
+=========
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `PyCon: the Python community conference <../pycon/>`__
+
+   * `Other conferences <../conferences/>`__
+
+   * `Docutils: Documentation Utilities <http://docutils.sf.net/>`__
+
+   * `Polyform Puzzler <http://puzzler.sf.net/>`__
+
+   * `David Goodger’s Projects <../>`__
+
+   * `My home page <../../>`__
+
+Python_ is my programming language of choice.  `Python fits my
+brain.`__
+
+__ python_
+
+I have contributed patches to several of Python’s standard library
+modules.  I am a `Python Enhancement Proposal (PEP) Editor
+<http://www.python.org/dev/peps>`__.
+
+`Python has a great community <http://www.python.org/community/>`__.
+
+* I am a member of the `Python Software Foundation
+  <http://www.python.org/psf>`__, nominated in 2003.  Since February
+  2006 I have been the Secretary of the PSF, and Assistant Secretary
+  before that.  I was a Director of the Foundation for 3 years (2006
+  to 2009).  I contribute to the `PSF News blog
+  <http://pyfound.blogspot.com/>`__.
+
+* Ever since I attended my first `PyCon <../pycon/>`_ in 2004 I have
+  helped out, more each year.  I was the Chair of PyCon 2008 & 2009 in
+  Chicago.
+
+.. _python: http://www.python.org

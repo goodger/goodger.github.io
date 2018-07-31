@@ -1,0 +1,11 @@
+.. -*- coding: utf-8 -*-
+
+.. title:: David Goodger
+
+.. raw:: html
+   :file: sitemap.html
+
+
+.. class:: align-center
+
+`Professional <professional/>`_ • `Personal <personal/>`_ • `Projects <projects/>`_

@@ -1,0 +1,10 @@
+.. -*- coding: utf-8 -*-
+
+==========================================
+ `David Goodger’s <../../>`__ Poker Pages
+==========================================
+
+:pronounced: like “Badger”, but **Good**!
+:email: goodger@python.org & dgoodger@gmail.com
+
+* `Dave’s Home Poker Cash Game Rules <home-cash-game-rules.html>`_

@@ -1,0 +1,77 @@
+.. -*- coding: utf-8 -*-
+
+===========================================================
+ Professional Services Provided By `David Goodger <../>`__
+===========================================================
+
+:pronounced: like “Badger”, but **Good**!
+:email: goodger@python.org
+:phone: +1-514-453-2443
+
+
+Résumé
+======
+
+I am open to programming, system administration, training, and related
+consulting projects or a long-term position.  **My résumé** is
+available in several formats:
+
+* `as a web page (HTML) <cv/resume_David_Goodger.html>`__
+* `as a PDF file <cv/resume_David_Goodger.pdf>`__
+* `as a plaintext file <cv/resume_David_Goodger.txt>`__
+
+
+Consulting
+==========
+
+I am happy to provide consulting services to businesses and
+individuals:
+
+* programming
+
+* system administration (on-site and remote)
+
+* networking
+
+* troubleshooting
+
+* setup (hardware & software).
+
+Please feel free to contact me by email (goodger@python.org) or by
+phone (+1-514-453-2443).
+
+
+Training
+========
+
+I provide custom on-site training at reasonable rates.  I have
+conducted training sessions covering many topics, including:
+
+* Python programming (beginners and advanced programmers; text
+  processing; network programming)
+
+* Office applications
+
+* Computer graphics
+
+* General computer topics
+
+Custom topics are welcome.  Please contact me by email
+(goodger@python.org) or by phone (+1-514-453-2443).
+
+
+Articles
+========
+
+* Some `notes about Mac OS X <osx.html>`__ that may be helpful to
+  others.
+
+
+Blog
+====
+
+I now have a blog_ (web log) at Artima.com.  Artima.com has adopted
+reStructuredText_ as an alternative to HTML for blog articles!
+
+.. _blog: http://www.artima.com/weblogs/index.jsp?blogger=goodger
+.. _reStructuredText: http://docutils.sf.net/rst.html

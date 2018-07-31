@@ -1,0 +1,971 @@
+=================
+ DVD Easter Eggs
+=================
+
+-----------------------------------------------------------
+ Hidden features in `David Goodger’s`__ `DVD Collection`__
+-----------------------------------------------------------
+
+:Contact: goodger@python.org
+:Updated: $Date: 2011-08-07 23:16:37 -0400 (Sun, 07 Aug 2011) $
+
+__ ../
+__ dvds.html
+
+.. Note::
+
+   Many of these easter egg descriptions come from `The Easter Egg Archive,
+   EEGGS.COM <http://www.eeggs.com/tree/1899.html>`__, and from
+   `DVDEasterEggs.com <http://www.DVDEasterEggs.com>`__ (which is
+   currently recovering from a server crash).
+
+.. contents::
+
+
+300
+===
+
+Go to the “Special Features” menu and press [Up] (or highlight “Main
+Menu” and press [Down]).  The blood splatter above the words “Special
+Features” will be highlighted.  Press [Enter] to see a 7 minute
+featurette with the director, author Frank Miller, and producers
+talking about the struggles to adapt the graphic novel to film.
+Includes a proof-of-concept battle scene.
+
+
+The Adventures of Buckaroo Banzai Across the Eighth Dimension!
+==============================================================
+
+1. If you select the middle Jet Car image on the first menu screen,
+   you will be able to scroll through a selection of quotes from
+   Doctor Banzai.
+
+2. If you select the yellow circle in the top left corner of the first
+   menu screen, you will be able to scroll through 36 alternate DVD
+   menu designs.
+
+3. If you select the Banzai Institute logo on the Banzai Institute
+   Archive Menu screen, you will be able to scroll through two
+   alternate DVD cover designs.
+
+4. If you select the watermelon image on the first Deleted Scenes Menu
+   screen, you will be taken to an article called “Food from the
+   Skies?” which discusses why the Banzai Institute was putting
+   watermelons in high gages.
+
+5. If you select the BB logo on the second screen of the “Food from
+   the Skies?” article, you will be taken to a video clip of
+   W.D. Richter called “Why?” where he discusses watermelons and shows
+   a recipe for Chicken in a Watermelon.
+
+****
+
+1) Go to the Special Features menu, page 1, and access the list of
+   Deleted Scenes, Page 1.  While looking at the first list of 8 of the
+   14 deleted scenes, maneuver to highlight the [SPECIAL FEATURES] box
+   at the bottom middle of the screen.  Then push Left to highlight the
+   Watermelon.  Press Enter now and a text screen comes up: a made-up
+   newspaper article about Perfect Tommy’s experiment with dropping
+   watermelons from the sky to relieve world famine.  Press the [More
+   -> ] box at the bottom to access the 2nd page, and go on to the 2nd
+   Easter Egg.
+
+2) On the 2nd page of the news article, on the bottom left you will
+   see a “BB” (Buckaroo Banzai) logo.  Move the cursor Right to the [
+   <- Back] box and then Up to the “BB” logo and press enter.  You will
+   then see a brief interview about the whole watermelon question, and
+   a bit about a recipe for “Chicken in a Watermelon”!
+
+3) Finally, return to the main Special features menu and go to Page 2
+   of it.  Access the area called “Banzai Institute Archives”.  On the
+   bottom left you will see another “BB” logo, this time in a circular
+   seal.  Go down to the [Special Features] box at the bottom right of
+   the screen, and then move the cursor Right to highlight the
+   Seal.  Pressing Enter while here will display two alternate Cover
+   Art Inserts for the Buckaroo Banzai DVD that were discarded prior
+   to selecting the one used.  Interestingly, neither of the two
+   displayed are the one that MGM circulated just before upgrading the
+   Buckaroo Banzai DVD to “Special Edition” status and delaying it’s
+   release until Jan. 2002; so there’s at least one more alternate DVD
+   cover not shown in this Easter Egg!
+
+In the main menu of the DVD, there are 3 jet cars at the top of the
+menu, move your cursor so that the middle on is highlighted and enter
+into the quotes section of the DVD.
+
+Per the “Quotes” egg, move your cursor up to the middle of the three
+jet cars at the top of the screen.  (This is not as obvious as it seems
+-- it takes a move *left* from the top menu item.) Now, move the
+cursor left or right -- a large “light” or “knob” at the upper left of
+the screen will turn green with the highlight.  Hit OK/Enter/whatever
+your system uses, and see 36 or so pages of prototype DVD interfaces
+that could have been, but weren’t...
+
+
+Aliens
+======
+
+Disc Four of the Alien Quadrilogy contains the Supplemental Material
+for “Aliens”.  Go to the chapter marked “Post-Production”.  When
+you’ve entered that chapter, you’ll notice a series of five (5) icons.
+Press the UP button and you’ll notice the second icon will be
+highlighted.  Click on that icon and you will get the featurette
+entitled “A Boy and his Power-Loader”... it shows how a young man
+named Van Ling built his very own power-loader based on the movie and
+how it eventually got him a job working for James Cameron.
+
+
+American Splendor
+=================
+
+1. A “Conversation” With Toby
+
+   Go to the Special Features menu and just wait.  It’s set up like a
+   fast food drive-through with Toby in a car.  It just sounds like
+   the drive-through attendant trying to get Toby’s attention.
+   However, after a while an actual “conversation” starts between the
+   two using dialogue from the movie.
+
+2. DVD Credits
+
+   Go to Special Features, highlight the “Play Movie” icon and click
+   LEFT.  You’ll then highlight the “sausage/onion/cheese” icon around
+   the “HBO Films” feature.  Select it to see the credits for the DVD
+   itself.
+
+3. A Bit About Toby Radloff
+
+   Again, highlight the “Play Movie” icon in Special Features.  This
+   time, click RIGHT.  You’ll highlight the speaker.  Select it for a
+   short featurette on Toby Radloff, including footage of Toby and
+   interviews with people who worked on the film and Harvey & Joyce.
+
+4. The Opening Sequence
+
+   Go to Chapter Select.  On the first page, you’ll be able to select
+   the various chapters and there will be a big panel (it’s done like
+   a comic book) with “American Splendor” that you can’t select right
+   away.  To highlight it, first highlight “Main Menu” and click DOWN.
+   Select the panel and you’ll get a short featurette with animator
+   John Kuramoto on the opening title sequence of the film.
+
+5) The Joy of Acting
+
+   Again, go to Chapter Select.  This time, keep on hitting next until
+   you get to the screen where the End Credits are selectable.
+   Looking at the bottom row of icons, you’ll see the last apparently
+   selectable icon is “Main Menu.”  However, if you highlight “Main
+   Menu” and then click RIGHT, you’ll highlight an additional icon in
+   the shape of the previous “Next” icons.  Select it for a featurette
+   on Hope Davis & Paul Giamatti cracking each other up on the set,
+   including interviews with them and behind the scenes footage.
+
+
+An American Werewolf in London
+==============================
+
+Select the Bonus features on the disc.  Select Reccomendations.  Go to
+the second page of movie posters.  Push UP.  A reel of film should
+light up underneath the Poster for “The Wolf Man”.  Press ENTER.
+
+
+Beowulf
+=======
+
+John Malkovich’s coffee break: From the main menu go to special
+features.  Then press left and an object near the top middle will be
+highlighted yellow.  Press Enter.
+
+
+Big Trouble in Little China
+===========================
+
+* On the second disc highlight the Richard Edlund interview and hit
+  the left arrow on your remote.  A pair of eyes is highlighted on the
+  side of the screen.  Here you find trailers for this movie as well
+  as The Fly and Aliens.
+
+* On Disc 2, view the DVD Credits.  After the last page, you can view
+  some screens from the Commodore 64 Videogame “Big Trouble in Little
+  China.”
+
+
+Cars
+====
+
+On the main menu, wait until after the Piston Cup rotates three times.
+A Dinoco symbol will appear on the lower right of the menu.  Use your
+remote to select the symbol and you’ll be transported to a scene of
+McQueen and Mater at the drive-in watching themselves do a clip of
+“Boundin’”, the short Pixar did for the Incredibles.
+
+
+Clerks II
+=========
+
+1. On disc 1, go to Special Features, then More.  Select “Play
+   Introduction To Film By Kevin Smith and Scott Mosier”, and move the
+   selection to the right.  Above the picture of Randal a thought
+   bubble pops up with a hamburger in it.  Hit ENTER, and Kevin Smith
+   describes Askewniverse Bible.
+
+2. On disc 2, under “Blooper Reel” select “Play with introduction...”
+   and move the selection to the right.  A picture of Mooby should
+   show up in the space between Dante and Randall.  Hit ENTER for a
+   black & white vignette showing some of the post-production crew
+   “hard at work” at the office.
+
+3. On disc 2, go to “Train Wrecks: Video Production Diaries”, select
+   “The Good, The Bad, and The Man”, and move the selection to the
+   right.  You’ll see a Mooby on Elias’ shoulder.  Hit ENTER for
+   “Clerkin’ Off”.
+
+
+Dark City
+=========
+
+The “Find Shell Beach” game on the Dark City DVD is very vague and
+difficult.  Here’s how to finish it.
+
+- At the Special Features menu, choose “To Shell Beach”.  It will tell
+  you to find a bloody knife.
+- Go to the Cast Menu, choose Kiefer Sutherland, and on the first page
+  you can see the dim outline of a knife.  Highlight it and press
+  “Play”.  It will tell you find the doctor’s business card.
+- Go to the Neil Gaiman section and choose “more” until you can see
+  the outline of a business card.  Highlight it and press “Play”.  It
+  will tell you to look for a picture.
+- Go to the Metropolis Comparison, choose the Original Weekly Variety
+  Review, and choose “more” until you see the outline of a
+  postcard.  Highlight it, press “Play” and it will tell you to find a
+  souvenir.
+- Go to the Crew Menu, choose Trevor Jones, and choose “more” until
+  you see the outline of a snowglobe.  Highlight it, press “Play” and
+  it will tell you to go find the clock.
+- Go to the Cast Menu, choose William Hurt, choose “more” until you
+  find the clock, highlight it, Press “Play” and then it will tell you
+  to find the tool that makes you what you are.  This is the sneaky
+  part.
+
+- Go to Set Designs, choose “more” until you are at the 7th picture in
+  (which should be a picture of a hypodermic needle), highlight the
+  picture and press “Play”.
+
+VOILA! You’re treated to a crummy little 15-second animated
+re-creation of the final battle of the film!  Kind of a lot of work
+for such little payoff.
+
+
+Dogma
+=====
+  		  	
+* On the 1st DVD:
+
+  1. Choose “Scene Selections” from the main menu.
+  2. Go to the last page.
+  3. Press 3 twice (in some cases you may have to press Enter after
+     each 3).
+  4. Watch “How Jay Thinks Kevin Directs”.
+
+  Note: You can also acess Title 2 to see this.
+
+* On the 2nd DVD:
+
+  1. Choose “Deleted Scenes” from the main menu.
+  2. Go to the last page.
+  3. Press 2 and then 4 (again in some cases you may have to press
+     enter after each number).
+  4. Watch “How Kevin Directs”.
+
+  Note: You can also acess Title 3 to see this.
+
+
+Donnie Darko
+============
+
+1) First go to the Special Features menu, then choose “The Philosophy
+   of Time Travel”.  Once you have done so, continue to press RIGHT on
+   your DVD remote until you come to the page titled “Appendix A” or
+   the one with the human torso with a circle in the middle.  Press UP
+   on your controller to high-light the circle, and press
+   ENTER.  You’ll see a deleted scene.
+
+2) Return to the book, and go to the page titled “Appendix B” or the
+   one with the skeleton and arrow.  Press UP, and a black arrow will
+   appear, press ENTER to see another trailer for the film.
+
+3) Go to the Special Features menu, and choose “Cunning Visions”, once
+   in that section, high-light “Special Features” at the bottom of the
+   screen.  Now press RIGHT on your DVD remote and the small Cunning
+   Visions logo will be high-lighted, press ENTER.  You will now be
+   taken to the Donnie Darko Website Gallery section, specifically to
+   the Cunning Vision website home page.
+
+****
+
+On the main menu, move the cursor to “special features” then press
+right on the controller to watch a special deleted scene.
+
+Note that when the rabbit head appears (in white during the scene -
+watch it and you’ll see) press enter to see yet another scene!
+
+****
+
+UK only? Egg: In the main menu, press down so “special features” is
+highlighted.  Press right - either then press enter, or you will be
+taken straight to a scene the director didn’t want to shoot, but the
+producer made him.  [This egg can also be got to by clicking on the
+rabbit mask’s right eye if you are using a PC]
+
+Keep watching and it plays the scene again, this time with commentary.
+During the commentary a white Frank mask will appear in the bottom
+left corner.  Press enter or click on it to go to another deleted
+scene with Donnie and Elizabeth carving pumpkins, followed again by a
+commentary version.
+
+Egg: If you click on Patrick Swayze’s left eye in the
+Commentaries/Subtitles menu it leads you to a deleted scene, then if
+you select the Frank head in the commentary of that scene it leads to
+another.
+
+
+Dumb and Dumber
+===============
+
+Interviews: click (or hit [ENTER] on) the easter egg icons that
+appear:
+
+1. From the main menu, highlight “Special Features” and press [RIGHT].
+
+2. From the “Special Features” menu, highlight “Deleted Scenes” and
+   press [UP].
+
+3. From the “Trailers” menu (inside “Special Features”), highlight
+   “Dumb Trailer” and press [LEFT].
+
+4. From the Select a Scene menu, highlight “Scene 13: Gassing Up” and
+   press [LEFT].
+
+Minor menu bits:
+
+* In the “Deleted/Alternate Scenes” menu (inside “Special Features”),
+  highlight “Play All”, press [RIGHT] and [ENTER] for a look at the
+  hotter and hottest.
+
+* In the “Set Up Options” menu, highlight “Dolby Digital ...”, press
+  [LEFT] and [ENTER].
+
+
+
+Fight Club
+==========
+
+* On disc 1, after the “FBI Warning,” watch for “Warning.”
+
+* During the movie there are several 1-frame subliminal images to
+  watch for.
+
+* On disc 2, go to the Advertising.  Go down to “Promotional Gallery”
+  and press [DOWN], and a little happy face should appear.  Hit
+  [ENTER] and you can flick through a little catalogue of “real”
+  merchandise to order.
+
+
+Finding Nemo
+============
+
+* I’m Trapped In Your TV!
+
+  On Disc Two, highlight and enter Special Features.  Highlight Studio
+  Tours and push UP on directional button.  This will enlighten an
+  invisible fish.  Highlight and enter the fish for a quickie video.
+
+* On disk one go to bonus features, highlight the arrow at bottom of
+  screen then press down, a green egg will pop, up press enter or
+  play, a short egg with Dory and Marlin will play.
+
+* Go to bonus features, then visual commentary, while on the fish that
+  looks like its in the TV press up, a green fish will appear press
+  play or enter a short egg with Dory and Bruce will play.
+
+* Go to bonus features screen arrow down to curved arrow, press down,
+  a green fish will appear on top right hand side, press enter or
+  play, a simulated commercial for the Aqua Scum 2003 will play.
+
+* Go to bonus features then to Mr Ray’s Encyclopedia, at curved arrow
+  press down a green fish will appear at top, press enter or play, a
+  short egg will play with Dory and Marlin.
+
+
+The Incredibles
+===============
+
+Insert the Disc 2 DVD into the DVD player with the TV on.  Go to the
+main menu.  At the main menu do not do anything, wait for 30 seconds.
+After a little time a small picture of the “Omnidroid” appears at the
+top right hand corner of the screen.  Arrow up to select the
+“Omnidroid” and press Enter, a short clip will play.  There are at
+least 15 clips hidden at virtually all of the submenus also, including
+set-up, deleted scenes etc.  Some menus will play more than one clip,
+and is worth trying twice.  I have not seen any with three though.  To
+play the clips at the sub-menus select the sub-menu and follow the
+steps above.
+
+Some of the clips are: a 4 minute production of the movie with sock
+puppets; shorts of Mr. Incredible, Dash, and Frozone; the artists
+messing around in the studio; a black and white animation of dash
+messing with the teacher and placing the tack on his chair; also some
+history clips to name a few.
+
+
+The Iron Giant
+==============
+
+1. From the main menu select “Scene Selection”.  Press UP and
+   highlight the words “scene selection”.  Behold the giant!
+
+2. From the main menu select “Special Features”.  Press UP and ENTER
+   to read a letter by writer Ted Hughes.
+
+3. From the main menu select “Special Features”.  Select “Additional
+   Special Features”.  Press RIGHT and ENTER.  Watch what happens when
+   you smoke a pipe...
+
+4. From the main menu select “Special Features”.  Select “Additional
+   Special Features”.  Select “Behind the Armor”.  Press RIGHT and
+   ENTER.  Watch the dancing Giant!
+
+
+Iron Man
+========
+
+On the first (feature film) disc, select “Special Features” and press
+ENTER.  Select “Main Menu” and press LEFT button.  A round symbol
+above “Main Menu” will appear.  Press ENTER to see a clip with Stan
+Lee.
+
+
+Jay and Silent Bob Strike Back
+==============================
+
+Jay’s Balls: a true pair of easter eggs.  Enter Disk 2 into your DVD
+player, and go to Cast and Crew Filmographies.  Select Jason Mewes.
+When his filmography pops up, press Up to select word “Balls” at the
+top of the screen.  Press Enter.  You are treated to a short clip of
+Jay and his... easter eggs.
+
+
+L.A. Story
+==========
+
+There are a lot of hidden interviews on this DVD:
+
+1. Main menu -- press the left direction button -- see an interview
+   with director Mick Jackson.
+
+2. Special features -- press the left button -- see an interview with
+   Steve Martin.
+
+3. Cast and crew -- Steve Martin page 1 -- press up -- see an
+   interview with Victoria Tennant.
+
+4. Cast and crew -- Steve Martin page 2 -- press up -- see another
+   interview with Mick Jackson.
+
+5. Cast and crew -- Steve Martin filmography, last page (writer) --
+   press up.
+
+6. Cast and crew -- Victoria Tennant page 1 -- press up.
+
+7. Cast & Crew -- Mick Jackson page 1 -- up arrow.
+
+
+Logan’s Run
+===========
+
+On the main Menu screen there is a picture of a hand with a crystal in
+the center of it.  Pressing the right arrow key will highlight it.
+Press enter This will take you to a screen which explains the
+different colored crystals.
+
+
+The Lord of the Rings: The Fellowship of the Ring
+=================================================
+
+* To access The Two Towers sneak peek trailer that was shown briefly
+  in theaters at the end of The Fellowship of the Ring, on disc 2 go
+  to the last page of the scene selections menu area and select the
+  number “48” on the far right-hand side of the screen.  Then navigate
+  “down” to reveal a hidden Two Towers symbol.  Press “Enter”.
+
+* To find this one, go into the Scene Selection menu on disc one, and
+  head to the final page where you’ll find the real Council of Elrond
+  scene.  Highlight that scene and press “down” to find an image of the
+  Ring.  Press enter to view the entire clip from MTV complete with an
+  introduction from Peter Jackson.
+
+* From the Main Menu of Disc Four, use your down arrow to move down to
+  highlight the ornament at the bottom center of the screen.  Selecting
+  this will give you a limited version of the DVD credits.
+
+
+The Lord of the Rings: The Two Towers
+=====================================
+
+On disc 1, go into the Scene Selection menu on disc one, go to the
+last page, and highlight chapter 30.  Press down to reveal a ring.
+Press enter to see Gollum’s acceptance speech from the MTV movie
+awards.
+
+
+The Lord of the Rings: The Return of the King
+=============================================
+
+On discs 1 & 2, go into the Scene Selection menu on each disc one, go
+to the last page, and highlight the last chapter.  Press down to
+reveal a ring.  Press enter to see an interview with Elijah Woods
+(disc 1) and an interview from the MTV movie awards (disc 2).
+
+
+Mad Max
+=======
+
+1. At the main menu on the feature film side of the DVD press [UP]
+   repeatedly until the words “MAD MAX” appear at the top of the
+   screen in big red letters, and press [ENTER].  You will be taken to
+   another menu where you can get information about the different cars
+   that appeared in the movie.
+
+2. While you are in the vehicle information menu described in #1
+   above, repeatedly press [LEFT] until the headlights on the cars
+   illuminate in red.  Press [ENTER] to see information about Goose’s
+   motorcycle.
+
+
+Man On the Moon
+===============
+
+From the DVD menu go to Bonus Materials and then to Andy’s biography
+(“Andy”).  As you scroll trough the pages you will see little pictures
+of Andy near the bottom of the screen.  Use your remote to select
+these pictures and hit [Enter] and you will see clips of the real Andy
+Kaufman (6 clips total).
+
+
+Memento
+=======
+
+(Applies to the 2-disc Limited Edition, the "Psychiatric Report"
+version.)
+
+To watch the movie in chronological order:
+
+- select the clock form the main menu,
+- choose answer “c” five times,
+- put the pictures of the woman fixing the flat tire in the order 3,
+  4, 1, 2.
+
+
+Monsters, Inc.
+==============
+
+* To get the DVD credits go into the Humans World and head for the
+  Pixar door.  When on that press down and you will highlight the
+  credits on one of the door runways.
+
+* Better though is the Paper Airplane Contest.  On Disc 2 go in to the
+  humans world, then through the Pixar door.  Highlight the Monsters
+  Inc Eye and then press left and you will be able to select the plane
+  that is flying around.
+
+* After going through the “Monster’s Only” door press right to
+  highlight the eye inside the M.
+
+* Watch the Tour in the Human Only section of Disc 2 (you can skip
+  through it with your remote).  At the end you will see a set of
+  doors.  Select the one on the top left to get access to a gallery of
+  drawings showing various ideas for how to use the Atrium at the new
+  Pixar studios.  Select the one on the top right for a short clip of
+  Sulley throwing Boo (in her monster outfit) like a bowling ball.
+  Check out the other doors too.
+
+* Now, this Trailer is already in the main features of the “Release”
+  door of the “Humans Only” area, but can also be accessed going
+  through the Monsters Only Door (I assume this is an egg for the kids
+  to find).  Press the Monsters, Inc. eye to the right of the Menu
+  screen.  You will get the “Charades” Trailer.
+
+* Go to monster room,then goto the top of the three choices with the
+  arrow pointing right.  Go right and monster eye will glow.enter and
+  you have found another easter egg.  Monkey with diaper on picking up
+  easter eggs in beginning.
+
+* On disc two, choose the humans door, then select “production tour”
+  watch the entire tour, then access a new screen of unlabeled doors
+  for tour bloopers, an early test scene and more!
+
+* This one is so obvious that it may not be considered a real egg,
+  but: On disc 2, select the “Monsters Only” door.  On the main menu,
+  select the “Monsters, Inc.” logo just above Celia’s shoulder, screen
+  right of the message board.  A chimp wearing bunny ears and gathering
+  (real) easter eggs will appear.  Then the director of the movie will
+  congratulate you for finding the egg.  The footage itself is of
+  semi-rendered Pixar “dailies” with little extras such as giraffes,
+  etc. added for in-house laughs.
+
+****
+
+* On the 2nd disc, go through the door marked “Humans Only”.  Next, go
+  through the door marked “Pixar” and on the next screen where it says
+  “Pixar Fun Factory” highlight the Monsters, Inc. logo at the bottom
+  right of the screen (it will turn black).  Press left on your remote
+  and a black circle will appear around the the floating paper
+  plane.  Press ENTER to watch footage of the “1st Annual Pixar
+  International Air Show.”
+
+* Insert disc 2 and go through the door marked “Monsters Only.” On the
+  next screen underneath “New Monster Adventures” there should be an
+  arrow pointing to the right.  Make sure it is highlighted and press
+  right on your remote to highlight the “eye” in the Monsters,
+  Inc. logo.  Press ENTER to play an animation gag reel.
+
+* Insert disc 2.  Go through the door marked “Humans Only.” Make sure
+  “Production Tour” is highlighted.  Press left on your remote and the
+  words “DVD Credits” will appear on the left hand side.  Press ENTER
+  to see 2 pages of credits.
+
+* On the 2nd disc, go through the the door marked “Humans Only”.  Next,
+  select “Production Tour”.  Jump ahead to chapter 7 by either
+  watching all 6 chapters, or by manually advancing your player using
+  the “next chapter” button.  Your player should then jump to title 9.
+
+  Behind the 7 doors there are:
+
+  - John Lasseter and Darla Anderson congratulate the viewer for
+    finding an Easter Egg.  They then welcome the viewer to look at
+    some drawings of possible uses for Pixar’s atrium
+  - a gag by the the monkey
+  - the “tie” animation test
+  - Mike scaring the kid in bed
+  - an outtake
+  - the DVD credits
+  - another outtake
+
+* On Disc 2 when the menu comes up you see the two doors.  If you push
+  left or right a few times some of the tubes will roll down and there
+  will be Outtakes, For the Birds, and Mike’s new car.
+
+* On the second disk (the one with the supplemental material) go “in”
+  the “Monsters Only” door.  On the menu screen there is a sign place
+  the cursor on the “New Monster Adventures” arrow then move the
+  cursor to the right.  The eye in the center of the “Monsters Inc.”
+  logo should be green.  Now select or enter and enjoy the
+  sequence(s)!
+
+* Go through the door that says “Monsters Only.” Then go down to
+  “Orientation.” Go to the “Employee Handbook.” Go down to the 10th
+  page then press up on your remote to highlight the 9th page.  Now
+  press left and it will highlight the pink day care sheet.  Press
+  enter here and the cards will move revealing what it really says
+  under them.  Which reads, “Crab? Leeches? Unusual Growths?”.
+
+* Enter through the “Monsters Only” door.  Go to the “Employee
+  Handbook.”  Go down to the 9th page and then press enter.  Then
+  press the left arrow key to highlight the right arrow.  Then press
+  up and it will highlight a portion of the scare report.  Press enter
+  and you will see circled in red “Chronic crier and bed-wetter.”
+  Poor kid!
+
+
+Pink Floyd The Wall
+===================
+
+* At several menus, a small picture will appear in a corner of the
+  screen.  The only way to access it is by pressing 9 on the remote.  It
+  will then play a short audio clip from the movie or album.
+
+****
+
+* This Easter Egg has to do with another:
+  <http://www.eeggs.com/items/8051.html>.
+
+  As for the DVD if you play the final credits with the commentary you
+  will hear “Isn’t this where we came in?”  This helps prove the other
+  egg as well as it being cool by itself.
+
+
+Predator
+========
+
+1. Disc 1: a clip of director John McTiernan telling how he learned
+   about film and filmmaking.
+
+   * from the main menu, enter ‘Special Features’
+   * highlight ‘Main Menu’
+   * press ‘Left’; the crosshairs will appear
+   * press ‘Enter’
+
+2. Disc 2: an interview clip called ‘Jesse’s ultimate goal,’ featuring
+   Jesse Ventura.
+
+   * from the main menu, highlight ‘Inside The Predator’
+   * press ‘Up’; crosshairs appear at the top right
+   * press ‘Enter’
+
+3. Disc 2: an interview clip with Stan Winston talking about a
+   practical joke played on Arnold Schwarzenegger.
+
+   * from the main menu, enter ‘Predator Special Effects’
+   * highlight ‘Main Menu’
+   * press ‘Left’; crosshairs apprear
+   * press ‘Enter’
+
+4. Disc 2: a clip called ‘Don’t Drink the Water’.
+
+   * from the main menu, enter ‘Photos’
+   * highlight the first picture of Shane Black
+   * press ‘Down’; crosshairs apprear
+   * press ‘Enter’
+
+
+The Princess Bride
+==================
+
+From the main menu, simply arrow your cursor up from “Play”.  It will
+go to the square-cut gem in the upper left-hand corner of the screen.
+Press “OK” to go to a screen in which the major characters faces
+appear, and then select any one of them to hear one of their more
+memorable quotes.  In addition, there are two more gems in the hidden
+screen; both of these are selectable, and play two additional quotes.
+
+
+Repo Man
+========
+
+Go to the special features menu and click on the ignition key.  When
+you press enter you will see a short film with the text of the repo
+code.
+
+****
+
+On the Repo Man DVD (either the version in the tin box or the regular
+one, they’re both the same) go to the “extras” menu, highlight “talent
+bios”, then press “up” on your remote.  Part of the Malibu’s dashboard
+will be highlighted.  Press “enter” and enjoy a short video explaining
+the Repo Man Code.
+
+
+Spirited Away
+=============
+
+This is on Disc 1.  Go to the Special features, and press up until you
+see, in highlighted letters “Meet Hayao Miyazaki”.  There it is!
+
+
+Star Wars Trilogy
+=================
+
+To access a blooper reel on the Star Wars Trilogy DVD set, go to the
+“Video Game & Still Galleries” menu page on the bonus disc.  Now,
+using your remote, enter 11 (some players may require you to use the
+10+ key, followed by 1) and then press enter.  Now press 3, and then
+enter.  Finally, press 8 and then enter to complete the sequence
+(1138, as in George Lucas” THX-1138) and watch the bloopers.
+
+
+The Terminator
+==============
+
+NOTE: ALL EGGS ARE ON SIDE A OF THE DVD
+
+* From the Main Menu, enter the Scene Selections sub-menu.  Change to
+  the page listing Chapters 13 - 16.  Highlight “Main Menu” and press
+  DOWN.  A box near the top of the screen should now be highlighted.
+  Select Enter or OK on your remote and you will see one of five slide
+  show segments with audio, randomly selected:
+
+  1. composer Brad Fiedel discussing his dislike of temp music tracks:
+     “My normal practise is to request...”
+  2. writer/director James Cameron on the production: “Gail and I
+     agreed to be a team...”
+  3. additional dialogue writer Bill Wisher on the novelization:
+     “Randy Frakes and I wrote the novelization...”
+  4. Bill Wisher on the script revisions: “Most of the revisions...”
+  5. Bill Wisher and James Cameron on “... told me early on about this
+     story...”
+
+  Follow the same procedure on other pages.  Chapters 25 - 28:
+
+  1. writer/director James Cameron on his working relationship with
+     effects wizard Stan Winston: “Stan and I hit it off right away...”
+  2. Cameron on creative control and artistic integrity: “When we
+     first showed Helmdale the film...”
+  3. Cameron on keeping himself as the director: “It’s not quite true
+     that we were turned down by every studio in town...”
+  4. Cameron on writing `Aliens` and `Rambo: First Blood Part II`: “At
+     the point when we were put on hold...”
+  5. Cameron on Linda Hamilton’s acting: “The interesting thing is not
+     so much how good Linda is in the first film...”
+
+  Chapters 29 - 32:
+
+  1. Cameron on the film’s multi-level success: “I think the film
+     worked because...”
+  2. Cameron on fans identifying with the villain: “I’d say a good
+     percentage of the fan base loved the Terminator...”
+  3. Cameron on the inevitiability of cybernetic organisms in the
+     future: “Well, I think that the idea of a cyborg...”
+  4. Cameron on the lack of initial advertising support: “There was
+     never any vast enthusiasm...”
+  5. “Chrono-Surfing: A Brief History of Time Travel”, an essay by
+     Randall Frakes
+
+* From the Main Menu, select Special Features, then highlight “Resume
+  Film”.  Press the DOWN arrow on your remote.  A box at the top of
+  the screen should now be highlighted green.  Press Enter or OK to
+  view, at random, one of the following featurettes:
+
+  1. Michael Biehn on how he researched his character: “Jim and I used
+     to work a lot...”
+  2. Biehn on James Cameron’s willingness to accept actors”
+     suggestions: “Jim I’ve always thought was great with actors...”
+  3. Producer Gale-Ann Hurd, Cameron and Brad Fiedel on the film’s
+     original monaural sound mix: “There are a couple of reasons that
+     we went in mono rather than stereo...”
+  4. Fiedel on how he created some of the music effects: “I think that
+     for that film...”
+  5. Fiedel on his film history and why he chose synthesized sounds,
+     and Cameron on Fiedel’s contributions: “Like an actor you can
+     also get type-cast...”
+
+* At the Special Features menu, select DVD ROM Features.  In that
+  sub-menu, highlight “Main Menu”.  Press the RIGHT arrow on your
+  remote.  A box at the bottom of the screen should now be
+  highlighted.  Press Enter or OK on your remote to view one of the
+  following featurettes:
+
+  1. Special effects supervisor Gene Warren Jr. on some of the effects
+     techniques used: “Jim wanted to use those techniques...”
+  2. Warren Jr. on the design of the Hunter-Killer units and the
+     future-war sequences: “Jim had a vision...”
+  3. Editor Mark Goldblatt on the re-shoot of the scene with the punks
+     near the beginning: “The original shoot of the punks scene...”
+  4. Goldblatt discussing how he edited a re-shot version of the
+     film’s final scene: “The end of the picture, Sarah Connor...”
+  5. Bill Wisher on playing a cop: “We shot that in downtown Los
+     Angeles...”
+
+* From the Main Menu, select the Languages sub-menu.  Highlight
+  “Francais” and press the RIGHT arrow on your remote.  Press Enter or
+  OK on your remote for five more slide show featurettes:
+
+  1. Michael Biehn on being blasted by bug spray: “While we were
+     making `The Terminator`...”
+  2. Goldblatt and Cameron on the editing: “Jim shoot what he needs to
+     make the scene work...”
+  3. Biehn on a stunt sequence: “One of my favorite parts of the
+     movie...”
+  4. Goldblatt and Biehn on a couple of interesting deleted scenes:
+     “There were some things that we took out...”
+  5. Stan Winston on the chain of jobs leading to `The Terminator`:
+     “My first films were television films...”
+
+
+Terminator 2: Judgment Day
+==========================
+
+(Extreme DVD)
+
+Theatrical Version
+  Go to the main menu on disc one.  Highlight sensory control and
+  press your right arrow key five times.  As you do this the future is
+  not set will appear on your screen.  Then you can watch the
+  theatrical version of the film.
+
+Hidden promo
+  Put disc two inside your DVD player, then proceed to the lower right
+  option that is DVD-ROM features.  Now press the left button on your
+  controller, it should highlight to circuit board.  Press Enter and
+  be treated to an easter egg video of all the special features on the
+  DVD.
+
+****
+
+* Insert the first disc of the set and on the Main Menu, highlight the
+  “Sensory Control” menu entry.  Now press the “Right” arrow key on
+  “Future Is Not Set” will appear on the screen in red letters.  You
+  have now switched the disc to play the Theatrical Cut of the Movie,
+  which is otherwise accessible only as a high-definition presentation
+  as a DVD-ROM feature.  Please note however, that the interactive
+  mode and the commentary track will not work in this presentation
+  mode.
+
+* Now,insert the first DVD in the player.  On the disc’s Main Menu,
+  just wait.  After the menu is cycling a few times, suddenly the
+  Terminator endoskeleton will appear on the screen and check you out.
+
+* Now press the “High Definition” menu entry and press the “Up” arrow
+  key on your remote control.  This will highlight part of the DVD
+  icon and give you access to the DVD production credits for this
+  release.
+
+* Now, this one works only in a DVD player not a DVD ROM.  It’Âs on the
+  second DVD, highlight the “DVD ROM” menu entry and press the arrow
+  “Up” key on your remote control twice to highlight the pool of blood
+  on the floor.  Press “enter” and you will get to see “The Worst That
+  Can Happen.”
+
+* Last, but not least, you should check this one out.  Highlight the
+  “DVD ROM” menu entry once again and then press the “Left” arrow key.
+  This will highlight a box in the lower left corner of the screen.
+  Press “Enter” and you will now get to see a trailer for the
+  “Terminator 2: Ultimate Edition” DVD release.
+
+
+V For Vendetta
+==============
+
+On the second (special features) disk, choose “More”, then press [UP].
+The cross-and-wings symbol at the top will be highlighted.  Press
+[ENTER] for Natalie Portman’s SNL Digital Short.
+
+
+Vanilla Sky
+===========
+
+From the root menu select “Special Features”.  Select “Photo
+Galleries”.  The cursor begins at “Audio Introduction by Photographer
+Neal Preston”.  Press the “up” button.  The cursor lands on “Special
+Features”.  Press the “right” button to illuminate a mask on the right
+hand side of the screen.  Press “enter” and enjoy the outtakes.
+
+
+WALL·E
+======
+
+* From the main menu, highlight “Special Features”, press [LEFT]
+  button and then [UP] and a logo will highlight at the top left
+  corner of the menu.  Hit [ENTER] to see the makers of the movie
+  discussing how the felt they needed to “geek out” in order to make
+  the movie.
+
+* From the main menu, highlight “Set Up”, press [RIGHT] and then [UP]
+  and a logo will highlight at the top of the menu.  Hit [ENTER] to
+  see the original Title Animation Test and why it was changed.
+
+
+WarGames
+========
+
+Press the left arrow key in the main menu and you will highlight the
+Tic Tac Toe screen in the lower left corner.  Press Enter and you will
+see a small scene of Joshua playing Tic Tac Toe.
+
+
+Zathura
+=======
+
+From the main nenu and with the Play button highlighted, hit [LEFT]
+twice.  A red star will light up in the lower left corner of the
+screen.  Hit [ENTER], the game spinner will rotate and you will get an
+outtake from the film.

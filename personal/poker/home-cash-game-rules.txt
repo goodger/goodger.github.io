@@ -1,0 +1,475 @@
+===================================
+ Dave’s Home Poker Cash Game Rules
+===================================
+
+.. sidebar:: Contents
+
+   .. contents:: :local:
+
+**Version 8, updated 2018-06-21.**
+
+We use “`Robert’s Rules of Poker, version 11`_” as the basis of our
+house rules, as applicable, and as modified by the clarifications and
+exceptions that comprise the remainder of this document. We typically
+play No-Limit Texas Hold’em.
+
+.. _Robert’s Rules of Poker, version 11:
+   http://www.homepokertourney.com/roberts-rules-of-poker.htm
+
+I am a member of the `“Minneapolis Rounders” poker meetup group`__. My
+home games are posted on the group’s calendar, and seat reservations
+are available through the group. Membership is free, and there’s no
+charge for games — and no rake! The `Rounders Rules & Etiquette`__
+also apply.
+
+__ http://www.meetup.com/Minneapolis-Rounders/
+__ http://www.meetup.com/Minneapolis-Rounders/pages/RULES_and_GROUP_ETIQUETTE/
+
+
+Have Fun!
+=========
+
+**Poker is a game, and games should be fun, win or lose.**
+
+**Only play poker with money you can easily afford to lose.**
+
+**No grudges shall be held.**
+
+Bottom line: if you’re not enjoying yourself at the poker table, maybe
+you should stop for a while; do something else that you find
+enjoyable. If you are having fun, great — let’s play!
+
+
+Friendly & Fair — With Common Sense
+===================================
+
+**We aim to play a friendly, fair game.** People sometimes make
+mistakes. When an irregularity that is material to the game arises it
+will be discussed and, if possible, resolved using common sense in the
+spirit of fairness. If agreement cannot be reached quickly and
+amicably, these rules are the final word.
+
+
+Home Game: Reservations & No-Show Policy
+========================================
+
+This is a home game. You are a guest in a private home, so please act
+accordingly.
+
+**When you reserve a seat at a game, you commit to playing in that
+game.**
+Reserving a seat then not showing up hurts the game and is
+disrespectful to the host and to the other players.
+If something comes up and you can’t play, **you MUST inform the host
+ASAP**.
+Failure to do so risks not being welcome in future (e.g. your
+reservation may be bumped or deleted).
+Life happens, but no-shows can prevent other willing players (i.e.
+people on the waiting list) from playing and can shorten games — very
+uncool.
+
+In a cash game, it’s okay to join the game late.
+Just be sure to let the host know of your plans (and changes to
+plans!) ASAP.
+
+The host reserves the right to prioritize reservations and give
+preferential treatment.
+
+
+Miscellaneous
+=============
+
+* **No smoking** in the house. Smokers, please exhale fully, outside,
+  before re-entering the house.
+
+  \
+
+* **No standing/urinal use of the toilet**. Drop trou & sit, men! I’m
+  tired of cleaning up after drunkards with bad aim.
+
+* Please **remove your shoes at the door**.
+
+* Players must take care to **keep drinks from spilling on the
+  table**.
+
+* Players must take care to **keep the cards and chips clean** — no
+  sticky, dirty, or greasy fingers (so no sticky, greasy, or messy
+  food at the table).
+
+* **Show one, show all.** If a player shows cards to another player
+  during or after a hand, any player at the table has the right to see
+  those exposed cards after the hand is over. It’s best not to share
+  mucked cards.
+
+* **No discussion of the hand in play until the action is complete.**
+  Exception: if there are only two people in the hand (heads up), they
+  may discuss the hand as they wish. Absolutely no discussion of the
+  hand in play if you are not involved in the hand.
+
+* **Don’t delay the game:**
+
+  - **Avoid mobile phone use during a hand.** Let it go to voicemail,
+    or fold. Long telephone conversations should take place away from
+    the table.
+
+  - **Shuffling and dealing and playing take priority over stacking.**
+    After a win if it’s your turn to shuffle or deal or play your
+    hand, just move your chips out of the way quickly and get on with
+    it. Stack your chips only after you’re done shuffling or dealing
+    or playing.
+
+  - **At the showdown, turn over BOTH cards without delay.** (See
+    “`The Showdown`_” below for the order.)
+
+  - **Rabbit hunting is discouraged.** It slows down the game.
+
+* **Keep your highest value chips visible at the front of your
+  stack**, so that other players can quickly estimate your chip
+  total. Don’t hide high-value chips behind the rest of your stack.
+
+* **Keep your cards visible**, on the table, in front of your chip
+  stack.  Don’t hide your cards behind your stack, don’t take your
+  cards off the table, and don’t cover your cards completely with your
+  hands.
+
+* **Use a chip or a card capper (card guard) to protect your cards.**
+  If your cards enter the muck, even accidentally, they’re dead.
+
+* **Don’t splash the pot.** Place your bet immediately in front of
+  your cards, well separated from the pot.
+
+* Please **help out when you can** (especially players seated at the
+  middle of the table, when we don’t have a dedicated dealer).
+
+  - When the button is at the end of the table, it can be hard to
+    pitch the cards. Dealers, please pitch the cards as far as you’re
+    comfortable, and players, push the cards along.
+
+  - Push the chips into the center to form a pot **once the betting is
+    over**.
+
+  - Push the discards into a single muck pile, but be careful not to
+    muck anybody’s live cards or expose any cards.
+
+  - Return the cards to the dealer at the end of the hand.
+
+  - Push the chips to the winner.
+
+* Seating is first-come, first-served.
+
+* When playing on **two tables**:
+
+  - Up to 11 players play at the large/main table.
+
+  - The arrival of a 12th player splits the game into two 6-player
+    tables. Players may volunteer to move, or we’ll draw for seats.
+    The host/banker doesn’t move.
+
+  - Newcomers go to the table with fewer players.
+
+  - When the two tables become unbalanced (a difference of two or more
+    players), one or more players from the larger (more populous)
+    table must move to the other table: a volunteer, or the player who
+    will next take the big blind position, moves to the
+    equivalent-or-later position at the smaller table.
+
+  - Any player may request a **table change**.
+    A player may only move if no player imbalance will result (e.g.
+    when there are more people at the player’s current table, after
+    sufficient additional players arrive, or after sufficient players
+    leave the other table).
+
+  - When 10 or fewer players remain, the two tables merge and a new
+    dealer/button is determined by draw.
+
+* **Players should announce their intention to leave the game** at
+  least one round (or half an hour) ahead. Exception: busted players
+  may leave at any time and are not forced to re-buy.
+
+* Gross misunderstandings: see `RROPv11 § 14 “No-Limit and Pot-Limit”,
+  § “No-Limit Rules”, rule 12`__.
+
+  __ http://www.homepokertourney.com/roberts-rules-of-poker.htm#SECTION_14_-_NO_LIMIT_AND_POT-LIMIT
+
+
+Stakes
+======
+
+* **Table stakes**, chips only, no cash.
+
+  Exception: cash on the table may “play behind”, with declaration
+  (e.g. when buying chips), **before** looking at your hole cards.
+
+* Typical buy-ins: minimum is 20 big blinds, maximum is the greater of
+  100 (sometimes 200) big blinds or the size of the big stack
+  (approximately). The game may specify different buy-in limits, or
+  the players may agree on different buy-ins. The limits must be made
+  clear at the outset.
+
+* **Buy-ins are cash only**, no credit.
+
+* **No ratholing.** Chips must remain in play until a player cashes
+  out.
+
+* Each player is responsible for verifying that their chip count and
+  the banker’s chip count and the final payout all match.
+  Any discrepancies must be addressed immediately.
+
+
+Blinds
+======
+
+* **We use the “dead button” rule** (continuity of blinds). The
+  alternative, the “forward moving button” rule, is fairer but is too
+  complicated to implement and slows down the game. `Explanations of
+  both rules can be found here
+  <http://learn.pokernews.com/news/2013/10/a-look-at-house-rules-more-button-rules-2085.htm>`__
+  `and here.
+  <http://blog.nexuspoker.com/2011/11/dead-button-vs-moving-button-poker.html>`__
+
+* New players entering a game-in-progress are **not** required to post
+  a big blind.
+
+* Players with missed blinds who wish to rejoin the game must either
+  post one of each missed blind or wait for (and pay) the big blind or
+  straddle.
+
+  When both blinds are posted, the small blind is dead (added to the
+  pot) and is not part of a bet.
+
+* **“Buy the button” rule**: A new or returning player may only enter the
+  game between the button and the small blind (one hand early) by
+  *buying the button*. The new player posts both the big blind (live)
+  and the small blind (dead, in the pot) in place of the two players
+  to his/her left, who take a one-hand break from posting blinds. On
+  the next hand, the player who just bought the button gets the button
+  (and the deal) and play continues normally. Everyone ends up posting
+  one of each blind, as usual.
+
+* If a player is absent when it is their turn to act, their hand is
+  dead and they forfeit their blind, if any. Exception: be lenient
+  with the host/banker when they’re otherwise busy.
+
+* **Live straddle bets are allowed**, before looking at cards (ideally
+  before any cards are dealt), doubling for each position, up to and
+  including the player on the button: the first straddle is to the
+  left of and double the big blind, the next straddle is double that
+  (so 4 times the big blind, a “double straddle”), then 8 times
+  (“triple straddle”), etc. **The full amount of the last straddle is
+  also the minimum raise in the pre-flop betting round.**
+
+  Sleeper straddles and Mississippi straddles are **not** allowed,
+  because they’re too obscure and confusing (requiring explanations
+  that slow down the game), and they tend to piss off the other
+  players. Live straddles are bad enough.
+
+
+Dealing
+=======
+
+* How to shuffle, cut, and deal properly: see `HowToShuffle.com
+  <http://www.howtoshuffle.com/>`_ and/or `TruePokerDealer.com
+  <http://truepokerdealer.com/>`_ (or their `YouTube channel
+  <https://www.youtube.com/user/truepokerdealer/videos>`__).
+
+* In player-dealt games, we may use two decks and “**shuffle behind**”
+  (a.k.a. “clean up your own mess”) to speed up play:
+
+  - Use two decks of cards (with different color backs) on alternating
+    hands. The decks leapfrog each other around the table.
+
+  - When a hand is over, the dealer of that hand shuffles the cards
+    they just finished dealing, preparing the deck for the next hand.
+
+  - The dealer of a new hand receives a deck of already-shuffled cards
+    from the player two positions to his/her right.
+
+  - The dealer cuts the deck, because the player now in the cutoff
+    position is busy shuffling. (Variation: ask the player in the
+    small blind to cut.)
+
+  See alternate explanations & variations at `chiptalk.net`__ and
+  `pokersmasher.com`__.
+
+  __ http://www.chiptalk.net/forum/home-game-general/77809-shuffle-ahead-shuffle-behind-how-i-became-clinically-schizophrenic.html#post1119353
+  __ http://www.pokersmasher.com/poker-strategy/to-use-two-decks-in-poker-home-games.html
+
+* **Cut** the deck with one hand only.
+  Place the shuffled deck on the table.
+  Place the cut card in front of the deck.
+  (A “cut card” is an opaque plastic card used to hide the bottom card
+  from accidental view.)
+  Lift a significant number of cards (between ⅓ and ⅔ of the deck)
+  from the top of the deck and place them onto the cut card.
+  Using the same hand, lift the remaining cards off the table and
+  place them onto the cards already on top of the cut card.
+
+* **Absent players** who have paid all their blinds for that round
+  should be dealt in.
+  Absent players with missed blinds should not be dealt in.
+
+  When the action comes around to an absent player, their hand will be
+  mucked regardless of their position or blinds paid.
+
+  Dealing an absent player in or out does not cause a misdeal.
+
+* **Deal cards flat and low to the table** in order to avoid exposing
+  cards.
+
+* **Misdeals** occur when any two hole cards are exposed, or when the
+  initial hole card of either of the first two players (small blind or
+  big blind) is exposed.
+
+  If a single hole card is exposed, the rest of the cards stay in
+  play, the exposed card becomes the first burn card (placed face-up
+  on top of the deck after the deal), and the card that would have
+  been the first burn card replaces the exposed card.
+
+* Place the **burn cards**, face down, near the board (the community
+  cards) and separated from the general muck (typically, under the
+  chips in the pot or under the button). This way, the number of burn
+  cards is evident to all.
+
+* **Never burn a card early**; always wait until you are ready to deal
+  the board card(s), and *then* burn. Removing a burn card early
+  defeats the purpose of the burn card: to hide the back of the next
+  board card in case there is a distinguishing mark. Also, burning a
+  card early can result in confusion.
+
+* **Do not deal any board cards early** (face-up *or*
+  face-down!). Even dealing face-down may expose the value of a card
+  through a distinguishing mark on the card back. If you need to leave
+  the table, ask a neighbor to finish the deal for you.
+
+* See `Poker Board Cards
+  <http://www.howtoshuffle.com/poker-board-cards.htm>`_ for details.
+
+
+Betting
+=======
+
+* The minimum opening bet is one big blind. The minimum raise is the
+  greater of the size of the initial bet or the previous raise in that
+  betting round. Exception: all-in wagers.
+
+  Example 1: with 25¢/50¢ blinds, players may call for 50¢ or raise to
+  a minimum total of $1. After a raise to $1, the next raise is to a
+  minimum total of $1.50 (a $1 call plus another 50¢ raise).
+
+  Example 2: post-flop, the first bet is $1, followed by a raise to $5
+  total (a raise **of** $4). The minimum for a subsequent re-raise is
+  $9 total (a $5 call plus another $4 raise).
+
+* **An all-in wager of less than a full raise does not (by itself)
+  reopen the betting to a player who has already acted.**
+
+  Example: post-flop, 3-handed. Player A bets $10, Player B calls,
+  Player C raises all-in to $16 total. Neither Player A nor Player B
+  may re-raise immediately, as Player C’s all-in wager was not a full
+  re-raise.
+
+* **Place your bets in front of your cards**, separate from the
+  pot. **No splashing the pot** (tossing chips into the pot).
+
+* **No string bets.** Raises must be declared before any chips are
+  placed, or the total bet (call + raise) must be placed in one
+  motion.
+
+  Exception: Placing a multiple-chip bet consisting of a full bet plus
+  at least half a full raise is the same as announcing a raise, and
+  the minimum raise must be completed. With less than half a full
+  raise, the excess chips must be pulled back.
+
+* **Declare your bets and raises!** Without declaration, a wager is
+  the full amount of the chip(s) played.
+
+* **Single chip rule.**
+  After a bet, putting a single chip into the pot without declaration
+  is a call, regardless of denomination.
+
+* **Verbal declarations are binding** (“fold”, “check”, “bet”, “call”,
+  “raise”, amount of bet). Raises should be specific. Acceptable raise
+  phrases: “raise, X more”, “raise, plus X”, “raise, X on top”,
+  “raise, Y total”, “raise, Y to go”, “raise to Y”, “raise, make it
+  Y”, “raise, Y all day”. Just saying “raise Z” is ambiguous — are you
+  raising *to* Z or raising Z *more*?
+
+* **Wait to take change.** When calling or betting without exact
+  chips, don’t take change immediately from the pot or from another
+  player’s active bet; this can be very confusing, e.g. when there’s a
+  raise after taking change. Take change from the pot only after the
+  betting is complete, and make your actions clear.
+
+
+All-In
+======
+
+When no further action is possible after one or more players are
+all-in:
+
+* The players are free to open their hands or keep their hole cards
+  hidden, their choice.
+
+  \
+
+* The players may agree to “`run it twice`__” (a.k.a. “deal twice”:
+  deal the remainder of the board cards twice, and split the pot) or
+  come to some other arrangement (run it three times, etc.).
+
+  __ http://poker.wikia.com/wiki/Running_it_twice
+
+
+The Showdown
+============
+
+* The player who made the last aggressive action on the final betting
+  round (the river in Hold’em) must open his/her hand first.
+  If the final round was checked down, the first player on the
+  dealer’s left (earliest position player) must open first.
+
+* To win any part of a pot, **both hole cards must be shown**.
+
+* **No slow rolls:** turn over both hole cards together and without
+  delay.
+
+* **The cards speak,** regardless of verbal declarations of hands.
+
+  - Players are responsible for reading hands and determining the
+    winner.
+
+  - Any player, in the hand or not, may (and should) speak up
+    **immediately** if they think a mistake is being made in the
+    reading of hands.
+
+  - If a player verbally declares their hand, the winning hole cards
+    must still be shown.
+
+    If a player miscalls their hand, causing opponent(s) to muck,
+    the miscalled hand is automatically disqualified — even if the
+    mucked hand(s) can be retrieved.
+
+* **Retrieving mucked cards.**
+  Players may retrieve their cards immediately after mucking by
+  mistake, but only if their cards are clearly identifiable.
+  This is a privilege that may be revoked if abused.
+
+* In the case of a split pot, after splitting evenly, any odd chips go
+  to the first players clockwise after the button/dealer.
+
+
+..
+  Optional (Non-Standard) Rules
+  =============================
+
+  These non-standard rules must be discussed and agreed upon by all
+  players beforehand. **By default, these rules are NOT in force.**
+
+  - Players may “**cash-down**” (remove chips from play) above 200 big
+    blinds, between hands, with declaration. Removed chips can be
+    reintroduced later (also between hands, with declaration).
+
+..
+   Local variables:
+   coding: utf-8
+   sentence-end-double-space: nil
+   End:

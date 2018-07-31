@@ -1,0 +1,56 @@
+=================================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__ -- Day 7
+=================================================================
+
+------------------------------------------------------
+ Conference Day 3 & A Bit More DC -- Friday, March 26
+------------------------------------------------------
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+Today's keynote address was by Bruce Eckel, of "Thinking in..." fame.
+Entertaining but a bit technical and monotonous.  Anna Ravenscroft's
+`Distutils intro talk
+<http://www.python.org/pycon/dc2004/papers/26/>`__ was very good --
+ought to be repeated next time.
+
+After lunch, I discussed some Docutils & code metadata issues with
+Terence Way & Brad Clement, then with Eric Jones.  The plenary session
+concluded the conference, and I went off for a bit of sight-seeing.
+
+At the beginning of the week, Saturday/Sunday, I was wearing a
+sweater, leather jacket, scarf, hat, and gloves.  By Thursday, the
+morning required a light jacket but the evenings were warm enough for
+short-sleeved shirts.  Spring has come to DC!
+
+Walked past the south lawn of the White House, where a large crowd of
+tourists were gathered taking pictures.  Yawn.  Stopped by the
+Smithsonian's Natural History museum again to see if I could find a
+relative of Eric the python, but no luck.  They had cobras and
+rattlesnakes, but no pythons.
+
+Walked down 14th street to the Tidal Basin, which was surrounded by
+cherry trees, beginning to bloom.  The `Jefferson Memorial
+<http://www.nps.gov/thje/>`__ was very impressive, solemn, and
+peaceful.  Continuing on, the `FDR Memorial
+<http://www.nps.gov/fdrm/>`__ was another worthwhile site to visit,
+although I went through it accidentally (it wasn't on my free tourist
+map) and the wrong way, reverse chronologically.  Its fountains
+reminded me of the "emergence" scene near the end of `Logan's Run
+<http://www.imdb.com/title/tt0074812>`__, but the FDR Memorial was
+built in the '90s.  Perhaps the inspiration was the other way around?
+
+Heading back north, I passed by the conference site so I popped in to
+see if anyone was still there.  Spoke with Jeff Kowalczyk again, who
+was in the amphitheater taking advantage of the wired internet access.
+The Twisted people were still going strong.  Some people were out on
+the terrace enjoying the warm weather, including Mike Fletcher, Thomas
+Wouters, Anthony Baxter, Sean Reifschneider, and Sylvia Candelaria de
+Ram.  Their Thai food arrived, but I had other plans: dessert at
+TGIFriday's next door.  My wife and I had gone to TGIFriday's in
+Honolulu once and had a great time.  Excuse me, my brownie delight
+has arrived.
+
+* next: `Day 8 -- Heading Home -- Saturday, March 27 <day_8.html>`__
+* up: `Contents <./>`__

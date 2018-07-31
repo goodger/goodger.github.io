@@ -1,0 +1,10 @@
+==================================================
+ Docutils: Architecture, Extending, and Embedding
+==================================================
+
+Presented at PyCon 2006.
+
+* `S5 HTML slideshow <presentation.html>`__ (use the arrow keys to
+  navigate, or mouse over the lower left corner for controls)
+* `Plain HTML handout <handout.html>`__
+* `reStructuredText source <presentation.txt>`__

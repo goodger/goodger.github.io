@@ -1,0 +1,32 @@
+========================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__
+========================================================
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+.. Note:: I have posted this text to `my new blog
+   <http://www.artima.com/weblogs/viewpost.jsp?thread=42401>`__ over
+   at Artima.com.  They have adopted reStructuredText_ as an
+   alternative to HTML for blog articles!
+
+This was my first time attending a Python conference.  Many thanks to
+the `Python Software Foundation <http://www.python.org/psf>`__,
+Stephan Deibel of `Wing IDE <http://wingide.com/>`__, and all those
+who helped and contributed to get me there for the Docutils sprint and
+for the conference itself.  It was a lot of fun, a lot was learned,
+and a lot was accomplished.
+
+I kept an account of my week at PyCon DC 2004.  Enjoy!
+
+* `Day 0 -- Arrival and Sightseeing -- Friday, March 19 <day_0.html>`__
+* `Day 1 -- Sprint Day 1 -- Saturday, March 20 <day_1.html>`__
+* `Day 2 -- Sprint Day 2 -- Sunday, March 21 <day_2.html>`__
+* `Day 3 -- Sprint Day 3 -- Monday, March 22 <day_3.html>`__
+* `Day 4 -- Sprint Day 4 -- Tuesday, March 23 <day_4.html>`__
+* `Day 5 -- Conference Day 1 -- Wednesday, March 24 <day_5.html>`__
+* `Day 6 -- Conference Day 2 -- Thursday, March 25 <day_6.html>`__
+* `Day 7 -- Conference Day 3 & A Bit More DC -- Friday, March 26 <day_7.html>`__
+* `Day 8 -- Heading Home -- Saturday, March 27 <day_8.html>`__
+
+.. _reStructuredText: http://docutils.sf.net/rst

@@ -1,0 +1,128 @@
+.. -*- coding: utf-8 -*-
+
+==========================================
+ `David Goodger’s <../>`__ Personal Pages
+==========================================
+
+:pronounced: like “Badger”, but **Good**!
+:email: goodger@python.org & dgoodger@gmail.com
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `My Personal Beliefs <beliefs.html>`__: A collection of truths,
+     axioms, and biases
+
+   * `Quotes <quotes.html>`__
+
+   * `My DVD Collection <dvds.html>`__
+
+   * `My Wish List <wish-list.html>`__ (DVDs, books, puzzles; just in
+     case anybody would like to help me *expand* my collection ;-)
+
+   * `My Graphics <../projects/graphics>`__
+
+   * `My Google profile page <http://www.google.com/profiles/dgoodger>`__
+
+   * `My alternate homepage <http://david.goodger.org>`__
+
+.. contents::
+
+
+Family Links
+============
+
+`Goodger.org`__ is the `Goodger Family hub`__.
+
+__
+__ http://www.goodger.org
+
+* My wife Mayumi used to run a home-based business (**closed now**,
+  due in part to complications of `dog adoption
+  <http://trixie.goodger.org>`__): a short-term homestay service
+  (combination bed & breakfast, personal tour guide, and interpreter)
+  geared toward Japanese visitors who would like to experience life
+  with a Canadian family.  She has a `web site in English
+  <http://pages.infinit.net/mayumi/english.html>`__ and `Japanese
+  <http://pages.infinit.net/mayumi>`__ with lots of `photos
+  <http://pages.infinit.net/mayumi/photos.html>`__.
+
+* My father’s first novel, `The Druperman Tapes`, was published in 2005.
+  It’s an exciting thriller set in Las Vegas, in which a group of
+  lowlifes try to extort millions from casinos, threatening (and
+  delivering) deadly results.  Buy it at your local bookstore or order
+  it from your favorite online bookseller (`Chapters/Indigo`__,
+  Amazon.ca__, Amazon.com__, `Barnes & Noble`__).
+
+  __ http://www.chapters.indigo.ca/item.asp?Item=978031232199&Catalog=Books
+  __ http://www.amazon.ca/exec/obidos/ASIN/0312321996/702-9327837-4883219
+  __ http://www.amazon.com/exec/obidos/tg/detail/-/0312321996/103-6517932-9831049
+  __ http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0312321996
+
+
+Articles
+========
+
+These articles are local to this site:
+
+* `An account of my visit to PyCon DC 2004 <pycon_dc_2004/>`__.
+
+* `An abbreviated solution to Rubik’s Cube
+  <puzzles/rubik/solution.html>`__.
+
+* `Dave’s Home Poker Cash Game Rules
+  <poker/home-cash-game-rules.html>`_.
+
+.. * `Solving the Hanayama Cast Cuby Puzzle: A Methodology
+  <puzzles/cast_cuby/>`__.
+
+.. * My collection of `Hanayama Cast Puzzles <puzzles/cast_puzzles/>`__
+
+Also see my blog: `Pythonista & Techno-Geek
+<http://www.artima.com/weblogs/index.jsp?blogger=goodger>`__.
+
+
+GPG Public Key
+==============
+
+Here is my `GPG 1.x public key <david-goodger-pub-gpg.asc>`__. The
+keyID is ``1024D/1D45C68B`` and the fingerprint for this key is ::
+
+    A082 2190 294A AA24 2832  1B50 AEA2 0F8C 1D45 C68B
+
+“GPG” and “GnuPG” both stand for `GNU Privacy Guard
+<http://www.gnupg.org/>`__, a tool for secure communication and data
+storage via strong encryption.  GNU Privacy Guard is a free (as in
+`freedom <http://www.gnu.org/philosophy/free-sw.html>`__, as well as
+no cost) implementation of `OpenPGP <http://www.openpgp.org/>`__.
+
+
+Mugshots
+========
+
+This is what I look like, more or less.  Click on a photo below to get
+the high-res version... *if you dare!*
+
+.. list-table::
+   :class: borderless align-center
+
+   * - .. image:: david-3-thumb.jpg
+          :target: http://www.flickr.com/photos/daninrgb/3405132033/
+
+       .. class:: italic
+
+       Photo by `Dan Ryder <http://www.flickr.com/photos/daninrgb/>`_
+       `© 2009, CC BY-NC <http://creativecommons.org/licenses/by-nc/2.0/>`__
+       (photo taken at `PyCon 2009 <http://us.pycon.org/2009/>`_)
+
+     - .. image:: david-2-thumb.jpg
+          :target: david-2.jpg
+
+       *(378KB)*
+
+     - .. image:: david-1-thumb.jpg
+          :target: david-1.jpg
+
+       *(2.7MB)*
+
+     

@@ -1,0 +1,29 @@
+==============================
+ David Goodger's Puzzle Pages
+==============================
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+.. sidebar:: Related Pages
+   :class: large
+
+   * `My home page <../../>`_
+
+On this site:
+
+* `A Rubik's Cube solution <rubik/solution.html>`__
+
+* `A Rex Cube solution <rex-cube/solution.html>`__
+
+.. * `My collection of Hanayama Cast Puzzles <cast_puzzles/>`__
+
+External sites:
+
+* My `Polyform Puzzler`__ project consists of software that solves
+  many types of polyform puzzles, as well as a gallery of puzzles and
+  solutiosn.  The puzzle times include pentominoes, polycubes (Soma
+  Cubes, pentacubes, and others), polyiamonds, polyhexes, polysticks,
+  polytrigs, and polytwigs.
+
+  __ http://puzzler.sourceforge.net

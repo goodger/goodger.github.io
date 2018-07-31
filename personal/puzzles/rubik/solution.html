@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.15b.dev: http://docutils.sourceforge.net/" />
+<title>Rubik’s Cube Solution</title>
+<meta name="author" content="David Goodger" />
+<link rel="stylesheet" href="../../../../../../default.css" type="text/css" />
+</head>
+<body>
+<div class="document" id="rubiks-cube-solution">
+<h1 class="title">Rubik’s Cube Solution</h1>
+<table class="docinfo" frame="void" rules="none">
+<col class="docinfo-name" />
+<col class="docinfo-content" />
+<tbody valign="top">
+<tr><th class="docinfo-name">Author:</th>
+<td>David Goodger</td></tr>
+<tr><th class="docinfo-name">Contact:</th>
+<td><a class="first last reference external" href="mailto:goodger&#64;python.org">goodger&#64;python.org</a></td></tr>
+</tbody>
+</table>
+<div class="large sidebar">
+<p class="first sidebar-title">Related Pages</p>
+<ul class="last simple">
+<li><a class="reference external" href="../">My puzzle pages</a></li>
+<li><a class="reference external" href="../../">My home page</a></li>
+</ul>
+</div>
+<div class="contents topic" id="contents">
+<p class="topic-title first">Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#middle-layer-edges" id="id1">Middle Layer Edges</a></li>
+<li><a class="reference internal" href="#bottom-corners" id="id2">Bottom Corners</a><ul>
+<li><a class="reference internal" href="#adjacent-corners" id="id3">Adjacent Corners</a></li>
+<li><a class="reference internal" href="#diagonally-opposite-corners" id="id4">Diagonally Opposite Corners</a></li>
+<li><a class="reference internal" href="#swapping-the-other-two-corners" id="id5">Swapping The Other Two Corners</a></li>
+<li><a class="reference internal" href="#finishing-the-corners" id="id6">Finishing The Corners</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#the-last-four-edges" id="id7">The Last Four Edges</a><ul>
+<li><a class="reference internal" href="#adjacent-flipped-edges" id="id8">Adjacent Flipped Edges</a></li>
+<li><a class="reference internal" href="#opposite-flipped-edges" id="id9">Opposite Flipped Edges</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p>Summarized from the solution pages mirrored at
+&lt;<a class="reference external" href="http://jjorg.chem.unc.edu/personal/monroe/cube/Denny3x3/">http://jjorg.chem.unc.edu/personal/monroe/cube/Denny3x3/</a>&gt; and
+&lt;<a class="reference external" href="http://www.helmsoft.org/cube/rubikscube/">http://www.helmsoft.org/cube/rubikscube/</a>&gt;, written by Denny Dedmore.
+The initial instructions (for completing the first/top layer) and move
+icon legend have been omitted for brevity.</p>
+<div class="section" id="middle-layer-edges">
+<h1><a class="toc-backref" href="#id1">Middle Layer Edges</a></h1>
+<p>Find a middle-layer edge piece in the bottom row.  Rotate it under the
+matching side center color.</p>
+<p>To move it up &amp; right:</p>
+<p><img alt="bl" src="images/bl.gif" /> <img alt="rd" src="images/rd.gif" /> <img alt="br" src="images/br.gif" /> <img alt="ru" src="images/ru.gif" /> , <img alt="br" src="images/br.gif" /> <img alt="fcw" src="images/fcw.gif" /> <img alt="bl" src="images/bl.gif" /> <img alt="fcc" src="images/fcc.gif" /></p>
+<p>To move it up &amp; left:</p>
+<p><img alt="br" src="images/br.gif" /> <img alt="ld" src="images/ld.gif" /> <img alt="bl" src="images/bl.gif" /> <img alt="lu" src="images/lu.gif" /> , <img alt="bl" src="images/bl.gif" /> <img alt="fcc" src="images/fcc.gif" /> <img alt="br" src="images/br.gif" /> <img alt="fcw" src="images/fcw.gif" /></p>
+<p>If an edge piece is already in place but backwards, simply apply the
+above sequences twice.  Put a bogus piece from the bottom row in its
+place, moving the problem piece to the bottom.</p>
+</div>
+<div class="section" id="bottom-corners">
+<h1><a class="toc-backref" href="#id2">Bottom Corners</a></h1>
+<p>Flip the Rubik’s Cube upside down; the former, unfinished bottom side
+becomes the top.  Choose a side color, which becomes the front.</p>
+<p>Find the two corners on the top layer with the front side’s color
+(regardless of orientation).  They’ll either be adjacent or diagonally
+opposite.</p>
+<div class="section" id="adjacent-corners">
+<h2><a class="toc-backref" href="#id3">Adjacent Corners</a></h2>
+<p>Rotate the top layer so the corners matching the front color are in
+front.  If they need to be swapped:</p>
+<p><img alt="lu" src="images/lu.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="ld" src="images/ld.gif" /> <img alt="fcw" src="images/fcw.gif" /> , <img alt="tl" src="images/tl.gif" /> <img alt="fcc" src="images/fcc.gif" /> <img alt="lu" src="images/lu.gif" /> <img alt="tl" src="images/tl.gif" /> , <img alt="ld" src="images/ld.gif" /> <img alt="tl" src="images/tl.gif" /> <img alt="tl" src="images/tl.gif" /></p>
+</div>
+<div class="section" id="diagonally-opposite-corners">
+<h2><a class="toc-backref" href="#id4">Diagonally Opposite Corners</a></h2>
+<p>Rotate the top until the top left corner is in the correct position
+and then perform the following procedure to move the other corner into
+the top right position:</p>
+<p><img alt="tl" src="images/tl.gif" /> <img alt="lu" src="images/lu.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="ld" src="images/ld.gif" /> , <img alt="fcw" src="images/fcw.gif" /> <img alt="tl" src="images/tl.gif" /> <img alt="fcc" src="images/fcc.gif" /> <img alt="lu" src="images/lu.gif" /> , <img alt="tl" src="images/tl.gif" /> <img alt="ld" src="images/ld.gif" /> <img alt="tl" src="images/tl.gif" /></p>
+</div>
+<div class="section" id="swapping-the-other-two-corners">
+<h2><a class="toc-backref" href="#id5">Swapping The Other Two Corners</a></h2>
+<p>If the remaining corners need to be swapped, turn the cube around 180
+degrees and perform the following procedure:</p>
+<p><img alt="lu" src="images/lu.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="ld" src="images/ld.gif" /> <img alt="fcw" src="images/fcw.gif" /> , <img alt="tl" src="images/tl.gif" /> <img alt="fcc" src="images/fcc.gif" /> <img alt="lu" src="images/lu.gif" /> <img alt="tl" src="images/tl.gif" /> , <img alt="ld" src="images/ld.gif" /> <img alt="tl" src="images/tl.gif" /> <img alt="tl" src="images/tl.gif" /></p>
+</div>
+<div class="section" id="finishing-the-corners">
+<h2><a class="toc-backref" href="#id6">Finishing The Corners</a></h2>
+<p>Spin the entire cube (keeping the top up) until the top center colors
+match one of the 7 patterns below (ignore other colors).</p>
+<img alt="images/corners.png" src="images/corners.png" />
+<p>Orient the cube as shown above and perform this sequence:</p>
+<p><img alt="lu" src="images/lu.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="ld" src="images/ld.gif" /> <img alt="tr" src="images/tr.gif" /> , <img alt="lu" src="images/lu.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="ld" src="images/ld.gif" /> , <img alt="tr" src="images/tr.gif" /> <img alt="tr" src="images/tr.gif" /></p>
+<p>If the corners are not quite finished, match up the new pattern and
+perform the sequence once again.  This process may have to be
+performed up to three times.</p>
+</div>
+</div>
+<div class="section" id="the-last-four-edges">
+<h1><a class="toc-backref" href="#id7">The Last Four Edges</a></h1>
+<p>Usually at least one of the 4 remaining edges will be in place.  Find
+that piece and rotate the cube until it is positioned in the front.
+If no edge is in place, choose any side to be the front.  Perform the
+sequence below once then start over.</p>
+<p>Perform the moves below to put all 4 pieces in their correct
+locations:</p>
+<p><img alt="vu" src="images/vu.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="vd" src="images/vd.gif" /> <img alt="tr" src="images/tr.gif" /> , <img alt="tr" src="images/tr.gif" /> <img alt="vu" src="images/vu.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="vd" src="images/vd.gif" /></p>
+<p>This step may have to be performed twice to get all edges in place.</p>
+<div class="section" id="adjacent-flipped-edges">
+<h2><a class="toc-backref" href="#id8">Adjacent Flipped Edges</a></h2>
+<p>Orient the flipped edges so one is in the front and one is to the
+right.  Then perform this sequence:</p>
+<p><img alt="fcc" src="images/fcc.gif" /> <img alt="lu" src="images/lu.gif" /> <img alt="rd" src="images/rd.gif" /> <img alt="hl" src="images/hl.gif" /> , <img alt="rd" src="images/rd.gif" /> <img alt="rd" src="images/rd.gif" /> <img alt="hl" src="images/hl.gif" /> <img alt="hl" src="images/hl.gif" /> , <img alt="rd" src="images/rd.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="ru" src="images/ru.gif" /> ,
+<img alt="hr" src="images/hr.gif" /> <img alt="hr" src="images/hr.gif" /> <img alt="rd" src="images/rd.gif" /> <img alt="rd" src="images/rd.gif" /> , <img alt="hr" src="images/hr.gif" /> <img alt="ru" src="images/ru.gif" /> <img alt="tr" src="images/tr.gif" /> <img alt="tr" src="images/tr.gif" /> , <img alt="ld" src="images/ld.gif" /> <img alt="fcw" src="images/fcw.gif" /></p>
+</div>
+<div class="section" id="opposite-flipped-edges">
+<h2><a class="toc-backref" href="#id9">Opposite Flipped Edges</a></h2>
+<p>Orient the flipped edges to the left and right.  Then:</p>
+<p><img alt="rd" src="images/rd.gif" /> <img alt="hl" src="images/hl.gif" /> <img alt="rd" src="images/rd.gif" /> <img alt="rd" src="images/rd.gif" /> , <img alt="hl" src="images/hl.gif" /> <img alt="hl" src="images/hl.gif" /> <img alt="rd" src="images/rd.gif" /> <img alt="tr" src="images/tr.gif" /> , <img alt="tr" src="images/tr.gif" /> <img alt="ru" src="images/ru.gif" /> <img alt="hr" src="images/hr.gif" /> <img alt="hr" src="images/hr.gif" /> ,
+<img alt="rd" src="images/rd.gif" /> <img alt="rd" src="images/rd.gif" /> <img alt="hr" src="images/hr.gif" /> <img alt="ru" src="images/ru.gif" /> , <img alt="tr" src="images/tr.gif" /> <img alt="tr" src="images/tr.gif" /></p>
+</div>
+</div>
+</div>
+<div class="footer">
+<hr class="footer" />
+<a class="reference external" href="solution.txt">View document source</a>.
+Generated on: 2018-07-27 20:08 UTC.
+Generated by <a class="reference external" href="http://docutils.sourceforge.net/">Docutils</a> from <a class="reference external" href="http://docutils.sourceforge.net/rst.html">reStructuredText</a> source.
+
+</div>
+</body>
+</html>

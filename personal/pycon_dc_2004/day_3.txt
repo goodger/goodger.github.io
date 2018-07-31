@@ -1,0 +1,38 @@
+=================================================================
+ A Week at `PyCon DC 2004 <http://pycon.org/dc2004/>`__ -- Day 3
+=================================================================
+
+----------------------------------
+ Sprint Day 3 -- Monday, March 22
+----------------------------------
+
+:Author: David Goodger
+:Contact: goodger@python.org
+
+The watch's alarm didn't wake me up, possibly because I was wearing
+it, and I was bundled up under the covers.  I woke up a few minutes
+later anyway.
+
+Was cold this morning, so I was glad for my sweater, scarf, hat &
+gloves.  A lot more traffic on Monday morning than Saturday & Sunday.
+
+Mike Orr joined the `Docutils sprint`_ for the morning; he and Reggie
+began working on an API for document fragments, particularly HTML.  By
+evening, Reggie Dugard had made good progress, almost complete.  Aahz
+seems to be making steady strides with his FrameMaker writer, and Matt
+Gilbert with MoinMoin integration.  Ian Bicking was back with us after
+attending the Zope tutorial yesterday, but Oliver Rutherfurd is at
+work today.  Ed Loper and Bill Sconce also continued hacking on
+DocPy/LaTeX; Steve Holden is now busy with conference matters.
+
+For lunch, Reggie and I visited the conference building's food court,
+and impressive place with a dozen or so vendors, from Burger King and
+Taco Bell to Crepes and Chinese.  We settled on Chinese; I had sweet &
+hot chicken on rice.  We got big helpings; again I wasn't hungry for
+dinner.  There were some kind of peppers in the food and I ate one by
+accident.  Hot!
+
+* next: `Day 4 -- Sprint Day 4 -- Tuesday, March 23 <day_4.html>`__
+* up: `Contents <./>`__
+
+.. _Docutils sprint: http://www.python.org/cgi-bin/moinmoin/DocutilsSprint
