@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ascii" />
-<meta name="generator" content="Docutils 0.5: http://docutils.sourceforge.net/" />
+<meta name="generator" content="Docutils 0.15b.dev: http://docutils.sourceforge.net/" />
 <title>Docutils: Architecture, Extending, and Embedding</title>
 <link rel="stylesheet" href="../../../../default.css" type="text/css" />
 </head>
@@ -21,7 +21,7 @@
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<div class="handout container">
+<div class="handout docutils container">
 We will describe the architecture of Docutils, how to add
 functionality to Docutils, and how to use Docutils in your own
 applications.  Not necessarily in that order.</div>
@@ -129,7 +129,7 @@ We&#8217;re currently working on 0.5.</p>
 <li>Documentation: <span class="incremental">from NASA</span> <span class="incremental">to the William Tyndale Society Journal</span></li>
 </ul>
 </div>
-<div class="section" id="what-s-missing">
+<div class="section" id="whats-missing">
 <h1>What&#8217;s Missing?</h1>
 <p class="incremental">Major features:</p>
 <ul class="incremental">
@@ -166,7 +166,7 @@ Transformer denotes a possibly non-standard document tree.</p>
 <div class="section" id="data-flow-1">
 <h1>Data Flow (1)</h1>
 <p></p>
-<img align="right" alt="components-small.png" class="align-right" src="components-small.png" />
+<img alt="components-small.png" class="align-right" src="components-small.png" />
 <p class="handout">Docutils components are selected at run time by the client application
 or front end.</p>
 <ol class="incremental arabic">
@@ -201,7 +201,7 @@ Reader.</p>
 <div class="section" id="data-flow-2">
 <h1>Data Flow (2)</h1>
 <p></p>
-<img align="right" alt="components-small.png" class="align-right" src="components-small.png" />
+<img alt="components-small.png" class="align-right" src="components-small.png" />
 <ol class="incremental arabic" start="5">
 <li><p class="first">The Publisher runs the <strong>Transformer</strong>.</p>
 <p class="handout">The Transformer applies various <strong>Transforms</strong> to the document
@@ -273,23 +273,23 @@ library implementing the nodes of the document tree.</p>
 <div class="section" id="docutils-as-a-library-1">
 <h1>Docutils as a Library (1)</h1>
 <p class="handout">How to use Docutils from your own application.</p>
-<p class="incremental">Convenience functions, from <tt class="docutils literal"><span class="pre">docutils.core</span></tt>:</p>
+<p class="incremental">Convenience functions, from <tt class="docutils literal">docutils.core</tt>:</p>
 <ul class="incremental">
 <li><pre class="first literal-block">
 <strong>publish_cmdline</strong>(writer_name='html',
                 description='...')
 </pre>
-<p class="handout">The <tt class="docutils literal"><span class="pre">publish_cmdline</span></tt> function is used by all the front-end
+<p class="handout">The <tt class="docutils literal">publish_cmdline</tt> function is used by all the front-end
 tools provided with Docutils.  The example above is from
-<tt class="docutils literal"><span class="pre">rst2html.py</span></tt>.</p>
+<tt class="docutils literal">rst2html.py</tt>.</p>
 </li>
 <li><pre class="first literal-block">
 <strong>publish_file</strong>(source_path='test.txt',
              destination_path='test.tex',
              writer_name='latex')
 </pre>
-<p class="handout">You can also pass file objects in the <tt class="docutils literal"><span class="pre">source</span></tt> and
-<tt class="docutils literal"><span class="pre">destination</span></tt> parameters.</p>
+<p class="handout">You can also pass file objects in the <tt class="docutils literal">source</tt> and
+<tt class="docutils literal">destination</tt> parameters.</p>
 </li>
 <li><pre class="first literal-block">
 input = get_rst_document()
@@ -303,7 +303,7 @@ output = <strong>publish_string</strong>(source=input,
 <div class="section" id="docutils-as-a-library-2">
 <h1>Docutils as a Library (2)</h1>
 <ul>
-<li><p class="first"><tt class="docutils literal"><span class="pre">publish_doctree</span></tt>:</p>
+<li><p class="first"><tt class="docutils literal">publish_doctree</tt>:</p>
 <pre class="incremental literal-block">
 &gt;&gt;&gt; input = open('test.txt', 'r')
 &gt;&gt;&gt; document = <strong>publish_doctree</strong>(source=input)
@@ -322,7 +322,7 @@ output = <strong>publish_string</strong>(source=input,
 <div class="section" id="docutils-as-a-library-3">
 <h1>Docutils as a Library (3)</h1>
 <ul>
-<li><p class="first"><tt class="docutils literal"><span class="pre">publish_from_doctree</span></tt>:</p>
+<li><p class="first"><tt class="docutils literal">publish_from_doctree</tt>:</p>
 <pre class="incremental literal-block">
 &gt;&gt;&gt; output = <strong>publish_from_doctree</strong>(
 ...     document, writer_name='html')
@@ -340,7 +340,7 @@ output = <strong>publish_string</strong>(source=input,
 </pre>
 </li>
 </ul>
-<p class="handout">Nabu uses the <tt class="docutils literal"><span class="pre">publish_doctree</span></tt> and <tt class="docutils literal"><span class="pre">publish_from_doctree</span></tt> functions.</p>
+<p class="handout">Nabu uses the <tt class="docutils literal">publish_doctree</tt> and <tt class="docutils literal">publish_from_doctree</tt> functions.</p>
 </div>
 <div class="section" id="extending-docutils">
 <h1>Extending Docutils</h1>
@@ -371,7 +371,7 @@ added:</p>
 <ul>
 <li><p class="first"><tt class="docutils literal"><span class="pre">test_*.py</span></tt></p>
 </li>
-<li><p class="first"><tt class="docutils literal"><span class="pre">test_*/</span></tt></p>
+<li><p class="first"><tt class="docutils literal">test_*/</tt></p>
 <p class="handout">(requires an __init__.py module; a real package!)</p>
 </li>
 </ul>
@@ -421,7 +421,7 @@ rst2html.py <strong>--language de</strong> test.txt test.html
 <p class="huge center">Join the Docutils sprint!</p>
 <p class="handout">We will both be here for all 4 sprint days.</p>
 </div>
-<div class="section" id="and-that-s-just-the-beginning">
+<div class="section" id="and-thats-just-the-beginning">
 <h1>And that&#8217;s just the beginning!</h1>
 <div class="big center incremental line-block">
 <div class="line"><a class="reference external" href="http://docutils.sourceforge.net">http://docutils.sourceforge.net</a></div>
@@ -438,7 +438,7 @@ rst2html.py <strong>--language de</strong> test.txt test.html
 <div class="footer">
 <hr class="footer" />
 <a class="reference external" href="presentation.txt">View document source</a>.
-Generated on: 2008-05-08 01:39 UTC.
+Generated on: 2018-08-15 04:18 UTC.
 Generated by <a class="reference external" href="http://docutils.sourceforge.net/">Docutils</a> from <a class="reference external" href="http://docutils.sourceforge.net/rst.html">reStructuredText</a> source.
 
 </div>

@@ -12,6 +12,8 @@
 
 .. Note::
 
+   * **This list is not up to date; last updated in 2012.**
+
    * “IMDb” stands for the `Internet Movie Database
      <http://www.imdb.com>`__, a great resource.
 
@@ -33,11 +35,10 @@
    * Plot outlines have been adapted from DVD covers and IMDb’s pages.
 
    Here’s my `wish list`_ for anybody who would like to help me expand
-   my collection.  I also have an `Amazon.ca wish list`_;
-   FutureShop.ca_ may be cheaper though.
+   my collection.
 
-   Many of these films contain hidden features, which I’ve collected
-   in my `easter eggs file`_.
+   Many of these films contain hidden features, some of which I’ve
+   collected in my `easter eggs file`_.
 
    .. _wish list: wish-list.html#dvds
    .. _Amazon.ca wish list:
