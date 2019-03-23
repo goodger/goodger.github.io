@@ -27,47 +27,69 @@ A collection of truths, axioms, and biases.
 Worldview
 =========
 
-.. image:: brights_logo.gif
-   :align: right
-   :class: borderless
-   :target: http://www.the-brights.net/
+I am a humanist__/rationalist__/naturalist__, and therefore an
+atheist__.
 
-I am a naturalist/rationalist/humanist/Bright_:
+__ https://en.wikipedia.org/wiki/Humanism
+__ https://en.wikipedia.org/wiki/Rationalism
+__ https://en.wikipedia.org/wiki/Naturalism_(philosophy)
+__ https://en.wikipedia.org/wiki/Atheism
 
-    A **bright** is an individual whose worldview is naturalistic
-    (free from supernatural and mystical elements).
-
-(I don’t like the label “atheist” because it describes only an
-absence, a negative.  If I labelled myself an atheist it would only
+In the past I eschewed the label “atheist” because it describes only
+an absence, a negative. If I label myself an atheist it would only
 describe what I am *not*: I don’t believe in supernatural creators.
 This is true, but it’s only the consequence of what I do believe,
 which is much more important. When asked [e.g. on a census form] what
-my religion is, I answer "none"; atheism is *not* a religion, it is
-the *absence* of religion.)
+my religion is, I answer “none”; atheism is *not* a religion, it is
+the *absence* of religion.
+
+Now I embrace the label of atheist, as a shorthand for “agnostic to
+the point of atheism”. Of course, it’s impossible to prove the
+non-existence of a creator, as it is impossible to prove a negative
+(“the absense of evidence is not evidence of absence”). However, as
+Carl Sagan stated,
+
+    Extraordinary claims require extraordinary evidence.
+
+The existence of a supreme being is a very extraordinary claim indeed,
+and I have seen no convincingly extraordinary evidence to support it.
+Anecdotes, feelings of awe, ancient scrolls, questionably-reported
+history, tradition, the beliefs of others, and ignorance__, are not
+evidence.
+
+__ https://en.wikipedia.org/wiki/God_of_the_gaps
+
+(By the way, you’re an atheist too. Even if you believe in the
+Judeo-Christian “God”, you certainly don’t believe in Osiris, or
+Vishnu, or Zeus, or Odin, or Amaterasu, or any of the other gods of
+human history. You’re an
+Osiris/Visnu/Zeus/Odin/Amaterasu/etc.-atheist. So am I. I simply
+believe in one god fewer, for a grand total of zero. It’s much simpler
+that way.)
 
 I am an ethical, moral person.  My ethics and morals come from
 respect, love, and awe for the nature of the universe, society, and
 for life itself.
 
-I “believe” in science, but it is a rational and flexible belief,
+I “believe” in science, but it is a rational and revisable belief,
 based on evidence and reproducible, verifiable, and falsifiable
-experiment.  The essential difference, as I see it, is this: **science
+experiment. The essential difference, as I see it, is this: **science
 is evidence without faith, while religion is faith without evidence**.
 I try to remain open-minded: I am willing to entertain the idea that I
 am wrong, and I am willing re-examine my beliefs, given compelling new
-evidence.  But as Carl Sagan stated,
+evidence.
 
-    Extraordinary claims require extraordinary evidence.
-
-Rather than stating “I believe in science,” it may be better to state
-that “I *trust* the process of science and the scientific method,”
-because |science works|_.  Given enough time and resources, I could
-reproduce the experiments and observations that have produced our
-understanding of the laws of nature.
+Rather than stating “I believe in science,” it may be more accurate to
+state that “I *trust* the process of science and the scientific
+method,” because |science works|_. Given enough time and resources, I
+could reproduce the experiments and observations that have produced
+our current understanding of the laws of nature. Is it complete? No,
+but it’s more complete than it was yesterday, and will be more
+complete tomorrow.
 
 I am generally tolerant of religions, superstitions, and other
-supernatural belief systems -- even though I find them irrational and
-misguided at best -- as long as it is kept personal.  What I cannot
+supernatural belief systems — even though I find them irrational and
+misguided at best — as long as it is kept personal.  What I cannot
 tolerate is someone imposing their worldview on me or on others.
 
 .. _Bright: http://www.the-brights.net/
@@ -125,7 +147,7 @@ Marriage
 * Sometimes relationships can be hard, but you have to persevere.
   Marriage does not allow for quitters.
 
-* Marriage implies -- or should imply -- *unconditional* love.
+* Marriage implies — or should imply — *unconditional* love.
 
 * For better or for worse, in richer and in poorer... these are
   *vows*.  They’re not just platitudes that can be ignored when they
