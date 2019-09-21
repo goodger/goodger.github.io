@@ -10,15 +10,15 @@ recursive :
 
 presentation.html : presentation.txt docutils.conf
 	@echo "making $@ from $<"
-	@s52html.py $< $@
+	@python2 ~/projects/docutils/docutils/tools/s52html.py $< $@
 
 handout.html : presentation.txt docutils.conf
 	@echo "making $@ from $<"
-	@rst2html.py $< $@
+	@python2 ~/projects/docutils/docutils/tools/rst2html.py $< $@
 
 %.html : %.txt docutils.conf
 	@echo "making $@ from $<"
-	@rst2html.py $< $@
+	@python2 ~/projects/docutils/docutils/tools/rst2html.py $< $@
 
 checkin : 
 	@svn ci -q --force-log -m. Makefile docutils.conf default.css

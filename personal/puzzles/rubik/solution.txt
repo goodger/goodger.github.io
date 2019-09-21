@@ -1,8 +1,8 @@
 .. -*- coding: utf-8 -*-
 
-=======================
- Rubik’s Cube Solution
-=======================
+================================
+ Rubik’s Cube Solution & Extras
+================================
 
 :Author: David Goodger
 :Contact: goodger@python.org
@@ -14,6 +14,11 @@
    * `My home page <../../>`_
 
 .. contents::
+
+
+-----------------------
+ Rubik’s Cube Solution
+-----------------------
 
 Summarized from the solution pages mirrored at
 <http://jjorg.chem.unc.edu/personal/monroe/cube/Denny3x3/> and
@@ -146,3 +151,39 @@ Orient the flipped edges to the left and right.  Then:
 .. |tr| image:: images/tr.gif
 .. |vd| image:: images/vd.gif
 .. |vu| image:: images/vu.gif
+
+
+--------
+ Extras
+--------
+
+Patterns
+========
+
+Source: `Pretty Rubik’s Cube patterns with algorithms`__
+
+__ https://ruwix.com/the-rubiks-cube/rubiks-cube-patterns-algorithms/
+
+
+Six Spots
+---------
+
+Permute the centers of the top, front, & right sides (T → F → R → T),
+as well as the down, bottom, & left sides (D → B → L → D).
+
+    U D' R L' F B' U D'
+
+Cross
+-----
+
+Rotate each corner in-place, resulting in a cross on each face:
+
+    R2 L' D F2 R' D' R' L U' D R D B2 R' U D2
+
+
+Cube in a Cube in a Cube
+------------------------
+
+Rotate the URF & DLB corners, 2×2 & 1×1.
+
+    U' L' U' F' R2 B' R F U B2 U B' L U' F U R F'

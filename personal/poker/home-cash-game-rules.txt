@@ -6,7 +6,7 @@
 
    .. contents:: :local:
 
-**Version 8, updated 2018-06-21.**
+**Updated 2019-07-19.**
 
 We use “`Robert’s Rules of Poker, version 11`_” as the basis of our
 house rules, as applicable, and as modified by the clarifications and
@@ -79,13 +79,14 @@ preferential treatment.
 Miscellaneous
 =============
 
-* **No smoking** in the house. Smokers, please exhale fully, outside,
-  before re-entering the house.
+* **No smoking or vaping** in the house. Smokers, please exhale fully,
+  outside, before re-entering the house.
 
   \
 
-* **No standing/urinal use of the toilet**. Drop trou & sit, men! I’m
-  tired of cleaning up after drunkards with bad aim.
+* **No standing/urinal use of the toilet**. Drop trou & sit, men!
+  Consider the ladies! Also, I’m tired of cleaning up after drunkards
+  with bad aim.
 
 * Please **remove your shoes at the door**. No shoes indoors.
 
@@ -260,7 +261,8 @@ Blinds
   (“triple straddle”), etc. **The full amount of the last straddle is
   also the minimum raise in the pre-flop betting round.**
 
-  Sleeper straddles and Mississippi straddles are **not** allowed,
+  Button straddles, sleeper straddles, and Mississippi straddles
+  are **not** allowed,
   because they’re too obscure and confusing (requiring explanations
   that slow down the game), and they tend to piss off the other
   players. Live straddles are bad enough.
@@ -274,7 +276,9 @@ Dealing
   <http://truepokerdealer.com/>`_ (or their `YouTube channel
   <https://www.youtube.com/user/truepokerdealer/videos>`__).
 
-* In player-dealt games, we may use two decks and “**shuffle behind**”
+* .. _shuffle behind:
+
+  In player-dealt games, we may use two decks and “**shuffle behind**”
   (a.k.a. “clean up your own mess”) to speed up play:
 
   - Use two decks of cards (with different color backs) on alternating

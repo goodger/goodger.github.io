@@ -14,13 +14,13 @@ Summary
 =======
 
 Over 20 years of professional experience in systems analysis, software
-development, and training. Devlopment experience on Unix, Linux,
-Windows, and MacOS platforms, developing everything from GUI desktop
-applications (using wxPython & tkInter toolkits) to command-line
-scripts. Recognized expert in the Python programming language, with
-experience in other languages (Perl, C, SQL, etc.). Extensive
-experience with markup languages (XML, SGML, HTML) for documentation &
-data interchange.
+development, and training. Systems devlopment experience on Unix,
+Linux, Windows, and MacOS platforms, developing everything from GUI
+desktop applications (using wxPython & tkInter toolkits) to
+command-line scripts. Recognized expert in the Python programming
+language, with experience in other languages (Perl, C, SQL, etc.).
+Extensive experience with markup languages (XML, SGML, HTML) for
+documentation & data interchange.
 
 ..
   I am open to consulting opportunities as well as long-term projects
@@ -57,7 +57,7 @@ Documentation Technologies
     XML, XSL, SGML; HTML/XHTML, CSS; Docutils/reStructuredText;
     Unicode; document analysis, DTD design; document data processing.
 
-Networking
+Networks
     Ethernet, TCP/IP, LAN Manager, Windows Networking, AppleTalk, NFS.
 
 Languages
@@ -82,8 +82,12 @@ Personal Qualities
 Experience
 ==========
 
-Medtronic Inc., Mounds View, Minnesota, USA. *(Initially employed by Corventis Inc., Saint Paul, Minnesota, which was acquired in 2014/06 by Medtronic Inc.)*
-    * Principal Systems Engineer — (regular employee, 2013/09 to present)
+Medtronic Inc., Mounds View, Minnesota, USA.
+    * Initially employed by Corventis Inc., Saint Paul, Minnesota,
+      which was acquired in 2014/06 by Medtronic Inc.
+    * Principal Systems Engineer. Data analysis, software systems
+      requirements development; Agile Scrum Product Owner &
+      requirements engineer — (regular employee, 2013/09 to present)
     * Programmer/Analyst. Developed desktop GUI software for an
       electronic medical device system. Technologies: wxPython GUI
       toolkit, USB communication, web services, Dropbox
@@ -198,14 +202,14 @@ Publications
 `Python For Dummies` (Wiley, 2006)
     Technical Editor.
 
-`Python Cookbook, Second Edition` (O'Reilly & Associates, 2005)
+`Python Cookbook, Second Edition` (O’Reilly & Associates, 2005)
     Contributor (section 1.23).
 
-`Python Cookbook` (O'Reilly & Associates, 2002)
+`Python Cookbook` (O’Reilly & Associates, 2002)
     Contributor (sections 15.4 & 2.3).
 
 `Professional Linux Programming` (Wrox Press, 2000)
-    Author of Chapter 15, "Python," a programmer's introduction to the
+    Author of Chapter 15, “Python,” a programmer’s introduction to the
     Python programming language.
 
 
@@ -293,10 +297,13 @@ McGill Go Club
 Honours & Awards
 ================
 
-Nominated for the 2003 ActiveState Active Awards Programmers' Choice
+Featured as a “Python Dev of the Week”, 2016
+(https://www.blog.pythonlibrary.org/2016/12/12/pydev-of-the-week-david-goodger/)
+
+Nominated for the 2003 ActiveState Active Awards Programmers’ Choice
 Award for Python (http://www.activestate.com/Corporate/ActiveAwards/).
 
-Named Chief Officer of the Year 1988-1989, by the Students' Society of
+Named Chief Officer of the Year 1988-1989, by the Students’ Society of
 McGill University, as President of the McGill Go Club.
 
 Awarded the Lakeshore School Board Medal for Academic Achievement,
@@ -309,5 +316,6 @@ Technical Drawing prizes at high school graduation.
 Miscellaneous
 =============
 
-Interests include Go, cycling, reading, writing, movies, woodworking,
-puzzles, poker, origami, and boomerangs.
+Interests include cycling (bicycle touring), poker, puzzles, Go,
+reading, writing, movies, woodworking, origami, recreational
+mathematics, knots, and boomerangs.
