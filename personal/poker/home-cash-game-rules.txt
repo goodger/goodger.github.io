@@ -6,15 +6,14 @@
 
    .. contents:: :local:
 
-**Updated 2019-07-19.**
+**Updated 2020-03-01.**
 
-We use “`Robert’s Rules of Poker, version 11`_” as the basis of our
+We use “`Robert’s Rules of Poker, version 11`__” as the basis of our
 house rules, as applicable, and as modified by the clarifications and
 exceptions that comprise the remainder of this document. We typically
 play No-Limit Texas Hold’em.
 
-.. _Robert’s Rules of Poker, version 11:
-   http://www.homepokertourney.com/roberts-rules-of-poker.htm
+__ http://www.homepokertourney.com/roberts-rules-of-poker.htm
 
 I am a member of the `“Minneapolis Rounders” poker meetup group`__. My
 home games are posted on the group’s calendar, and seat reservations
@@ -33,7 +32,7 @@ Have Fun!
 
 **Only play poker with money you can easily afford to lose.**
 
-**No grudges shall be held.**
+**Hold no grudges.**
 
 Bottom line: if you’re not enjoying yourself at the poker table, maybe
 you should stop for a while; do something else that you find
@@ -58,10 +57,13 @@ accordingly.
 
 **When you reserve a seat at a game, you commit to playing in that
 game.**
+
+**Can’t play? You MUST inform the host ASAP**
+
 Reserving a seat then not showing up hurts the game and is
 disrespectful to the host and to the other players.
-If something comes up and you can’t play, **you MUST inform the host
-ASAP**.
+If something comes up and you can’t play, you **MUST** inform the host
+ASAP.
 Failure to do so risks not being welcome in future (e.g. your
 reservation may be bumped or deleted).
 Life happens, but no-shows can prevent other willing players (i.e.
@@ -133,7 +135,7 @@ Miscellaneous
   cards off the table, and don’t cover your cards completely with your
   hands.
 
-* **Protect your cards.*** Use a chip or a card capper (card guard,
+* **Protect your cards.** Use a chip or a card capper (card guard,
   card protector) on top of your cards, or place your hand *partially*
   on top of your cards. If your cards enter the muck, even
   accidentally, they’re dead.
@@ -168,7 +170,7 @@ Miscellaneous
     tables. Players may volunteer to move, or we’ll draw for seats.
     The host/banker doesn’t move.
 
-  - Newcomers go to the table with fewer players.
+  - New arrivals go to the table with fewer players.
 
   - When the two tables become unbalanced (a difference of two or more
     players), one or more players from the larger (more populous)
@@ -224,11 +226,11 @@ Blinds
 
 * **We use the “dead button” rule** (continuity of blinds). The
   alternative, the “forward moving button” rule, is fairer but is too
-  complicated to implement and slows down the game. `Explanations of
-  both rules can be found here
-  <http://learn.pokernews.com/news/2013/10/a-look-at-house-rules-more-button-rules-2085.htm>`__
-  `and here.
-  <http://blog.nexuspoker.com/2011/11/dead-button-vs-moving-button-poker.html>`__
+  complicated to implement and slows down the game. Explanations of
+  both rules can be found here__ and here__.
+
+  __ http://learn.pokernews.com/news/2013/10/a-look-at-house-rules-more-button-rules-2085.htm
+  __ http://blog.nexuspoker.com/2011/11/dead-button-vs-moving-button-poker.html
 
 * New players entering a game-in-progress are **not** required to post
   a big blind.
@@ -258,8 +260,9 @@ Blinds
   including the player on the button: the first straddle is to the
   left of and double the big blind, the next straddle is double that
   (so 4 times the big blind, a “double straddle”), then 8 times
-  (“triple straddle”), etc. **The full amount of the last straddle is
-  also the minimum raise in the pre-flop betting round.**
+  (“triple straddle”), etc. As straddles are considered additional
+  blinds, **the full amount of the last straddle is also the minimum
+  raise in the pre-flop betting round.**
 
   Button straddles, sleeper straddles, and Mississippi straddles
   are **not** allowed,
@@ -271,10 +274,13 @@ Blinds
 Dealing
 =======
 
-* How to shuffle, cut, and deal properly: see `HowToShuffle.com
-  <http://www.howtoshuffle.com/>`_ and/or `TruePokerDealer.com
-  <http://truepokerdealer.com/>`_ (or their `YouTube channel
-  <https://www.youtube.com/user/truepokerdealer/videos>`__).
+* How to shuffle, cut, and deal properly: see `TruePokerDealer.com`__
+  (or their `YouTube channel`__) and/or `HowToShuffle.com
+  (archived)`__.
+
+  __ http://truepokerdealer.com/
+  __ https://www.youtube.com/user/truepokerdealer/videos
+  __ https://web.archive.org/web/20180529130500/http://www.howtoshuffle.com/
 
 * .. _shuffle behind:
 
@@ -347,8 +353,11 @@ Dealing
   through a distinguishing mark on the card back. If you need to leave
   the table, ask a neighbor to finish the deal for you.
 
-* See `Poker Board Cards
-  <http://www.howtoshuffle.com/poker-board-cards.htm>`_ for details.
+* See `this video (TruePokerDealer)`__ and/or `Poker Board Cards
+  (HowToShuffle.Com archived)`__ for details.
+
+  __ https://youtu.be/s2MQmZI3FO4?t=105
+  __ https://web.archive.org/web/20180521003114/http://www.howtoshuffle.com/poker-board-cards.htm
 
 
 Betting
@@ -402,8 +411,8 @@ Betting
 
 * **Wait to take change.** When calling or betting without exact
   chips, don’t take change immediately from the pot or from another
-  player’s active bet; this can be very confusing, e.g. when there’s a
-  raise after taking change. Take change from the pot only after the
+  player’s active bet; this can be very confusing, e.g. after a
+  raise. Take change from the pot only after the
   betting is complete, and make your actions clear.
 
 
