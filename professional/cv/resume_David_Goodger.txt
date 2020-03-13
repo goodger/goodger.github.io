@@ -5,7 +5,7 @@
 ===============
 
 :Email: goodger@python.org
-:Web Site: http://python.net/~goodger (includes this résumé)
+:Web Site: https://david.goodger.org (includes this résumé)
 
 .. contents::
 
@@ -14,24 +14,24 @@ Summary
 =======
 
 Over 20 years of professional experience in systems analysis, software
-development, and training. Systems devlopment experience on Unix,
-Linux, Windows, and MacOS platforms, developing everything from GUI
-desktop applications (using wxPython & tkInter toolkits) to
-command-line scripts. Recognized expert in the Python programming
-language, with experience in other languages (Perl, C, SQL, etc.).
-Extensive experience with markup languages (XML, SGML, HTML) for
-documentation & data interchange.
+architecture & development, consulting, training, and project
+management. Recognized expert in the Python programming language, with
+experience in other languages (Perl, C, SQL, etc.). Extensive
+experience with markup languages (XML, SGML, HTML) for documentation &
+data interchange. Systems devlopment experience on Unix, Linux,
+Windows, and MacOS platforms, developing everything from GUI desktop
+applications (using wxPython & tkInter toolkits) to web services to
+command-line scripts.
 
-..
-  I am open to consulting opportunities as well as long-term projects
-  or employment, in the areas of computer systems analysis, software
-  development, project management, and training.  The ideal position
-  would exercise my superior programming ability and operating systems
-  knowledge, would utilize my excellent communication skills, and
-  would offer variety, learning opportunities, and challenge.  I am
-  open to on-site work as well as telecommuting.
+I am open to consulting opportunities as well as long-term projects or
+employment, in the areas of systems analysis, software development,
+project management, and training. The ideal position would exercise my
+superior software architecture & development ability, would utilize my
+excellent communication skills, and would offer variety, learning
+opportunities, and challenge. I am open to on-site work as well as
+telecommuting.
 
-I am currently fully employed and not seeking a change.
+.. I am currently fully employed and not seeking a change.
 
 
 Skills
@@ -41,17 +41,17 @@ Management
     Project management (including Open Source), event management,
     technical team leader.
 
-Operating Systems
-    Linux/UNIX/QNX/Solaris, Windows, Mac OS X.
-
 Programming Languages
     Python is my programming language of choice.  I also have
-    experience with Perl, Lisp, Basic/VB, C/C++, SQL, shell script,
+    experience with Perl, Lisp, Basic/VB, C, C++, SQL, shell script,
     and AppleScript.
 
 Development Methodologies
     Extreme Programming, design patterns, refactoring, test-driven
     development, UML.
+
+Operating Systems
+    Linux/UNIX/QNX/Solaris, Windows, Mac OS X.
 
 Documentation Technologies
     XML, XSL, SGML; HTML/XHTML, CSS; Docutils/reStructuredText;
@@ -70,7 +70,7 @@ General Transferable Skills
     * Problem solving: thorough and tenacious.
     * Multitasking: ability to juggle multiple projects
       simultaneously.
-    * Management: projects and personnel.
+    * Management: projects and teams.
     * Teaching and training.
 
 Personal Qualities
@@ -82,9 +82,7 @@ Personal Qualities
 Experience
 ==========
 
-Medtronic Inc., Mounds View, Minnesota, USA.
-    * Initially employed by Corventis Inc., Saint Paul, Minnesota,
-      which was acquired in 2014/06 by Medtronic Inc.
+Medtronic Inc., Mounds View, Minnesota, USA — (2013/09 to present)
     * Principal Systems Engineer. Data analysis, software systems
       requirements development; Agile Scrum Product Owner &
       requirements engineer — (regular employee, 2013/09 to present)
@@ -93,6 +91,8 @@ Medtronic Inc., Mounds View, Minnesota, USA.
       toolkit, USB communication, web services, Dropbox
       integration. — (contractor to Corventis Inc. via Oxford Global
       Resources, 2013/01 to /09)
+    * Initially employed by Corventis Inc., Saint Paul, Minnesota,
+      which was acquired in 2014/06 by Medtronic Inc.
 
 Independent Consultant: Programmer/Analyst, Trainer, and System Administrator.
     Project details on request — (2008/12 to 2013/01; 2003/02 to 2005/07)
@@ -116,7 +116,7 @@ ELM Machine Service Inc., Cambridge, Ontario, Canada.
     wxPython, Boa Constructor). —  (2003/04 to /07)
 
     Screen capture of application (running on Windows XP):
-    http://python.net/~goodger/professional/cv/elm_gauge.png
+    https://david.goodger.org/professional/cv/elm_gauge.png
 
 ATS Automation Tooling Systems Inc., Cambridge, Ontario, Canada.
     Systems Administrator & Programmer.  In charge of network and QNX
@@ -255,6 +255,12 @@ Open-Source Projects
 Volunteer Activities
 ====================
 
+Minneapolis Rounders Poker, https://www.meetup.com/Minneapolis-Rounders/
+    * Primary Organizer, 2020 to present
+    * Event Host Coordinator, 2019 to present
+    * Co-Organizer (assisted the Primary Organizer), 2016 to 2020
+    * Event Host, 2014 to present
+
 Python Software Foundation, http://www.python.org/psf/
     * Nominated member (elected 2003/03)
     * Member of the Board of Directors (2006/02 to 2009/07)
@@ -316,6 +322,6 @@ Technical Drawing prizes at high school graduation.
 Miscellaneous
 =============
 
-Interests include cycling (bicycle touring), poker, puzzles, Go,
-reading, writing, movies, woodworking, origami, recreational
-mathematics, knots, and boomerangs.
+Interests include cycling & bicycle touring, poker, puzzles, Go game
+(igo, weiqi, baduk), reading, writing, movies, woodworking, origami,
+recreational mathematics, knots, and boomerangs.
