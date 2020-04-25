@@ -16,6 +16,10 @@ handout.html : presentation.txt docutils.conf
 	@echo "making $@ from $<"
 	@python2 ~/projects/docutils/docutils/tools/rst2html.py $< $@
 
+resume_David_Goodger.html : resume_David_Goodger.txt resume.css docutils.conf
+	@echo "making $@ from $<"
+	@python2 ~/projects/docutils/docutils/tools/rst2html.py $< $@
+
 %.html : %.txt docutils.conf
 	@echo "making $@ from $<"
 	@python2 ~/projects/docutils/docutils/tools/rst2html.py $< $@

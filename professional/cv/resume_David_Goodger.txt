@@ -4,324 +4,202 @@
  David Goodger
 ===============
 
+.. sidebar:: \
+
+   .. contents::
+      :local:
+
 :Email: goodger@python.org
 :Web Site: https://david.goodger.org (includes this résumé)
+:LinkedIn: https://linkedin.com/in/goodger/
+:Locations: Minneapolis, MN; open to positions in USA, Canada, & Japan
+ 
 
-.. contents::
+.. rubric:: Software Engineer/Architect · Systems Engineer/Analyst · Project Manager · Trainer
 
+Software/Systems Engineer with professional experience in the medical
+device industry, the financial sector, and automation/manufacturing.
+Experience in project management and training. Recognized expert in
+the Python programming language. Extensive experience with markup
+languages for documentation, document processing, and data
+interchange. Cross-platform systems development experience, ranging
+from GUI desktop applications to web services to command-line tools.
 
-Summary
-=======
-
-Over 20 years of professional experience in systems analysis, software
-architecture & development, consulting, training, and project
-management. Recognized expert in the Python programming language, with
-experience in other languages (Perl, C, SQL, etc.). Extensive
-experience with markup languages (XML, SGML, HTML) for documentation &
-data interchange. Systems devlopment experience on Unix, Linux,
-Windows, and MacOS platforms, developing everything from GUI desktop
-applications (using wxPython & tkInter toolkits) to web services to
-command-line scripts.
-
-I am open to consulting opportunities as well as long-term projects or
-employment, in the areas of systems analysis, software development,
-project management, and training. The ideal position would exercise my
-superior software architecture & development ability, would utilize my
-excellent communication skills, and would offer variety, learning
-opportunities, and challenge. I am open to on-site work as well as
-telecommuting.
+Strengths include: effective communication between technical and
+non-technical/business audiences, public speaking, excellent writing
+and editing skills, thorough and tenacious problem solving.
+International experience, with written and spoken Japanese and French.
 
 .. I am currently fully employed and not seeking a change.
 
 
-Skills
-======
+Technical Skills
+================
 
-Management
-    Project management (including Open Source), event management,
-    technical team leader.
+**Programming Languages**
+    Python (expert), Lisp, Visual Basic, C, C++, SQL, Bash.
 
-Programming Languages
-    Python is my programming language of choice.  I also have
-    experience with Perl, Lisp, Basic/VB, C, C++, SQL, shell script,
-    and AppleScript.
+**Development Methodologies**
+    Agile (Scrum, Extreme Programming), design patterns, refactoring,
+    TDD/test-driven development, UML.
 
-Development Methodologies
-    Extreme Programming, design patterns, refactoring, test-driven
-    development, UML.
-
-Operating Systems
+**Operating Systems**
     Linux/UNIX/QNX/Solaris, Windows, Mac OS X.
 
-Documentation Technologies
+**Documentation Technologies**
     XML, XSL, SGML; HTML/XHTML, CSS; Docutils/reStructuredText;
     Unicode; document analysis, DTD design; document data processing.
-
-Networks
-    Ethernet, TCP/IP, LAN Manager, Windows Networking, AppleTalk, NFS.
-
-Languages
-    English, French, and Japanese.
-
-General Transferable Skills
-    * Excellent writing and editing: clear & concise.
-    * Effective communication of technical information to a
-      non-technical audience.
-    * Problem solving: thorough and tenacious.
-    * Multitasking: ability to juggle multiple projects
-      simultaneously.
-    * Management: projects and teams.
-    * Teaching and training.
-
-Personal Qualities
-    Proactive, self-starting, intelligent, quick learning, creative,
-    resourceful, confident, objective, versatile, adaptable,
-    open-minded, honest, ethical, trustworthy, and loyal.
 
 
 Experience
 ==========
 
-Medtronic Inc., Mounds View, Minnesota, USA — (2013/09 to present)
-    * Principal Systems Engineer. Data analysis, software systems
-      requirements development; Agile Scrum Product Owner &
-      requirements engineer — (regular employee, 2013/09 to present)
-    * Programmer/Analyst. Developed desktop GUI software for an
-      electronic medical device system. Technologies: wxPython GUI
-      toolkit, USB communication, web services, Dropbox
-      integration. — (contractor to Corventis Inc. via Oxford Global
-      Resources, 2013/01 to /09)
-    * Initially employed by Corventis Inc., Saint Paul, Minnesota,
-      which was acquired in 2014/06 by Medtronic Inc.
+**Medtronic Inc.** (formerly Corventis), Mounds View, Minnesota, USA
+    January 2013 – present
 
-Independent Consultant: Programmer/Analyst, Trainer, and System Administrator.
-    Project details on request — (2008/12 to 2013/01; 2003/02 to 2005/07)
+    **Principal Systems Engineer**
+        * Projects: SEEQ mobile cardiac telemetry patch & CareLink cardiac
+          patient monitoring service.
+        * Systems & data analysis.
+        * Software systems requirements development.
+        * Agile Scrum Product Owner
 
-CDP Capital Inc. (La Caisse de Dépôt et Placement du Québec), Montréal, Canada.
-    Programmer/Analyst.  Developed software tools for investment data
-    analysis, using Python, wxPython, and tkInter. —
-    (full-time employee 2005/07 to 2008/12; consultant 2008/12 to 2012/06)
+    **Programmer/Analyst**
+        Developed desktop GUI software for an electronic medical device
+        system. Technologies: wxPython GUI toolkit, USB communication, web
+        services, Dropbox integration.
 
-Python Software Foundation (telecommuting).
-    Conference Coordinator.  Chaired the `PyCon 2009 Python community
-    conference <http://us.pycon.org/2009/>`_, working (mostly
-    remotely) with volunteer organizers and professional meeting
-    planners (also chaired PyCon 2008 as a volunteer). — (2008/12 to
-    2009/09)
+**Independent Consultant**, Montréal, Québec, Canada
+    December 2008 – January 2013
 
-ELM Machine Service Inc., Cambridge, Ontario, Canada.
-    Consulting developer.  Developed a control panel and data
-    acquisition application for a PLC-based industrial gauge system,
-    using open-source rapid application development tools (Python,
-    wxPython, Boa Constructor). —  (2003/04 to /07)
+    **Programmer/Analyst, Trainer, Systems Administrator.**
 
-    Screen capture of application (running on Windows XP):
-    https://david.goodger.org/professional/cv/elm_gauge.png
+**CDP Capital Inc.** (La Caisse de Dépôt et Placement du Québec), Montréal, Canada
+    July 2005 – June 2012
 
-ATS Automation Tooling Systems Inc., Cambridge, Ontario, Canada.
-    Systems Administrator & Programmer.  In charge of network and QNX
-    systems in a mixed (Windows & QNX) environment, office and
-    production facility with over 100 workstations.  Programming
-    ranged from system maintenance scripts to engineering data
-    processing applications. — (2000/02 to 2003/01)
+    **Programmer/Analyst**
+        Developed software tools for investment data analysis,
+        including foreign exchange order management system and index
+        fund management software. Technologies: Python, wxPython &
+        tkInter GUI toolkits.
 
-Sabbatical.
-    Full-time father to two young children — (1998/05 to 2000/02)
+        (Full-time employee July 2005 – December 2008; consultant
+        December 2008 – June 2012)
 
-Rikai, Ltd., Shibaura, Minato-ku, Tokyo, Japan.
-    President and Founder.  Software development, information
-    technology consulting. — (1996/02 to 1998/05)
+**Python Software Foundation**, remote & Chicago, Illinois, USA
+    December 2008 – September 2009
 
-Uniscope, Inc., Akasaka, Minato-ku, Tokyo, Japan.
-    Operations & Technical Manager.  Project & personnel management;
-    research and development; analysis, design, and programming of
-    SGML (XML, HTML) document processing, workflow, relational and
-    object database, intranet, and internet systems; systems
-    administration (Unix, NT platforms). — (1995/11 to 1998/05)
-
-Embassy of Canada, Akasaka, Minato-ku, Tokyo, Japan.
-    Network System Administrator & User Support Manager.  Training,
-    programming & troubleshooting (150 Windows clients, Unix servers).
-    — (1994/01 to 1995/11)
-
-Gunma Prefectural Board of Education (Japan Exchange & Teaching Program).
-    Assistant English Teacher in public secondary schools —
-    (1991/07 to 1993/12)
-
-Apple Research Partnership Program (ARPP), McGill University, Montréal, Canada.
-    Consultant to Macintosh software developers on campus —
-    (1988/09 to 1991/04)
-
-Laboratory of Applied Cognitive Science, McGill University, Montréal, Canada.
-    Object-oriented and traditional application software development
-    for cognitive science, discourse analysis, and artificial
-    intelligence research — (1989/05 to /08, 1990/05 to /08)
-
-Graduate Fellowships Office, McGill University, Montréal, Canada.
-    Relational database application development; LAN setup —
-    (1988/05 to /08)
-
-BDI Facilities Management Inc., Montréal, Canada.
-    Relational database applications development (consultant)
-    — (1987/08 to 1988/04)
-
-John Abbott College, Ste. Anne de Bellevue, Québec, Canada.
-    * Consultant/technician in Multipurpose Computer Laboratory —
-      (1986/08 to 1987/05)
-    * Guest lecturer in a series of computer workshops — (1986/05,
-      1986/12, 1987/06)
-
-Computer Graphics Access Studio Inc., Montréal, Canada.
-    Consultant & trainer: systems installation and personnel training
-    — (1986/05 to /06)
-
-
-Education & Certificates
-========================
-
-JAPANESE-LANGUAGE PROFICIENCY TEST, Tokyo, Japan.
-    Level 2 certificate — (1992/12)
-
-McGILL UNIVERSITY, Montréal, Québec, Canada.
-    Bachelor of Science, Major in Computer Science — (1987/09-1991/05)
-
-JOHN ABBOTT COLLEGE CÉGEP, Ste. Anne de Bellevue, Québec, Canada.
-    DEC, Pure and Applied Sciences (academic
-    honour roll throughout) — (1985/09-1987/05)
-
-HUDSON HIGH SCHOOL, Hudson, Québec, Canada.
-    Honour roll throughout — (1980/09-1985/06)
-
-
-Publications
-============
-
-`Hello World! Computer Programming for Kids and Other Beginners` (Manning, 2009)
-    Technical Editor.
-
-`Python For Dummies` (Wiley, 2006)
-    Technical Editor.
-
-`Python Cookbook, Second Edition` (O’Reilly & Associates, 2005)
-    Contributor (section 1.23).
-
-`Python Cookbook` (O’Reilly & Associates, 2002)
-    Contributor (sections 15.4 & 2.3).
-
-`Professional Linux Programming` (Wrox Press, 2000)
-    Author of Chapter 15, “Python,” a programmer’s introduction to the
-    Python programming language.
-
-
-Presentations
-=============
-
-`Python in India`
-    Keynote presentation delivered at PyCon India 2010
-    (http://in.pycon.org).
-
-`wxPython I: Introduction to GUI Programming` & `wxPython II: GUI Programming and MVC`
-    Tutorials presented at PyCon 2010 (http://us.pycon.org/2010).
-    Earlier versions of these tutorials were presented at PyCon 2008.
-
-`How to Become an Invited Speaker (Community-Oriented Talk)`
-    Keynote presentation delivered at RuPy 2009 (http://rupy.eu).
-
-`Code Like a Pythonista: Idiomatic Python`
-    Tutorial presented at PyCon 2007 (http://us.pycon.org/2007)
-    and at OSCON 2007 (http://conferences.oreilly.com/oscon).
-
-`Text and Data Processing`
-    Tutorial presented at PyCon 2006 (http://us.pycon.org/2006).
+    **Conference Coordinator**
+        Chaired the PyCon 2009 & 2008 Python community conferences,
+        working (mostly remotely) with volunteer organizers and
+        professional meeting planners. Chaired PyCon 2008 as a
+        volunteer.
+    
+    **Member of the Board of Directors**
+        Elected volunteer (February 2006 – July 2009)
 
 
 Open-Source Projects
 ====================
 
-`Docutils: Documentation Utilities`, http://docutils.sourceforge.net/
-    Project coordinator and architect.
+**Docutils: Documentation Utilities** (http://docutils.sourceforge.net/)
+    Project coordinator and architect
 
-`Polyform Puzzler`, http://puzzler.sourceforge.net/
-    Project coordinator and architect.
+**Polyform Puzzler** (http://puzzler.sourceforge.net/)
+    Project coordinator and architect
 
-`Python` (the programming language), http://www.python.org/
+**Python** (the programming language, http://www.python.org/)
     Contributing developer; author or co-author of several Python
-    Enhancement Proposals (http://www.python.org/peps/).
-
-`The Go Tools Project`, http://gotools.sourceforge.net/
-    Project coordinator and architect.
+    Enhancement Proposals (http://www.python.org/peps/)
 
 
-Volunteer Activities
-====================
+Additional Relevant Experience
+==============================
 
-Minneapolis Rounders Poker, https://www.meetup.com/Minneapolis-Rounders/
-    * Primary Organizer, 2020 to present
-    * Event Host Coordinator, 2019 to present
-    * Co-Organizer (assisted the Primary Organizer), 2016 to 2020
-    * Event Host, 2014 to present
+**ELM Machine Service Inc.**, Cambridge, Ontario, Canada
+    **Consulting Developer**
+        Developed a control panel and data acquisition application for
+        a PLC-based industrial gauge system, using open-source rapid
+        application development tools (Python, wxPython, Boa
+        Constructor). Screen capture of application (running on
+        Windows XP):
+        https://david.goodger.org/professional/cv/elm_gauge.png
 
-Python Software Foundation, http://www.python.org/psf/
-    * Nominated member (elected 2003/03)
-    * Member of the Board of Directors (2006/02 to 2009/07)
-    * Secretary (2006/02 to 2010/03)
-    * Assistant Secretary (2005/04 to 2006/02)
+**ATS Automation Tooling Systems Inc.**, Cambridge, Ontario, Canada
+    **Systems Administrator & Programmer**
+        In charge of network and server systems in a mixed (Windows &
+        QNX) environment, office and production facility with over 100
+        workstations. Developed engineering data processing
+        applications & system maintenance solutions.
 
-PyCon (the Python community conference), http://us.pycon.org/
-    * Conference Chair (PyCon 2008 & 2009)
-    * Giveaway coordinator (PyCon 2010)
-    * Financial aid program & tutorials coordinator (PyCon 2007)
-    * Volunteer coordinator & sprint coordinator (PyCon 2006)
-    * Volunteer coordinator (PyCon 2005)
-    * Coached the Docutils development sprints (PyCon 2004, 2006, & 2007)
+**Rikai, Ltd.**, Tokyo, Japan
+    **President and Founder**
+        Software development & information technology consulting.
 
-Python programming language, http://www.python.org/peps/
-    Python Enhancement Proposal (PEP) Editor (2002 to present)
+**Uniscope, Inc.**, Tokyo, Japan
+    **Operations Manager & Technical Team Leader; Developer**
+        Project & personnel management; research and development;
+        analysis, design, and development of document processing,
+        workflow, relational and object database, intranet, and
+        internet systems; systems administration (Unix/Solaris,
+        Windows platforms).
 
-Scouts Canada (Shawnee Wolf Cub Pack, Pincourt, Québec)
-    Assistant pack leader (2005 to 2008)
+**Embassy of Canada**, Tokyo, Japan
+    **Network Systems Administrator & User Support Manager**
+        Systems administration, user support, training, programming, &
+        troubleshooting (150 Windows clients, Unix servers).
 
-Kitchener-Waterloo Multicultural Centre
-    Japanese translator (1998 to 1999)
-
-Gunma AJET (Association for Japan Exchange & Teaching)
-    President (1992 to 1993)
-
-McGill University Senate Committee on Computing
-    Student Representative (1990 to 1991)
-
-Computer Science Undergraduate Society of McGill University
-    Chief Returning Officer (1989 to 1990)
-
-Québec Go Players Association
-    Vice President, Public Relations (1988 to 1990)
-
-McGill Go Club
-    Founder (1987) and President (1987 to 1990)
+**Gunma Prefectural Board of Education (Japan Exchange & Teaching Program)**, Gunma, Japan
+    **Assistant English Teacher**
 
 
-Honours & Awards
-================
+Education & Certificates
+========================
 
-Featured as a “Python Dev of the Week”, 2016
-(https://www.blog.pythonlibrary.org/2016/12/12/pydev-of-the-week-david-goodger/)
+**Bachelor of Science, Major in Computer Science**
+    McGill University, Montréal, Québec, Canada
 
-Nominated for the 2003 ActiveState Active Awards Programmers’ Choice
-Award for Python (http://www.activestate.com/Corporate/ActiveAwards/).
+**Certified Scrum Product Owner**
+    Scrum Alliance, Minneapolis, MN
 
-Named Chief Officer of the Year 1988-1989, by the Students’ Society of
-McGill University, as President of the McGill Go Club.
-
-Awarded the Lakeshore School Board Medal for Academic Achievement,
-1985.
-
-Awarded the Computer Science, Mathematics, Physics, Chemistry, and
-Technical Drawing prizes at high school graduation.
+**Japanese-Language Proficiency Test**
+    Japan Foundation & Japan Educational Exchanges and Services, Tokyo, Japan
 
 
-Miscellaneous
-=============
+Publications
+============
 
-Interests include cycling & bicycle touring, poker, puzzles, Go game
-(igo, weiqi, baduk), reading, writing, movies, woodworking, origami,
-recreational mathematics, knots, and boomerangs.
+**Hello World! Computer Programming for Kids and Other Beginners** (Manning, 2009)
+    Technical Editor
+
+**Python For Dummies** (Wiley, 2006)
+    Technical Editor
+
+**Python Cookbook, Second Edition** (O’Reilly & Associates, 2005)
+    Contributor (section 1.23)
+
+**Python Cookbook** (O’Reilly & Associates, 2002)
+    Contributor (sections 15.4 & 2.3)
+
+**Professional Linux Programming** (Wrox Press, 2000)
+    Author of Chapter 15, “Python,” a programmer’s introduction to the
+    Python programming language
+
+
+Keynote Presentations & Tutorials
+=================================
+
+**Python in India**
+    Keynote presentation (PyCon India, Bangalore, India, 2010)
+
+**wxPython I: Introduction to GUI Programming** & **wxPython II: GUI Programming and MVC**
+    Tutorials (PyCon 2010, Atlanta GA; PyCon 2008, Chicago IL)
+
+**How to Become an Invited Speaker**
+    Keynote presentation (RuPy 2009, Poznan, Poland)
+
+**Code Like a Pythonista: Idiomatic Python**
+    Tutorial (PyCon 2007, Dallas, Texas; OSCON 2007, Portland, Oregon)
+
+**Text and Data Processing**
+    Tutorial (PyCon 2006, Dallas Texas)
