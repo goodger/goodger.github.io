@@ -55,7 +55,7 @@ Experience
 ==========
 
 **Medtronic Inc.** (formerly Corventis), Mounds View, Minnesota, USA
-    January 2013 – present
+    January 2013 – May 2020
 
     **Principal Systems Engineer**
         * Projects: SEEQ mobile cardiac telemetry patch & CareLink cardiac
