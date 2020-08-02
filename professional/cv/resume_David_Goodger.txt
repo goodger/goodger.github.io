@@ -12,7 +12,7 @@
 :Email: goodger@python.org
 :Web Site: https://david.goodger.org (includes this résumé)
 :LinkedIn: https://linkedin.com/in/goodger/
-:Locations: Minneapolis, MN; open to positions in USA, Canada, & Japan
+:Location: Ottawa & Montreal, Canada; open to positions in Canada, USA, & Japan
  
 
 .. rubric:: Software Engineer/Architect · Systems Engineer/Analyst · Project Manager · Trainer
