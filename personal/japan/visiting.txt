@@ -1,0 +1,926 @@
+﻿.. -*- coding: utf-8-with-signature -*-
+
+=========================
+ 🇯🇵 Visiting 🇯🇵 Japan 🇯🇵
+=========================
+
+.. sidebar:: Also see:
+
+   * `Staying With Us <staying-with-us.html>`_
+   * `How to Use a Japanese Bath <bathing.html>`_
+   * `David Goodger’s Homepage <http://david.goodger.org>`_
+
+:Author:   David Goodger
+:Revision: 2025-04-05 (see `Revision History`_) 
+
+..
+
+    *Feedback is welcome: questions, comments, suggestions,
+    corrections. Send email to david-at-goodger-dot-org.*
+
+.. contents::
+
+
+Japan is a wonderful country: exotic yet safe & clean, with friendly
+people, gorgeous views, and delicious food. The myriad differences
+from Western societies make Japan an essential travel destination, but
+they also make it a challenging place to visit.
+
+Here are some quick tips to make your visit a success and as
+stress-free as possible.
+
+
+Planning Your Trip
+==================
+
+* I recommend you plan to stay AT LEAST 2 weeks in Japan, preferably 3
+  weeks or more. It takes 3 to 7 days just to get over the jet lag!
+
+* To a Westerner, many things in Japan are new, strange, and
+  fascinating. You will be functionally illiterate, so be patient and
+  allow plenty of time to get around and figure things out. You will
+  feel overwhelmed and exhausted every day, so don’t pack too much in;
+  leave some down time for rest every day, and even build in some rest
+  days.
+
+* You’ll probably want to visit some major destinations_. Consider
+  alternating busy city visits with quiet time surrounded by
+  mountains. You may have other destinations in mind depending on your
+  specific interests.
+
+* Spring & autumn are the best times to visit. Cherry blossoms in
+  spring!
+
+  Avoid visiting during the summer. It gets hot & humid in June,
+  when rainy season starts. July & August are terrible. September is
+  still hot, but not too terrible.
+
+  Avoid visiting around New Year’s, during “Golden Week” (April 29
+  through May 5), or (less so) during “Obon__” (August 13-16): these
+  are long holidays when *everybody* in Japan travels and all modes of
+  transportation are crowded. Tokyo tends to empty out during these
+  times though.
+
+  __ https://en.wikipedia.org/wiki/Obon
+
+* Japanese hotel rooms tend to be quite small. Larger
+  North-American-sized rooms are rare and quite expensive.
+
+  * If there’s no bedside table, park your suitcase against the wall
+    beside your bed and use that.
+
+  * If there’s no electrical outlet where you need one, ask for an
+    extension cord (*enchō-kōdo*) at the front desk.
+
+  * I recommend the `Toyoko Inn`__ chain of hotels. They’re reasonably
+    priced, very clean, and include breakfast. Their beds are very
+    firm though. If you stay more than 3 nights, it’s worthwhile to
+    become a `Toyoko Inn Club`__ member: 5% off, earlier check-in, 1
+    free single-bed room coupon per 10 nights stayed, museum & golf
+    discounts, etc.
+
+    __ https://www.toyoko-inn.com/
+    __ https://www.toyoko-inn.com/club/?lcl_id=en
+
+  Many Japanese hotels have coin-operated washing machines & dryers.
+
+* If flying into and/or out of Narita Airport, I recommend staying in
+  `Narita City`_ for your first and/or last days & nights, either in
+  town near the train stations or near the airport.
+
+* The other option is to use Haneda Airport, which is much closer to
+  central Tokyo.
+
+* Don’t bother renting a car. Driving on the left takes getting used
+  to, as do Japan’s narrow streets (some incredibly narrow). Use
+  public transportation, which is excellent and ubiquitous. Fall back
+  on taxis when necessary.
+
+* The sun can be intense. Bring sunscreen, wear a hat, or buy a sun
+  parasol.
+
+* ⇒ Get the travel app to easily pay for train rides: Suica card or
+  Pasmo.
+
+  ⇒ Google Wallet (see video)
+
+* Plan to chill out on the weekends and on public holidays, when
+  attractions, restaurants, and malls are always busy. Schedule visits
+  on non-holiday weekdays.
+
+* Asakusa in Tokyo is overcrowded during the day, especially on
+  weekends. Visit at night for a much more intimate experience, but
+  the shops will be closed. Better yet, visit Naritasan Shinshō-ji
+  (temple) and Naritasan park instead (see `Narita City`_).
+
+* Convert prices easily: for a first approximation, just treat yen as
+  cents. Imagine a decimal place two digits in from the right, so
+  ¥25,000 is approximately $250.
+
+* Sales tax is 10% (8% for essentials). Purchases are tax-free for
+  visitors with your passport at some stores.
+
+
+Preparations for Your Trip
+==========================
+
+* As with any tourism, plan on doing a lot of walking. If you’re not
+  used to walking a lot, do some training before your trip. Work your
+  way up to at least an hour of walking per day.
+
+* Invest in a good set of compression stockings. One pair for the very
+  long flight, and an extra pair or two for travel & walking days.
+
+* Get good travel health insurance.
+
+* If you are taking any medications, prescription or over-the-counter,
+  prepare enough to last your entire trip, and maybe a bit more. The
+  legal limit is a 1- or 2-month supply, depending on the type. Bring
+  the medications in their original pharmacy packaging with
+  prescriptions. Officially, “when you bring your personal medicines
+  into Japan, you have to apply for so called ‘Yunyu Kakunin-sho’, a
+  kind of import certificate, and receive it before you leave home,
+  and declare it to the officer at customs”. Japan is very strict
+  about drugs, and often the customs people will err on the side of
+  caution. See `Information for those who are bringing medicines for
+  personal use into Japan`__.
+
+  __ https://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/01.html
+
+* Get some Japanese yen cash. Many/most places now take credit cards
+  but smaller places still only take cash.
+
+  Japan’s bills are ¥1000 (about $10), ¥5000, and ¥10,000 (about
+  $100).
+
+* Inform your credit card company that you’ll be travelling, when &
+  where, to prevent your credit transactions being denied.
+
+* Install a translation app on your phone, like `Google Translate`_
+  (`Android app`__, `iPhone app`__), and get the Japanese language
+  pack for it.
+
+  .. _Google Translate: https://translate.google.com/
+  __ https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en
+  __ https://apps.apple.com/us/app/google-translate/id414706506
+
+* Get a visitor’s mobile data plan, with or without a calling plan.
+  Mobile data access is essential while you’re here, for `Google
+  Translate`_, maps, etc. We have used Mobal__ in the past, but there
+  are many__ others__. Make sure your phone is compatible with the
+  service, especially if it’s older (mine was compatible with Mobal in
+  March 2024, but not in August!).
+
+  eSIM plans like Saily__ and `Journey Japan eSIM`__ provide data
+  only, but you don’t get voice calling service (i.e. no real phone
+  number). Maybe you don’t *need* a real phone number though. You can
+  easily exchange voice calls with family & friends using WhatsApp
+  etc. To make calls to regular landlines & mobile phones using your
+  data-only plan you’ll need `an app/service with a nominal fee`__;
+  `Viber Out`__ seems to be a reasonable app & service.
+
+  __ https://www.mobal.com/
+  __ https://www.sakuramobile.jp/
+  __ https://docs.google.com/document/d/1nuQAs1vEsLUoNx6DfoKzxWL61zP-l_mPJ_s8iIRfoYc/edit?tab=t.0
+  __ https://saily.com/esim-japan/
+  __ https://jjesim.com/
+  __ https://www.highspeedinternet.com/resources/how-can-you-make-phone-calls-on-the-internet
+  __ https://account.viber.com/en/
+
+* Japan is truly a land of cute and cool stuff. You may experience
+  cuteness/coolness overload. Make sure you leave plenty of space in
+  your luggage for souvenirs!
+
+* Speaking of luggage, regular economy flights to Japan usually offer
+  one free checked bag per person. Here’s an airline hack to get an
+  extra checked bag for free if your airline offers free advance
+  check-in of your carry-on bag:
+
+  At online check-in the day before your flight, when presented with
+  the option for free check-in of your carry-on bag, accept it. When
+  it’s time to check your luggage, hand over your extra full-sized bag
+  instead of your carry-on. Bring your carry-on to the gate as normal.
+  This works because after the system is told you have an extra
+  checked bag, nobody verifies its size, nor do they make sure you
+  don’t still have a carry-on bag.
+
+  [**NOTE**: This worked for us in August 2024 with Air Canada, but it
+  may or may not work for you.]
+
+
+Know Before You Go
+==================
+
+* Although they are thankfully becoming more rare, you may encounter a
+  squat toilet in a time of need. Be prepared: learn how to use them
+  in advance (article__, video__).
+
+  __ https://bigtinyworld.com/japanese-squat-toilets/
+  __ https://www.youtube.com/watch?v=fCTKDn3Q8xQ
+
+* At the other end of the spectrum are the high-tech “washlets”: bidet
+  seats on Western-style toilets. Here’s `How To Use Japanese
+  Toilets`__ (video).
+
+  __ https://www.youtube.com/watch?v=XRAHxvLu9es
+
+* Travelling by train is very convenient... IF you aren’t carrying a
+  lot of luggage. If you have large suitcases, it can be a royal pain.
+  There’s a lot of walking and staircases, and major stations are
+  usually crowded. Most stations have escalators or elevators, but not
+  all. Most trains don’t have places to put large suitcases. Also, our
+  car is small; it only fits 4 adults comfortably and can’t fit much
+  in the trunk.
+
+  But this is Japan, so of course there is a solution! Japan’s `home
+  delivery service`__ (“*takkyūbin*”) is cheap (~$25) and reliable. At
+  the airport or at your hotel you can drop off your suitcases for
+  next-day (sometimes same-day) delivery to your destination. Just
+  keep your carry-on and your personal item with you, and pack
+  accordingly. The delivery services also offer a luggage storage
+  service, so you can ship your luggage a day or two before heading
+  home and pick it up at the airport.
+
+  __ https://www.japan-guide.com/e/e2278.html
+
+  At both Narita & Hanéda airports you’ll find some combination of
+  Yamato_ (black cat logo), Sagawa_, and `JAL ABC`_ counters.
+
+  .. _Yamato: https://www.global-yamato.com/en/hands-free-travel/
+  .. _`JAL ABC`: https://www.jalabc.com/en/hands-freetravel.html
+  .. _Sagawa: https://www.sagawa-exp.co.jp/ttk/english/
+
+* When paying at a store or restaurant, place your cash on the small
+  tray near the cash register, with bill face up. Do not hand cash
+  directly to the cashier.
+
+* When paying with a credit card, you may be asked “*ikkai*?” = “one
+  time?”. Just reply “*hai*” = “yes”. There’s an installment system
+  built into credit card payment systems here (with fees of course).
+
+* People may want to speak to you in English, on the train, on the
+  street, in an *onsen*, etc. Most people in Japan have had at least 6
+  years of English classes (up to 12 years for younger people), and
+  while most are shy and lack confidence, some will want to practise.
+  Try to speak clearly and simply, and have patience. You’ll get the
+  same questions over and over: “Where are you from?”, “How long are
+  you in Japan?”, “What do you like to eat?”, etc.
+
+
+Bring (or buy when you get here)
+================================
+
+* If you’re going to be visiting anyone, bring *omiyagé*: small gifts
+  from your home country. Japan is a gift-exchange culture, and this
+  will be appreciated. For example, when visiting from Canada we would
+  often bring maple syrup and maple-flavored items (cookies, candies,
+  etc.). Reusable shopping bags are another good option.
+
+* Always have a handkerchief to dry your hands. Paper towels are often
+  absent in washrooms. Sometimes there will be air dryers, but don’t
+  count on it.
+
+* Always have tissues, because they can be hard to find when you need
+  them (e.g. when you need to wipe yourself at a squat toilet).
+  They’re also useful for drying your hands. However, don’t be
+  surprised if you’re handed a packet of tissues (with advertising)
+  outside of a busy train station.
+
+* You’re going to do a lot of walking, so bring some good walking
+  shoes.
+
+* Bring shoes that are easy to take off and put on again, because you
+  will be removing your shoes a lot! Slip-on shoes are best. Consider
+  elastic shoelaces like “Lock Laces” or “Xpand”.
+
+* Have a coin pouch or a dedicated coin pocket in your wallet, because
+  you will accumulate and carry many coins. The largest yen coin is
+  ¥500, about $5. Other coins are ¥1, ¥5, ¥10, ¥50, and ¥100.
+
+* Be prepared to carry any trash you create. For example, wrappers
+  when you buy food at a convenience store or at a food stand. If you
+  eat the food away from the source, there may not be a place to put
+  the wrappers. Trash bins are few & far between. Have a bag for this
+  purpose (e.g. accept the ¥3 plastic bag when you buy something).
+
+* Pack some Pepto-Bismol (tablets are best), because you may catch a
+  Japanese virus (or a foreign virus, on the plane) that you have no
+  immunity against. Japan’s water & food are very clean, but you never
+  know.
+
+* Bring an umbrella, because it can rain a lot here. Or buy one of
+  those cool semi-disposable clear plastic umbrellas here. When it
+  starts raining, half the shops will suddenly start selling
+  umbrellas.
+
+* Bring a good eye mask: contoured, not just flat. Depending on where
+  you’re coming from, Japan’s time zone is up to 12 hours difference;
+  literally night and day. For the first several days (up to a week!)
+  you will be adjusting to the new time zone and a good eye mask can
+  help you sleep when you need to, especially early in the morning in
+  summer (no daylight saving time, so the sun comes up early!).
+
+* I pack a small travel power bar with 2 AC outlets & 2 USB outlets.
+  Combined with a 2-prong-to-3-slot adapter, this covers most of my
+  travel electrical needs. `This one`__ doesn’t need an adapter.
+
+  __ https://www.amazon.ca/dp/B096YC9LY2/
+
+  * Mains electricity in Japan is 100 volts, either 50 Hz or 60 Hz
+    depending on where in the country (50 Hz in Tōkyō & Gunma &
+    further east, 60 Hz in most of Nagano [including Saku] & further
+    west). Most laptop power supplies, USB adapters, and battery
+    chargers can handle Japan’s electricity regardless. Don’t bother
+    with a voltage adapter. High-current devices (e.g. hair dryers)
+    may not work properly here, so don’t bring any.
+
+  * Most `Japanese electrical sockets`__ are similar to sockets in
+    North America but lack a 3rd ground slot/hole (i.e. Type A NEMA 1
+    ungrounded). The two slots are the same length in older sockets,
+    both short (i.e. unpolarized). If you’re bringing any 3-prong
+    devices, bring a 2-prong unpolarized (both prongs short) male to
+    3-slot polarized (short & long slots) female socket adapter, like
+    `these ones`__. If you’re bringing any devices with 3-prong or
+    2-prong polarized plugs, bring an adapter or buy one here.
+
+    __ https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#JIS_C_8303,_Class_II_unearthed
+    __ https://www.amazon.ca/dp/B09CPXW8R5/
+
+    Japanese search term: 接地 アダプター.
+
+  * There are electronics stores like Yamada Denki and home centers
+    like Cainz, Viva Home, and D2 in or near every city. Daiso
+    (Japan’s dollar store chain) carries cheap USB cables (and LOTS of
+    other stuff). Convenience stores carry an amazing range of useful
+    items, but may not have the specific thing you’re looking for.
+    There’s also amazon.co.jp.
+
+* If you can’t handle chopsticks, there are assistant devices
+  available.
+
+
+Do’s & Don’ts
+=============
+
+Strong Do’s:
+
+* Do try sushi and sashimi *without* any soy sauce. I find that soy
+  sauce drowns out the subtle natural flavours of foods. Also, eating
+  sushi/sashimi without soy sauce is a great compliment to the chef.
+
+* Do try unknown foods that may *seem* nasty or *sound* funny but are
+  actually nice. You’d be surprised at how delicious many of them are.
+  Foods like *nori* (seaweed sheets), *unagi* (grilled eel), and *ika*
+  (squid) are excellent, not to mention sushi & sashimi. Drinks like
+  Pocari Sweat and Calpis are worth a try!
+
+* Do try weird Japanese foods that often don’t appeal to Western
+  palettes, but you may like some. From worst to least bad: *nattō*
+  (fermented soybeans), *uméboshi* (pickled plum), *goya* (bitter
+  gourd/melon/squash), dried squid or squid jerky, *kon’nyaku* (konjak
+  jelly), fishy snacks, *wagashi* (Japanese sweets), *manjū* (small
+  bun filled with sweet bean paste), etc.
+
+* Do remove your shoes at level differences (esp. house entryways) and
+  put on slippers (usually provided, although small).
+
+  Socks or bare feet on tatami (remove your slippers!).
+
+* Do try to pronounce Japanese words correctly. It isn’t difficult,
+  `it just requires remembering a few simple rules`__.
+
+  __ pronunciation.html
+
+Strong Don’ts:
+
+* Japan is very strict about drugs and other illicit materials, so DO
+  NOT bring anything illegal.
+
+* Don’t wear cologne or perfume. A little light deodorant is fine.
+
+* Don’t tip. There’s no tipping in Japan! If you do leave a tip, a
+  staff member is likely to run after you in the street to return your
+  cash.
+
+* Chopsticks taboos:
+
+  * Never stick your chopsticks into your food and leave them there,
+    especially not vertically.
+
+  * Never pass anything from your chopsticks to someone else’s.
+    Instead, place it on their plate.
+
+  These are only done at funerals or with an offering to the dead.
+
+Weak don’ts below. I do these all the time.
+
+* Don’t walk & eat. At least, Japanese people tend not to do this (but
+  there are exceptions). Even with street food, they’ll stand and eat
+  it near where they bought it. For one thing, there tend not to be a
+  trash bins except where the food was sold, and putting unrelated
+  trash in another shop’s bin is frowned upon.
+
+If you don’t know what to do in a situation, just smile and bow and it
+will usually turn out okay.
+
+Being quite homogenous, Japan is a racist country, but foreigners
+(especially Western caucasians) are usually treated well, as “exalted
+guests”. If you commit a faux-pas, you’ll often be given a pass
+because of your origin. This is sometimes referred to as “playing the
+*gaijin* card”.
+
+* `12 Unspoken Rules NOT to Break in Japan`__ (video)
+
+  __ https://www.youtube.com/watch?v=i_kYN7f8qUg
+
+* `12 Things NOT to do in Japan`__ (video)
+
+  __ https://www.youtube.com/watch?v=0GCuvcTI090&t=68s
+
+
+Restaurants
+===========
+
+* The food is typically excellent: delicious and beautifully presented.
+
+  `Anthony Bourdain on Japan’s food.`__
+
+  __ https://www.instagram.com/p/DADQHyHNU3X/
+
+* As long as you avoid the overpriced restaurants in international
+  hotels and high-end places, meals are cheap here!
+
+* No tipping!
+
+* Many restaurants are open for lunch (e.g. 11:00-14:00) & dinner
+  (17:00-21:00) and are closed in between while they prepare for the
+  next meal. Common signage:
+
+  * Open: 「営業中」
+  * Closed, in preparation: 「準備中」
+  * Closed for the day: 「本日は終了」 (「本日」 means “today”)
+  * Closed today (day off): 「休業日」, 「定休日」
+
+* Many restaurants have display windows full of realistic fake
+  versions of their menu items. Menus often feature photos as well. If
+  not, in the worst case, you could take a picture of what you want to
+  order or bring the server to the display window and point out what
+  you want.
+
+* Occasionally a restaurant will refuse entry to foreigners; “no
+  foreigners” or “Japanese only” signs even exist. This usually isn’t
+  overt racism, but simply because they don’t have an English menu and
+  their staff don’t speak English. If you have someone in your group
+  who speaks Japanese they can reassure the staff, who should then be
+  fine serving your group.
+
+* At lunch time the staff will present the lunch menu and specials.
+  However, there is often a “Grand Menu” with more options that can be
+  ordered from at any time.
+
+* Usually substitutions aren’t possible, especially at chain
+  restaurants.
+
+* Water comes in very small glasses. If you’re lucky, the restaurant
+  may leave a carafe of water for refills, or there may be a
+  self-serve water & tea station. Otherwise you’ll have to ask for
+  more water.
+
+* Some restaurants offer self-serve tea at the table: green tea powder
+  with a hot water spigot.
+
+  If the tea is too hot, get some ice water and add ice to your tea. 
+
+* Many restaurants feature ordering from a tablet or from your own
+  mobile phone via a QR code. There is often an English interface, but
+  not always.
+
+* Many restaurants offer normal & large sizes (“*ōmori*” or “W” =
+  “double”) for when you’re really hungry and want a big meal. On the
+  other hand, conveyor-belt sushi places often offer half portions of
+  rice (“*hanshari*”) for when you want more of the good stuff and
+  less of the bulk.
+
+* Speaking of rice, the Japanese love it, but they usually eat it
+  plain. This can be boring to visitors (and foreign residents) who
+  don’t appreciate the subtleties. Often an alternative is offered,
+  sometimes at a higher price: garlic rice, multigrain rice, fried
+  rice (“*chāhan*”), etc. Same for soup: plain miso vs loaded soup.
+
+* Meals don’t arrive together. They arrive when they’re ready.
+
+* Beware some people’s (typically men’s) noisy eating habits.
+
+* Slurping hot noodles is fine and expected. Not spaghetti though.
+
+* Many restaurants provide “*oshibori*”: wet towels used to wipe your
+  hands before your meal. Men often wipe their face as well, although
+  this is bad manners. In lower-end restaurants, *oshibori* are just
+  wet wipes in plastic wrappers. In higher-end restaurants, *oshibori*
+  are heated towels.
+
+* Most restaurants provide a “*denpyō*”, a sales slip that at least
+  identifies your table and may list your complete order. It’s a slip
+  of paper sometimes rolled up and inserted in a small acrylic tube,
+  sometimes on a small clipboard. Take this to the cash at the end of
+  the meal to pay.
+
+* Some restaurants feature ticket machines at the entrance, where
+  you’ll select and pay for your meal in advance. You then give the
+  provided tickets to the wait staff and they’ll bring the food.
+
+* At many fast food restaurants, rather than making you wait at the
+  counter for your food, you will be provided with a numbered sign for
+  your table and your food will be delivered when it’s ready.
+
+
+Ideas For Dining Out
+--------------------
+
+* Ichō is a chain of tradional-style Japanese family restaurants where
+  each party has a small private room (not soundproof though; expect
+  to hear children’s voices). Their menu features a wide variety, the
+  food is good and surprisingly inexpensive. We often go there when we
+  want to meet someone and talk for several hours, which is not a
+  problem as long as you don’t stay through both lunch & dinner. Or if
+  you do, be sure to order dinner as well.
+
+* Yuméan and Ootoya are also tradional Japanese family
+  restaurants, with booths instead of private rooms.
+
+* Conveyor belt sushi: Kura Sushi, Kappa Sushi, Sushiro, etc. You can
+  pick up plates from the “local” conveyor (Kura Sushi only), or order
+  à-la-carte and your plates will arrive via the express lane. Lots of
+  variety, and not just sushi: fried chicken, *tempura*, *donburi*
+  (rice bowls), etc.
+
+  Kappa Sushi has slightly better food than Kura Sushi, but Kura Sushi
+  has a better overall experience.
+
+* Rāmen is a good option for tasty noodles in the soup of your choice:
+  *miso*, soy/*shōyū*, salt/*shio*; my favorite is pork/*tonkotsu* but
+  it’s not so common. The noodles often come with slices of roast
+  pork (*chāshū*) and egg. Get a side of *gyōza* potstickers and/or
+  *chāhan* fried rice. There are many chains and a plethora of local
+  shops.
+
+* Family restaurants like Royal Host (at the high end), Steak-no-Don,
+  Denny’s, Coco’s, Gusto (at the low end), and many others abound. At
+  the lower end, expect part of your meal to be delivered by robot!
+
+* *Donburi* restaurants like Sukiya, Yoshinoya, and Matsuya. A
+  *donburi* is a bowl of rice topped with beef, chicken, pork,
+  *tempura*, or vegetables.
+
+* Marugamé Seimen for *udon* (thick noodles).
+
+* Dessert: Fujiya for cakes, hard & soft-serve ice cream, etc. (with
+  seating; some Fujiya locations are also family restaurants, but not
+  in the one in Saku); Châteraisé (takeout) for cakes & ice cream. In
+  Saku: Chatamaya (takeout) for cream puffs & the scenery on the way;
+  Tamaya for local delicacies; etc.
+
+* Bakeries feature a wide variety of savoury & sweet pastries &
+  breads. Worth visiting.
+
+* High-end (= expensive) sushi and other restaurants also exist.
+
+* *Yaki-niku* = Korean barbecue. For example, Chōsen-hanten.
+
+* Street food like *tai-yaki*, *tako-yaki*, and festival food like
+  choco-banana etc.
+
+* Fast food: Mos Burger
+
+And of course, we can also `dine in`__.
+
+__ staying-with-us.html#ideas-for-dining-in
+
+
+Destinations
+============
+
+`In & Near Saku`__
+
+__ staying-with-us.html#destinations
+
+
+General
+-------
+
+* Visit a castle.
+
+* Visit an *onsen* hot spring bath. See `How to Use a Japanese Bath`_.
+
+* Visit a Shintō shrine and a Buddhist temple. They’re everywhere in
+  Japan.
+
+  “Buddhism emphasizes the idea of transcending the cosmos, which it
+  regards as being replete with suffering, while Shinto focuses on
+  adapting to life’s pragmatic requirements.” [Wikipedia]
+
+  From `10 Differences Between Shinto and Buddhism`__:
+
+      __ https://theculturetrip.com/asia/japan/articles/10-differences-between-shinto-and-buddhism
+
+      Shintō is an animistic religion: its practitioners believe that
+      every living thing—and even inanimate objects like rocks—is
+      animate and possesses a spirit, called *kami*. Buddhism isn’t a
+      theistic religion at all. Humans who have achieved
+      enlightenment, like the Buddha himself, are venerated.
+
+      Buddhists believe in a cycle of death and rebirth that continues
+      until a person achieves an enlightened state. Shinto tradition
+      holds that after death a person’s kami passes on to another
+      world and watches over their descendants. This is why ancestor
+      worship is still an important part of modern-day Japanese
+      culture.
+
+  Shrines always have one or more *torii* gates at their entrance, two
+  horizontal beams supported by two vertical pillars, often
+  red-painted wood but sometimes grey concrete. Names of shrines end
+  in *jinja*, *jingu*, or *taisha*.
+
+  Buddhist temples usually have a large roofed gate that looks more
+  like a large house. Names of temples end with *ji*, *in*, *tera*, or
+  *dera*.
+
+  * `Japan’s Shrines & Temples | How to Tell Which is Which`__
+
+    __ https://donnykimball.com/shrines-temples-176408486be2
+
+  * `Etiquette at Shrines and Temples`__
+
+    __ https://en.japantravel.com/guide/shrine-temple-etiquette/20924
+
+  * `How to pray at temples & shrines in Japan`__ (video)
+
+    __ https://www.youtube.com/shorts/oRAxdw003_w
+
+* Drive on mountain roads.
+
+* Ride a local train through the countryside.
+
+* Ride a bullet train (*shinkansen*).
+
+* Experience a full service gas station, with attendants in uniform.
+
+* Visit a Pachinko parlor.
+
+* Visit a game center & a Gashapon/Gachapon store. If there’s one
+  Gacha capsule toy you should get, it’s a miniature Gachapon machine,
+  very meta.
+
+* Visit a historic town and/or a `post town`__.
+
+  __ https://en.wikipedia.org/wiki/Shukuba
+
+* Visit a mountain lake.
+
+* Walk through the rice fields: notice the irrigation channels and
+  narrow “roads”.
+
+* Visit a brewery: *saké*, wine, beer.
+
+* Visit a *tsukémono* (pickles) store for all the colors.
+
+* Go skiing (in winter) or water-sliding (in summer).
+
+* Go hiking.
+
+* Go cherry blossom viewing, if you’re here in the spring and happen
+  to be at the right place at the right time. (2025: started March 24,
+  full bloom March 30 in Tōkyō.)
+
+
+Top Destinations
+----------------
+
+There are a myriad places to visit in Japan, and only a few are listed
+here with scant details. The reader is encouraged to do their own
+research.
+
+
+Tokyo
+`````
+
+Properly pronounced “Tōkyō” (long “o”s), the capital of Japan was
+formerly called “Édo”. Tokyo is not a city but a prefecture,
+containing 23 “wards” and multiple cities, towns, villages, and even
+countryside! More people live within commuting distance of Tokyo than
+in all of Canada.
+
+There are lots of travel books about Tokyo. Here are some that are
+different:
+
+* `Tokyo Geek’s Guide: Manga, Anime, Gaming, Cosplay, Toys, Idols &
+  More - The Ultimate Guide to Japan’s Otaku Culture`
+
+* `Lonely Planet Kids City Trails - Tokyo`
+
+* `Cool Tokyo Guide: Adventures in the City of Kawaii Fashion, Train
+  Sushi and Godzilla`
+
+
+Kyoto
+`````
+
+“Kyōto” (first “o” is long) was the capital of Japan from 794 CE to
+1869 CE, when the capital was moved to Tokyo (formerly “Édo”). Kyoto
+is full of history, although it is also a modern city. Near Osaka,
+Nara, and Kōbé.
+
+
+Osaka
+`````
+
+“Ōsaka” (long “o”) has a culture of its own, more flashy than most of
+Japan. Near Kyoto, Nara, and Kōbé.
+
+
+Nara
+````
+
+Nara was the capital of Japan before it moved to Kyoto. Nara is the
+site of Tōdai-ji (Buddhist temple) which houses the world’s largest
+bronze statue of the Buddha, which is located in Nara Park, which
+features free-roaming sika deer. Near Kyoto, Osaka, and Kōbé.
+
+
+Hiroshima
+`````````
+
+Hiroshima is a city in the west of Japan’s main island, Honshū.
+Hiroshima was the first military target of a nuclear weapon in
+history, on August 6, 1945, and is the site of The Hiroshima Peace
+Memorial.
+
+
+Nagasaki
+````````
+
+Nagasaki is a city on the southwestern island of Kyūshū. Nagasaki was
+sole port used for trade with the Portuguese and Dutch during the 16th
+through 19th centuries, when the rest of Japan was closed to the
+outside world. Nagasaki was the second city in the world to experience
+a nuclear attack, on August 9, 1945.
+
+
+Mount Fuji
+``````````
+
+I recommend viewing Mount Fuji from a bullet train or from nearby, but
+climbing it is not worth the time & effort.
+
+
+Nikkō
+`````
+
+Nikkō is a beautiful town in the mountains north of Tokyo, about 2½
+hours by train. Nikkō Tōshō-gū is the shrine with the “three monkeys”:
+“see no evil, hear no evil, speak no evil”.
+
+
+Narita City
+```````````
+
+Narita City is like a mini Kyōto with a large temple (Naritasan
+Shinshō-ji), a large adjacent park, and a tourist street (Naritasan
+Omotésandō) where you can marvel at all things traditional Japanese,
+with shops, restaurants, street food, and activities.
+
+If you’re flying into or out of Narita Airport, the nearby Narita City
+is a great first and/or last place to visit. At the beginning of your
+stay in Japan, decompress from your long flight with a relaxing stay
+at a hotel and enjoy the tourist-oriented town. At the end of your
+stay in Japan, stay at a hotel, enjoy the day in the town, pick up any
+last-minute souvenirs, then head to the airport without worrying about
+getting there on time. Use your hotel’s shuttle service if available
+and convenient, or take a taxi or a local train. In addition to the
+Omotésandō tourist/shopping street, there’s a small Aeon Town mall in
+town and a large Aeon Mall a short bus ride away, plus lots of
+shopping at the airport.
+
+Mayumi and I stayed in Narita City for the first time in March 2024
+and again in August 2024, and it was great. We have stayed at the
+Hedistar Hotel Narita (very small rooms, but cheap & clean), APA Hotel
+Keisei-Narita Station (more expensive, nicer rooms, features *onsen*
+baths), and Toyoko Inn Narita Airport (good value, but near the
+airport and not the city so you have to take their shuttle to the
+airport and then take the train into town, or a more expensive taxi).
+There are many other options.
+
+Video: `Must Visit Traditional Japanese Town next to Narita Airport`__
+
+__ https://www.youtube.com/watch?v=3bkBdElGAkE
+
+
+Hokkaido
+````````
+
+Hokkaidō (long last “o”) is the northernmost major island and
+prefecture of Japan, and is the homeland of the Ainu indigenous
+people.
+
+
+Ghibli Museum & Ghibli Park
+```````````````````````````
+
+If you’re into the Ghibli films, these are prime destinations. Tickets
+are limited though and must be booked months in advance; they sell out
+quickly. We haven’t been yet.
+
+`Ghibli Museum`__ is in western Tokyo.
+
+__ https://www.ghibli-museum.jp/en/
+
+`Ghibli Park`__ is a theme park near Nagoya.
+
+__ https://ghibli-park.jp/en/
+
+
+Shimanami Kaido
+```````````````
+
+The `Shimanami Kaido`__ (`official site`__) is a 70 km (minimum)
+cycling route joining the mainland (Honshū) from Hiroshima Prefecture
+with six islands in Japan’s Inland Sea, ending at the island of
+Shikoku (video__). We haven’t been yet, but we’re keen to go!
+
+__ https://www.japan-guide.com/e/e3478.html
+__ https://visitshimanami.com/
+__ https://www.youtube.com/watch?v=jVcf5iOszjc
+
+
+References
+----------
+
+* `Top Destinations in Japan`__.
+
+  __ https://www.japan-guide.com/e/e623a.html
+
+“Ultimate Travel Itinerary” videos, good for ideas & planning:
+
+* `How to Spend 21 Days in Japan`__ (video)
+
+  __ https://www.youtube.com/watch?v=hcI2M8GdXEc
+
+* `How to Spend 14 Days in Japan`__ (video)
+
+  __ https://www.youtube.com/watch?v=DBVAAnq1dHo
+
+
+Shopping
+========
+
+* Supermarkets. Play the “What’s this?” game! If you see something you
+  think you might like, try it!
+
+* Convenience stores in Japan are wonderful.
+
+* Don Quixoté (AKA “Don-ki”) is kind of like the Walmart of Japan, but
+  a visit is an assault on your senses.
+
+* Daiso & Seria: ¥100 shops. Surprisingly high quality goods compared
+  to typical dollar stores.
+
+* Modern shopping centers to see how they differ from those in North
+  America.
+
+* Old-style shopping arcades (“Ginza”), often a downtown street
+  covered with a roof.
+
+* *Gatchapon* capsule stores & game centers.
+
+* Second-hand stores, especially if you’re into any Japanese media.
+
+* Muji store: clothes and storage and foods.
+
+* *Dagashi-ya*: retro candy & sundry stores that are often decorated
+  to look like they’re from the *Shōwa* era.
+
+
+Resources
+=========
+
+* `Etiquette in Japan`__ (Wikipedia)
+
+  __ https://en.wikipedia.org/wiki/Etiquette_in_Japan
+
+* `How to Avoid Crowds While Visiting Japan`__ (video)
+
+  __ https://www.youtube.com/watch?v=YgWcX9te5ec
+
+* `Japanese Unit Bath vs. American Bathroom`__
+
+  __ https://www.snapjapan.com/japanese-unit-bath-vrs-american-bathroom
+  
+
+Revision History
+================
+
+* 2025-03-05: First released draft
+
+* 2025-03-12: Added “People may want to speak to you in English” item
+
+* 2025-04-05: First published on the web
