@@ -1,4 +1,4 @@
-﻿.. -*- coding: utf-8-with-signature -*-
+.. -*- coding: utf-8 -*-
 
 ============================
  How to Use a Japanese Bath
