@@ -9,7 +9,7 @@
 
    * `Visiting Japan <visiting.html>`_
 
-   * `Staying With Us <staying.html>`_
+   * `Staying With Us <staying-with-us.html>`_
 
    * `How to Use a Japanese Bath <bathing.html>`_
 
