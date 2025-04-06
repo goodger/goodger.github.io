@@ -4,7 +4,7 @@
  `David Goodger’s <../>`__ Japan Pages
 =======================================
 
-.. sidebar:: Related Pages
+.. topic:: Contents:
    :class: large
 
    * `Visiting Japan <visiting.html>`_
@@ -12,5 +12,8 @@
    * `Staying With Us <staying-with-us.html>`_
 
    * `How to Use a Japanese Bath <bathing.html>`_
+
+.. sidebar:: Also see:
+   :class: large
 
    * `David Goodger’s Homepage <http://david.goodger.org>`_
