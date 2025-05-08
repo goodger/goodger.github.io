@@ -1,4 +1,4 @@
-.. -*- coding: utf-8 -*-
+﻿.. -*- coding: utf-8-with-signature -*-
 
 =================
  Staying With Us
@@ -11,7 +11,7 @@
    * `David Goodger’s Homepage <http://david.goodger.org>`_
 
 :Author:   David Goodger
-:Revision: 2025-04-05 (see `Revision History`_) 
+:Revision: 2025-05-07 (see `Revision History`_) 
 
 ..
 
@@ -115,10 +115,10 @@ weeks. About a week after leaving Tōkyō they pass right by our house!
 
 __ https://en.wikipedia.org/wiki/Nakasend%C5%8D
 
-We chose to live in Saku because of its relatively cool summers due to
-its location in the mountains (elevation 760 m). In exchange, we
-experience cold winters. Because it’s an old house, when it’s cold
-outside it’s cold inside as well.
+We chose to live in Saku because of its relatively cool (or at least
+bearable) summers due to its location in the mountains (elevation 760
+m ≈ 2500 ft). In exchange, we experience cold winters. Because it’s an
+old house, when it’s cold outside it’s cold inside as well.
 
 Details:
 
@@ -234,7 +234,10 @@ recommend them. The other ones are on our to-visit list.
 
   * ★ Bunzo Black has strong *tonkotsu* (pig bone) broth; 1.0 km south.
 
-  * Rāmen Daigaku; 750 m north
+  * ★ Rāmen Daigaku; 750 m north. Many types of soup base (*miso*,
+    *shio*/salt, *shōyu*/soy, corn), but the *tonkotsu* wasn’t as good
+    as at Bunzo Black or Futatsumé, and the noodle volume seemed
+    light.
 
   * Ichidaigen; 500 m south
 
@@ -250,7 +253,9 @@ recommend them. The other ones are on our to-visit list.
 
   * Menshin Kazamidori; 1.7 km south
   
-  And many, many others farther away.
+  And many, many others farther away. Futatsumé is a great option
+  (tasty, huge servings) around Takasaki, and there’s a branch in
+  Nagano City.
 
 * Sakébō Umé (酒房うめ): neighborhood *izakaya*; 290 m south & west
   just off the Old Nakasendō road
@@ -275,20 +280,29 @@ recommend them. The other ones are on our to-visit list.
   setting with outdoor seats & views of Mt. Asama”; 2.0 km north just
   off the Old Nakasendō road
 
-* ★ Sasaki Shōten: taiyaki (& croissant “taiwassan-yaki”) & takoyaki &
-  soft-serve ice cream stand; 2.7 km north just off the Old Nakasendō
-  road
+* ★ Sasaki Shōten: a snack stand serving *taiyaki* (& croissant
+  “taiwassan-yaki”) & *takoyaki* & soft-serve ice cream; 2.7 km north
+  just off the Old Nakasendō road
+
+* ★ Chatamaya (takeout) for cream puffs, gelato, and other egg
+  products, and for the scenery on the way; 11 km
+
+* ★ Tamaya for locally-made sweets; 5.7 km
 
 
 Destinations In & Near Saku
 ===========================
+
+We have visited the places marked with a “★” and can recommend them.
+Many of the others are on our to-visit list.
+
 
 Walking Courses
 ---------------
 
 * Walk the Old Nakasendō road to or from:
 
-  * `Otai-shuku`__, a small Nakasendō__ post town (#21) a short walk
+  * ★ `Otai-shuku`__, a small Nakasendō__ post town (#21) a short walk
     away to the north (10-15 minutes, ~800 m)
 
     __ https://en.wikipedia.org/wiki/Otai-shuku
@@ -306,8 +320,11 @@ Walking Courses
     __ http://karuizawa-ginza.org/
     __ https://en.wikipedia.org/wiki/Karuisawa-shuku
 
-  * Kumanokotai Shrine on the border with Gunma Prefecture (about 5
-    hours one-way, ~19 km)
+  * ★ Kumanokotai Shrine on the border with Gunma Prefecture (about 5
+    hours one-way, ~19 km). The route becomes a trail through the
+    woods east of here. There’s a café across the street, Shigenoya,
+    with a deck overlooking the mountain slope to the south, and
+    late-blooming cherry trees (2025-04-25).
 
   * `Iwamurada-shuku`__ is the next post town (#22) to the south of
     us, towards Kyōto (e.g. Sainenji temple, about 50 minutes one-way,
@@ -316,13 +333,14 @@ Walking Courses
     __ https://en.wikipedia.org/wiki/Iwamurada-shuku
 
   For the distant destinations, perhaps drive there and walk home or
-  arrange to meet there and drive home?
+  arrange to meet there and drive home. Or drive there and walk around
+  the area.
 
-* `Walking courses around Saku`__.
+* `Walking courses around Saku`__. (★ We've walked a couple of these.)
 
   __ https://www.city.saku.nagano.jp/kenko/kenkozoshin/topics/walking_map.html
 
-* Walk the back road between Route 9 and Old Nakasendō to Nagakura
+* ★ Walk the back road between Route 9 and Old Nakasendō to Nagakura
   Suwa Shrine, turn right and walk to Hōshu-in, past the water
   treatment plant, to Miyota Fujitsuka Reien cemetery to take in the
   view of Mount Hirao and the Shinkansen tracks, then back home (~2.7
@@ -332,12 +350,13 @@ Walking Courses
 Nature
 ------
 
-* Cosmos plantation. The view from the top of the hill is impressive.
+* ★ Cosmos plantation. The view from the top of the hill is
+  impressive.
 
-* Iwamurada Schistostega is a cave by the Yu River containing
+* ★ Iwamurada Schistostega is a cave by the Yu River containing
   luminescent moss.
 
-* There’s a small forested gorge 10 minutes walk from our house,
+* ★ There’s a small forested gorge 10 minutes walk from our house,
   on the way to the Yu River valley.
 
 
@@ -356,28 +375,31 @@ Mountain Climbing/Trekking/Hiking
 Historic Sites
 --------------
 
-* Tatsuoka-jō Castle Ruins (star fort) in Saku.
+* ★ Tatsuoka-jō Castle Ruins (star fort) in Saku. The ruins themselves
+  are not impressive; the original buildings are gone, and a
+  now-closed elementary school is all that's left. There's a visitor
+  center there with a mockup and historical information.
 
-* Portions of the Komoro Castle remain and are quite impressive.
+* ★ Portions of the Komoro Castle remain and are quite impressive.
 
-* Ueda Castle Ninomaru Ruins. Rebuilt hilltop remnants of a castle
+* ★ Ueda Castle Ninomaru Ruins. Rebuilt hilltop remnants of a castle
   dating to 1583, with 2 Shinto shrines & a local history museum.
 
 
 *Onsen* Hot Spring Baths
 ------------------------
 
-* Hirao Onsen Miharashinoyu is a large-scale place nearby, about 10
+* ★ Hirao Onsen Miharashinoyu is a large-scale place nearby, about 10
   minutes drive to the south. There are multiple outdoor baths,
   including individual “pots”. Beyond the privacy fencing there are
   panoramic views of the mountains surrounding Saku to the east,
   south, and west. On clear days you can see all the way to the
   North Japanese Alps.
 
-* Fusé Onsen, about 20 minutes drive to the west, is a smaller place
+* ★ Fusé Onsen, about 20 minutes drive to the west, is a smaller place
   on a hillside overlooking farm fields in a river valley.
 
-* Tatéshina Onsen Gongen-no-yu, about 30 minutes to the west, is a
+* ★ Tatéshina Onsen Gongen-no-yu, about 30 minutes to the west, is a
   medium-scale place. Its main attraction is its outdoor bath, with
   a spectacular view of the mountains of the Asama Range to the
   north. If you visit only one *onsen*, this is the one.
@@ -388,11 +410,11 @@ See `How to Use a Japanese Bath`_.
 Buddhist Temples
 ----------------
 
-* Hōshuin, a short walk away, features a small pond with *koi* fish,
+* ★ Hōshuin, a short walk away, features a small pond with *koi* fish,
   a bamboo forest, and a view of a creek at the bottom of a
   neighboring ravine.
 
-* Saku-Naritasan-Yakushiji features *Pin-koro jizō*, named from the
+* ★ Saku-Naritasan-Yakushiji features *Pin-koro jizō*, named from the
   phrase “*pinpin-korori*”: to live a long and healthy life, and to
   die peacefully without becoming bedridden (info__).
 
@@ -407,29 +429,33 @@ Buddhist Temples
 
 * Shuhoin on Mount Hirao, near Hirao Shrine.
 
-* Kogakuji & many other nearby templess in Komoro.
+* ★ Kogakuji & many other nearby templess in Komoro.
 
 
 Shintō Shrines
 --------------
 
-* Shirayamahimé Shrine, a small Otai neighborhood shrine on our
+* ★ Shirayamahimé Shrine, a small Otai neighborhood shrine on our
   block.
 
-* Inari Shrine, a tiny shrine in the Otai neighborhood, two blocks
+* ★ Inari Shrine, a tiny shrine in the Otai neighborhood, two blocks
   from our house.
 
-* Nagakura Suwa Shrine is a medium-sized shrine 15 minutes walk from
+* ★ Nagakura Suwa Shrine is a medium-sized shrine 15 minutes walk from
   our house.
+
+* ★ Iidama Shrine is a medium-sized shrine 1.5 km north of our house,
+  a 22 minute walk. It’s in the woods up a flight of steps from the
+  back road west of the Old Nakasendō road, near Bakery Café Cocoladé.
 
 * Hirao Shrine, near Shuhoin Buddhist temple on Mount Hirao. 10
   minutes by car.
 
-* Hanazura-Inari Shrine is on a hillside overlooking the Yu River
-  and has a staircase with a series of red *torii* gates. 10 minutes
-  by car.
+* ★ Hanazura-Inari Shrine is high on a hillside overlooking the Yu
+  River and has a staircase with a series of red *torii* gates, plus a
+  bamboo forest and Japanese maples. 10 minutes by car.
 
-* Shinkai-Sansha Shrine is a large shrine in a gorgeous setting: in
+* ★ Shinkai-Sansha Shrine is a large shrine in a gorgeous setting: in
   the woods on a hillside. 25 minutes by car.
 
 * Inariyama Park has a shrine with lots of *torii* gates, plus
@@ -439,13 +465,15 @@ Shintō Shrines
 Mountain Roads
 --------------
 
-* `Cosmos highroad`__ (コスモス街道; National Highway 254 east out
-  of Saku) & Uchiyama Gorge (内山峡).
+* ★ `Cosmos Highroad`__ (コスモス街道; National Highway 254 east out
+  of Saku) & Uchiyama Gorge (内山峡). In late summer it’s lined with
+  cosmos flowers.
 
   __ https://www.sakukankou.jp/sightseeing/kosumosu-kaidou/
 
-* The winding road between Saku and Takasaki has some breathtaking
-  scenery.
+* The winding roads between Saku and Takasaki have some breathtaking
+  scenery. Highway 18 is pretty good, but Highway 254 is even better
+  (though longer; it starts as the Cosmos Highroad).
 
 
 Museums
@@ -457,7 +485,7 @@ Museums
 
 * Trick Art Museum Karuizawa
 
-* Karuizawa Picturebook Museum
+* ★ Karuizawa Picturebook Museum
 
 * Peynet Museum (modern art), Karuizawa
 
@@ -477,8 +505,8 @@ Festivals
 Go
 ----
 
-* `The Komoro Go Club`__ meets on Saturdays at 13:00, with lessons for
-  beginners at 09:00 (~10 km, 20 minutes by car).
+* ★ `The Komoro Go Club`__ meets on Saturdays at 13:00, with lessons
+  for beginners at 09:00 (~10 km, 20 minutes by car).
 
   __ https://igonosato-komoro.jp/
 
@@ -487,27 +515,34 @@ Go
 
 * Groups meet weekly at community centers in and around Saku.
 
+* ★ Second-hand stores often carry Go boards, stones, and bowls.
+  Nagano Recycle Center (walking distance) has several floor boards
+  with legs.
+
 
 Miscellaneous
 -------------
 
-* Otai Mallet Golf course; 750 m southeast.
+* ★ Otai Mallet Golf course; 750 m southeast. (We haven’t played yet.)
 
 * Karuizawa Taliesin is a private nature park with a lake, museums,
   restaurants, and activities.
 
-* Mount Hirao Parada has skiing in winter and a “Super Slider” sled
+* ★ Mount Hirao Parada has skiing in winter and a “Super Slider” sled
   course in summer, plus an insectarium (featuring a stag beetle dome)
-  any time. Also, hiking through the woods.
+  any time. Also, hiking through the woods. And an onsen, of course.
+
+* ★ Ryūjin's Forest Park in Miyota is a municipal park 2.5 km north
+  via the Old Nakasendō road etc.
 
 
 Shopping
 ========
 
-* Convenience stores: two convenience stores within a short walk;
+* ★ Convenience stores: two convenience stores within a short walk;
   7-Eleven is 400 meters away, and Family Mart is 300 meters away.
 
-* Saku Inter-Wave, 1.5 km away, is a shopping center with a grocery
+* ★ Saku Inter-Wave, 1.5 km away, is a shopping center with a grocery
   store (Aeon Big), a home center (Viva Home), a pharmacy (Welcia), a
   bookstore (Heiandō), a ¥100 shop (Daiso), a craft/sewing store
   (Tokai), clothing stores, etc.
@@ -515,31 +550,31 @@ Shopping
 * Iwamurada Ginza (3.5 km): a traditional shopping street with covered
   sidewalks.
 
-* Supermarkets: Tsuruya, A-Coöp, Aeon Big, Seiyu, Beisia, Nana’s.
+* ★ Supermarkets: Tsuruya, A-Coöp, Aeon Big, Seiyu, Beisia, Nana’s.
 
-* Farmer’s markets: JA Farm Saku, Healthy Terrace Saku-Minami Road
+* ★ Farmer’s markets: JA Farm Saku, Healthy Terrace Saku-Minami Road
   Station, etc.
 
-* Bakeries & pastry shops: Bakery Café Cocoladé and Pâtisserie TAK
-  (2.0 km) and many others.
+* ★ Bakeries & pastry shops: Bakery Café Cocoladé, Pâtisserie TAK (2.0
+  km), and many others.
 
-* Aeon Mall (5.4 km): a variety of shops, restaurants (sit-down, food
-  court, & take-out, including *taiyaki*), a game center, Gachapon
-  capsule toys, a department store, and a supermarket.
+* ★ Aeon Mall (5.4 km): a variety of shops, restaurants (sit-down,
+  food court, & take-out, including *taiyaki*), a game center,
+  *Gachapon* capsule toys, a department store, and a supermarket.
 
-* Don Quixoté (5.6 km)
+* ★ Don Quixoté (5.6 km) is an assault on your senses.
 
-* ¥100 shops: Daiso (1.5 km) & Seria (2.4 km)
+* ★ ¥100 shops: Daiso (1.5 km) & Seria (2.4 km)
 
-* Second-hand stores: Hobby Off (4.1 km), 2nd Street (4.8 km), Sairaku
-  Replus (8.3 km), Nagano Recycle Center (950 m), and Antique Recycle
-  Shop Hidé (1.0 km; open Saturdays & Sundays) .
+* ★ Second-hand stores: Hobby Off (4.1 km), 2nd Street (4.8 km),
+  Sairaku Replus (8.3 km), Nagano Recycle Center (950 m), and Antique
+  Recycle Shop Hidé (1.0 km; open Saturdays & Sundays) .
 
-* Karuizawa Prince Shopping Plaza (15.5 km) is a huge shopping center
-  in a park-like setting with high-end brands (e.g. Prada, Gucci),
-  outlet stores, and a good food court.
+* ★ Karuizawa Prince Shopping Plaza (15.5 km) is a huge shopping
+  center in a park-like setting with high-end brands (e.g. Prada,
+  Gucci), outlet stores, and a good food court.
 
-* Home centers: Viva Home and Cainz.
+* ★ Home centers: Viva Home and Cainz.
 
 * Lots of craft & specialty stores in the area.
 
@@ -573,3 +608,5 @@ Revision History
 * 2025-03-30: Many small additions & edits
 
 * 2025-04-05: First published on the web
+
+* 2025-05-07: Updated & added details

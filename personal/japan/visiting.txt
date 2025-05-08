@@ -1,4 +1,4 @@
-.. -*- coding: utf-8 -*-
+﻿.. -*- coding: utf-8-with-signature -*-
 
 =========================
  🇯🇵 Visiting 🇯🇵 Japan 🇯🇵
@@ -53,7 +53,7 @@ Planning Your Trip
 
   Avoid visiting during the summer. It gets hot & humid in June,
   when rainy season starts. July & August are terrible. September is
-  still hot, but not too terrible.
+  still hot, but not too bad.
 
   Avoid visiting around New Year’s, during “Golden Week” (April 29
   through May 5), or (less so) during “Obon__” (August 13-16): these
@@ -108,14 +108,16 @@ Planning Your Trip
   attractions, restaurants, and malls are always busy. Schedule visits
   on non-holiday weekdays.
 
-* Asakusa in Tokyo is overcrowded during the day, especially on
-  weekends. Visit at night for a much more intimate experience, but
-  the shops will be closed. Better yet, visit Naritasan Shinshō-ji
-  (temple) and Naritasan park instead (see `Narita City`_).
+* Asakusa in Tokyo (a tourist street leading to large temple) has all
+  the souvenirs you could ever want, but it is overcrowded during the
+  day, especially on weekends and holidays. Visit at night for a much
+  more intimate experience, but the shops will be closed. Better yet,
+  visit Naritasan Shinshō-ji (temple) and Naritasan park instead (see
+  `Narita City`_).
 
 * Convert prices easily: for a first approximation, just treat yen as
   cents. Imagine a decimal place two digits in from the right, so
-  ¥25,000 is approximately $250.
+  ¥25,000 is approximately $250 Canadian.
 
 * Sales tax is 10% (8% for essentials). Purchases are tax-free for
   visitors with your passport at some stores.
@@ -128,7 +130,7 @@ Preparations for Your Trip
   used to walking a lot, do some training before your trip. Work your
   way up to at least an hour of walking per day.
 
-* Invest in a good set of compression stockings. One pair for the very
+* Invest in some quality compression stockings. One pair for the very
   long flight, and an extra pair or two for travel & walking days.
 
 * Get good travel health insurance.
@@ -166,10 +168,11 @@ Preparations for Your Trip
 
 * Get a visitor’s mobile data plan, with or without a calling plan.
   Mobile data access is essential while you’re here, for `Google
-  Translate`_, maps, etc. We have used Mobal__ in the past, but there
-  are many__ others__. Make sure your phone is compatible with the
-  service, especially if it’s older (mine was compatible with Mobal in
-  March 2024, but not in August!).
+  Translate`_, maps, etc. We have used Mobal__ in the past (includes a
+  calling plan with a phone number), but there are many__ others__.
+  Make sure your phone is compatible with the service, especially if
+  it’s older (mine was compatible with Mobal in March 2024, but not in
+  August!).
 
   eSIM plans like Saily__ and `Journey Japan eSIM`__ provide data
   only, but you don’t get voice calling service (i.e. no real phone
@@ -177,7 +180,7 @@ Preparations for Your Trip
   easily exchange voice calls with family & friends using WhatsApp
   etc. To make calls to regular landlines & mobile phones using your
   data-only plan you’ll need `an app/service with a nominal fee`__;
-  `Viber Out`__ seems to be a reasonable app & service.
+  `Viber Out`__ is a reasonable app & service.
 
   __ https://www.mobal.com/
   __ https://www.sakuramobile.jp/
@@ -228,18 +231,22 @@ Know Before You Go
   lot of luggage. If you have large suitcases, it can be a royal pain.
   There’s a lot of walking and staircases, and major stations are
   usually crowded. Most stations have escalators or elevators, but not
-  all. Most trains don’t have places to put large suitcases. Also, our
-  car is small; it only fits 4 adults comfortably and can’t fit much
-  in the trunk.
+  all. Most trains don’t have places to put large suitcases (Narita
+  Express does).
+
+  Also, many cars (including ours) are small, only fitting 4 adults
+  comfortably and they can’t fit much in the trunk. Taxis tend to have
+  large trunks though.
 
   But this is Japan, so of course there is a solution! Japan’s `home
   delivery service`__ (“*takkyūbin*”) is cheap (~$25) and reliable. At
   the airport or at your hotel you can drop off your suitcases for
   next-day (sometimes same-day) delivery to your destination. Just
-  keep your carry-on and your personal item with you, and pack
-  accordingly. The delivery services also offer a luggage storage
-  service, so you can ship your luggage a day or two before heading
-  home and pick it up at the airport.
+  keep your carry-on and your personal item with you, and pack (or
+  re-pack) accordingly. The delivery services also offer a luggage
+  storage service at the airport, so you can ship your luggage a day
+  or two before heading home and pick it up when you arrive at the
+  airport.
 
   __ https://www.japan-guide.com/e/e2278.html
 
@@ -251,18 +258,20 @@ Know Before You Go
   .. _Sagawa: https://www.sagawa-exp.co.jp/ttk/english/
 
 * When paying at a store or restaurant, place your cash on the small
-  tray near the cash register, with bill face up. Do not hand cash
-  directly to the cashier.
+  tray near the cash register, with bills face up. Do not hand cash
+  directly to the cashier. They may return your change via the same
+  tray or directly.
 
-* When paying with a credit card, you may be asked “*ikkai*?” = “one
-  time?”. Just reply “*hai*” = “yes”. There’s an installment system
-  built into credit card payment systems here (with fees of course).
+* When paying with a credit card (say “*kādo dé*” = “with a card”),
+  you may be asked “*ikkai*?” = “one time?”. Just reply “*hai*” =
+  “yes”. There’s an installment system built into credit card payment
+  systems here (with fees of course).
 
 * People may want to speak to you in English, on the train, on the
   street, in an *onsen*, etc. Most people in Japan have had at least 6
   years of English classes (up to 12 years for younger people), and
   while most are shy and lack confidence, some will want to practise.
-  Try to speak clearly and simply, and have patience. You’ll get the
+  Try to speak clearly and simply, and have patience. You may get the
   same questions over and over: “Where are you from?”, “How long are
   you in Japan?”, “What do you like to eat?”, etc.
 
@@ -337,26 +346,31 @@ Bring (or buy when you get here)
   * Most `Japanese electrical sockets`__ are similar to sockets in
     North America but lack a 3rd ground slot/hole (i.e. Type A NEMA 1
     ungrounded). The two slots are the same length in older sockets,
-    both short (i.e. unpolarized). If you’re bringing any 3-prong
-    devices, bring a 2-prong unpolarized (both prongs short) male to
-    3-slot polarized (short & long slots) female socket adapter, like
-    `these ones`__. If you’re bringing any devices with 3-prong or
-    2-prong polarized plugs, bring an adapter or buy one here.
+    both short (i.e. unpolarized). If you’re bringing any devices with
+    3-prong or 2-prong polarized plugs, bring an adapter or buy one
+    here: 2-prong unpolarized (both prongs short) male to 3-slot
+    polarized (short & long slots) female socket adapter, like `these
+    ones`__.
 
     __ https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets#JIS_C_8303,_Class_II_unearthed
     __ https://www.amazon.ca/dp/B09CPXW8R5/
 
     Japanese search term: 接地 アダプター.
 
-  * There are electronics stores like Yamada Denki and home centers
-    like Cainz, Viva Home, and D2 in or near every city. Daiso
-    (Japan’s dollar store chain) carries cheap USB cables (and LOTS of
-    other stuff). Convenience stores carry an amazing range of useful
-    items, but may not have the specific thing you’re looking for.
-    There’s also amazon.co.jp.
+  * There are electronics stores like Yamada Denki and K’s Denki, and
+    home centers like Cainz, Viva Home, and D2, in or near every city.
+    Daiso and Seria (Japan’s dollar store chains) carry cheap USB
+    cables (and LOTS of other stuff). Convenience stores carry an
+    amazing range of useful items, but may not have the specific thing
+    you’re looking for. There’s also amazon.co.jp.
 
 * If you can’t handle chopsticks, there are assistant devices
   available.
+
+• Have a secure passport holder; by law you must carry your passport
+  with you at all times. Theft and pickpocketing is rare in Japan but
+  it does happen sometimes, such as in tourist areas and other crowded
+  places.
 
 
 Do’s & Don’ts
@@ -379,7 +393,7 @@ Strong Do’s:
   (fermented soybeans), *uméboshi* (pickled plum), *goya* (bitter
   gourd/melon/squash), dried squid or squid jerky, *kon’nyaku* (konjak
   jelly), fishy snacks, *wagashi* (Japanese sweets), *manjū* (small
-  bun filled with sweet bean paste), etc.
+  buns filled with sweet bean paste), etc.
 
 * Do remove your shoes at level differences (esp. house entryways) and
   put on slippers (usually provided, although small).
@@ -391,6 +405,20 @@ Strong Do’s:
 
   __ pronunciation.html
 
+* Do be aware of the direction of traffic: cars drive on the left. Be
+  very careful when crossing the street, as this may catch you
+  unaware! Always look both ways, twice, before crossing.
+
+* Do carry your passport with you at all times. This is required by
+  law. You could be asked to show it at any time by police, and if you
+  don’t have it you will face delays at best and you could be arrested
+  at worst. Also, your passport is needed to check in to hotels, and
+  it could save you money on purchases (no sales tax at some stores).
+
+  Keep physical copies of your passport and credit cards and IDs
+  separately (e.g. photocopies in your luggage) and digital copies on
+  your phone.
+
 Strong Don’ts:
 
 * Japan is very strict about drugs and other illicit materials, so DO
@@ -399,8 +427,7 @@ Strong Don’ts:
 * Don’t wear cologne or perfume. A little light deodorant is fine.
 
 * Don’t tip. There’s no tipping in Japan! If you do leave a tip, a
-  staff member is likely to run after you in the street to return your
-  cash.
+  staff member is likely to run after you to return your cash.
 
 * Chopsticks taboos:
 
@@ -416,8 +443,8 @@ Weak don’ts below. I do these all the time.
 
 * Don’t walk & eat. At least, Japanese people tend not to do this (but
   there are exceptions). Even with street food, they’ll stand and eat
-  it near where they bought it. For one thing, there tend not to be a
-  trash bins except where the food was sold, and putting unrelated
+  it near where they bought it. For one thing, there tend not to be
+  any trash bins except where the food was sold, and putting unrelated
   trash in another shop’s bin is frowned upon.
 
 If you don’t know what to do in a situation, just smile and bow and it
@@ -559,10 +586,10 @@ Ideas For Dining Out
 
 * Rāmen is a good option for tasty noodles in the soup of your choice:
   *miso*, soy/*shōyū*, salt/*shio*; my favorite is pork/*tonkotsu* but
-  it’s not so common. The noodles often come with slices of roast
-  pork (*chāshū*) and egg. Get a side of *gyōza* potstickers and/or
-  *chāhan* fried rice. There are many chains and a plethora of local
-  shops.
+  it’s not as common. The noodles often come with slices of roast
+  pork (*chāshū*) and egg. Get a side of *gyōza* potstickers, *chāhan*
+  fried rice, and/or *kara-agé* fried chicken. There are many chains
+  and a plethora of local shops.
 
 * Family restaurants like Royal Host (at the high end), Steak-no-Don,
   Denny’s, Coco’s, Gusto (at the low end), and many others abound. At
@@ -576,9 +603,7 @@ Ideas For Dining Out
 
 * Dessert: Fujiya for cakes, hard & soft-serve ice cream, etc. (with
   seating; some Fujiya locations are also family restaurants, but not
-  in the one in Saku); Châteraisé (takeout) for cakes & ice cream. In
-  Saku: Chatamaya (takeout) for cream puffs & the scenery on the way;
-  Tamaya for local delicacies; etc.
+  in the one in Saku); Châteraisé (takeout) for cakes & ice cream.
 
 * Bakeries feature a wide variety of savoury & sweet pastries &
   breads. Worth visiting.
@@ -667,9 +692,9 @@ General
 
 * Visit a Pachinko parlor.
 
-* Visit a game center & a Gashapon/Gachapon store. If there’s one
-  Gacha capsule toy you should get, it’s a miniature Gachapon machine,
-  very meta.
+* Visit a game center & a *Gashapon/Gachapon* store. If there’s one
+  *Gacha* capsule toy you should get, it’s a miniature *Gachapon*
+  machine: very meta.
 
 * Visit a historic town and/or a `post town`__.
 
@@ -690,7 +715,7 @@ General
 
 * Go cherry blossom viewing, if you’re here in the spring and happen
   to be at the right place at the right time. (2025: started March 24,
-  full bloom March 30 in Tōkyō.)
+  full bloom March 30 in Tōkyō; mid-April in Saku.)
 
 
 Top Destinations
@@ -705,12 +730,13 @@ Tokyo
 `````
 
 Properly pronounced “Tōkyō” (long “o”s), the capital of Japan was
-formerly called “Édo”. Tokyo is not a city but a prefecture,
-containing 23 “wards” and multiple cities, towns, villages, and even
-countryside! More people live within commuting distance of Tokyo than
-in all of Canada.
+formerly called “Édo”. Tōkyō is not merely a city but a prefecture
+(like a province or state), containing 23 central “wards” many of
+which are themseves large cities, multiple outlying cities, towns,
+villages, and even countryside and mountains! More people live within
+commuting distance of Tōkyō than in all of Canada.
 
-There are lots of travel books about Tokyo. Here are some that are
+There are lots of travel books about Tōkyō. Here are some that are
 different:
 
 * `Tokyo Geek’s Guide: Manga, Anime, Gaming, Cosplay, Toys, Idols &
@@ -726,8 +752,8 @@ Kyoto
 `````
 
 “Kyōto” (first “o” is long) was the capital of Japan from 794 CE to
-1869 CE, when the capital was moved to Tokyo (formerly “Édo”). Kyoto
-is full of history, although it is also a modern city. Near Osaka,
+1869 CE, when the capital was moved to Tokyo (formerly “Édo”). Kyōto
+is full of history, although it is also a modern city. Near Ōsaka,
 Nara, and Kōbé.
 
 
@@ -735,7 +761,7 @@ Osaka
 `````
 
 “Ōsaka” (long “o”) has a culture of its own, more flashy than most of
-Japan. Near Kyoto, Nara, and Kōbé.
+Japan. Near Kyōto, Nara, and Kōbé.
 
 
 Nara
@@ -744,7 +770,7 @@ Nara
 Nara was the capital of Japan before it moved to Kyoto. Nara is the
 site of Tōdai-ji (Buddhist temple) which houses the world’s largest
 bronze statue of the Buddha, which is located in Nara Park, which
-features free-roaming sika deer. Near Kyoto, Osaka, and Kōbé.
+features free-roaming sika deer. Near Kyōto, Ōsaka, and Kōbé.
 
 
 Hiroshima
@@ -803,12 +829,22 @@ shopping at the airport.
 
 Mayumi and I stayed in Narita City for the first time in March 2024
 and again in August 2024, and it was great. We have stayed at the
-Hedistar Hotel Narita (very small rooms, but cheap & clean), APA Hotel
-Keisei-Narita Station (more expensive, nicer rooms, features *onsen*
-baths), and Toyoko Inn Narita Airport (good value, but near the
-airport and not the city so you have to take their shuttle to the
-airport and then take the train into town, or a more expensive taxi).
-There are many other options.
+following hotels, but there are many other options:
+
+* Hedistar Hotel Narita: very small rooms, but cheap & clean. It’s 1.0
+  km (about 13 minutes walking) to & from the train stations and the
+  start of Naritasan Omotésandō (the tourist street), or 700 m (9
+  minutes walking) to the main gate of Naritasan Shinshō-ji temple via
+  the less-interesting back roads.
+
+* APA Hotel Keisei-Narita Station: more expensive, nicer rooms,
+  features *onsen* baths. It’s very close to the train stations and
+  the start of Naritasan Omotésandō.
+
+* Toyoko Inn Narita Airport: good value, breakfast included. It’s near
+  the airport and not the city so you have to take the hotel shuttle
+  to the airport and then take the train into town, or take a much
+  more expensive taxi.
 
 Video: `Must Visit Traditional Japanese Town next to Narita Airport`__
 
@@ -900,6 +936,39 @@ Shopping
   to look like they’re from the *Shōwa* era.
 
 
+Souvenirs
+=========
+
+Here are some ideas:
+
+* *Yukata* are unlined cotton summer robes, traditionally white & blue
+  but available in all sorts of colors & patterns. Much less expensive
+  and more practical than traditional *kimono*, they make great
+  bathrobes! *Yukata* literally translates to "bathing cloth".
+
+* *Furoshiki*: These large square cloths are used to bundle up any
+  number of things: a *bentō* meal, a couple bottles, fruit, your
+  clothes, books, etc. `There are many ways of tying furoshiki`__;
+  it’s like a combination of *origami* and knot tying.
+
+  __ https://www.env.go.jp/en/focus/attach/060403-5.html
+
+* *Origami*: Beautiful paper squares for folding into myriad shapes,
+  from the practical to the fantastical. *Washi* (traditional Japanese
+  paper) is tougher than ordinary paper and has a great texture.
+
+* Chopsticks (*hashi*) and chopstick rests (*hashi-oki*) can be
+  beautiful and tiny souvenirs. Many stores carry chopsticks and rests
+  as everyday necessities, but there are specialty shops that have
+  hundreds of designs, real works of art. There’s one such specialty
+  shop on the Omotésandō street in `Narita City`_.
+
+* Spend some time at a big *gatchapon* capsule store, where there’s a
+  huge variety of cute & interesting & useful & useless categories of
+  items available. They’re small and often delightful. You may find
+  something that perfectly encapsulates your experience of Japan!
+
+
 Resources
 =========
 
@@ -924,3 +993,5 @@ Revision History
 * 2025-03-12: Added “People may want to speak to you in English” item
 
 * 2025-04-05: First published on the web
+
+* 2025-05-07: Updated & added details; added Souvenirs_ section

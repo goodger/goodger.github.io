@@ -1,4 +1,4 @@
-.. -*- coding: utf-8 -*-
+﻿.. -*- coding: utf-8-with-signature -*-
 
 =======================================
  `David Goodger’s <../>`__ Japan Pages
