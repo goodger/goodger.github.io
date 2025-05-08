@@ -6,15 +6,14 @@
 
 :pronounced: like “Badger”, but **Good**!
 :email: goodger@python.org
-:phone: +1-514-453-2443
 
 
 Résumé
 ======
 
-I am open to programming, system administration, training, and related
-consulting projects or a long-term position.  **My résumé** is
-available in several formats:
+I am open to programming, training, and related consulting projects or
+a long-term position.
+**My résumé** is available in several formats:
 
 * `as a web page (HTML) <cv/resume_David_Goodger.html>`__
 * `as a PDF file <cv/resume_David_Goodger.pdf>`__
@@ -25,20 +24,9 @@ Consulting
 ==========
 
 I am happy to provide consulting services to businesses and
-individuals:
+individuals.
 
-* programming
-
-* system administration (on-site and remote)
-
-* networking
-
-* troubleshooting
-
-* setup (hardware & software).
-
-Please feel free to contact me by email (goodger@python.org) or by
-phone (+1-514-453-2443).
+Please feel free to contact me by email (goodger@python.org).
 
 
 Training
@@ -57,7 +45,7 @@ conducted training sessions covering many topics, including:
 * General computer topics
 
 Custom topics are welcome.  Please contact me by email
-(goodger@python.org) or by phone (+1-514-453-2443).
+(goodger@python.org).
 
 
 Articles

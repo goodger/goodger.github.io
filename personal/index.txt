@@ -24,7 +24,7 @@
 
    * `My Google profile page <http://www.google.com/profiles/dgoodger>`__
 
-   * `My alternate homepage <http://david.goodger.org>`__
+   * `My homepage <http://david.goodger.org>`__
 
 .. contents::
 

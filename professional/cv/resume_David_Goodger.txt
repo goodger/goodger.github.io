@@ -12,8 +12,9 @@
 :Email: goodger@python.org
 :Web Site: https://david.goodger.org (includes this résumé)
 :LinkedIn: https://linkedin.com/in/goodger/
-:Location: Ottawa & Montreal, Canada; open to positions in Canada, USA, & Japan
- 
+:Location: near Montréal, Canada
+
+.. open to positions in Canada, USA, & Japan
 
 .. rubric:: Software Engineer/Architect · Systems Engineer/Analyst · Project Manager · Trainer
 
@@ -54,6 +55,15 @@ Technical Skills
 Experience
 ==========
 
+**Morgan Stanley Services Canada Corp.**, Montréal, Québec, Canada
+    May 2021 – May 2022
+
+    **Python Subject Matter Expert** (Vice President)
+        * Dynamic Languages team, Enterprise Application Infrastructure.
+        * Software development, including Jupyter.
+        * Software deployment: Python applications & packages.
+        * Python support & training for worldwide organization.
+
 **Medtronic Inc.** (formerly Corventis), Mounds View, Minnesota, USA
     January 2013 – May 2020
 
@@ -64,7 +74,7 @@ Experience
         * Software systems requirements development.
         * Agile Scrum Product Owner
 
-    **Programmer/Analyst**
+    **Programmer/Analyst & Software Architect**
         Developed desktop GUI software for an electronic medical device
         system. Technologies: wxPython GUI toolkit, USB communication, web
         services, Dropbox integration.

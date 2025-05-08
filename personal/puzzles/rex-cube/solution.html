@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="Docutils 0.15b.dev: http://docutils.sourceforge.net/" />
+<meta name="generator" content="Docutils 0.19b.dev: https://docutils.sourceforge.io/" />
 <title>Rex Cube Solution</title>
 <meta name="author" content="David Goodger" />
 <link rel="stylesheet" href="../../../default.css" type="text/css" />
@@ -30,16 +30,16 @@
 </ul>
 </div>
 <div class="contents topic" id="contents">
-<p class="topic-title first">Contents</p>
+<p class="topic-title">Contents</p>
 <ul class="simple">
-<li><a class="reference internal" href="#solve-the-edges-of-one-face" id="id1">1: Solve the edges of one face</a></li>
-<li><a class="reference internal" href="#move-the-white-center-to-the-white-top-face" id="id2">2: Move the white center to the white/top face</a></li>
-<li><a class="reference internal" href="#check-parity" id="id3">3: Check parity</a></li>
-<li><a class="reference internal" href="#fix-parity" id="id4">4: Fix parity</a></li>
-<li><a class="reference internal" href="#solve-the-vertical-edges" id="id5">5: Solve the vertical edges</a></li>
-<li><a class="reference internal" href="#solve-the-edges-of-the-top-face" id="id6">6: Solve the edges of the top face</a></li>
-<li><a class="reference internal" href="#solve-centers" id="id7">7: Solve centers</a></li>
-<li><a class="reference internal" href="#solve-petals" id="id8">8: Solve petals</a></li>
+<li><a class="reference internal" href="#solve-the-edges-of-one-face" id="toc-entry-1">1: Solve the edges of one face</a></li>
+<li><a class="reference internal" href="#move-the-white-center-to-the-white-top-face" id="toc-entry-2">2: Move the white center to the white/top face</a></li>
+<li><a class="reference internal" href="#check-parity" id="toc-entry-3">3: Check parity</a></li>
+<li><a class="reference internal" href="#fix-parity" id="toc-entry-4">4: Fix parity</a></li>
+<li><a class="reference internal" href="#solve-the-vertical-edges" id="toc-entry-5">5: Solve the vertical edges</a></li>
+<li><a class="reference internal" href="#solve-the-edges-of-the-top-face" id="toc-entry-6">6: Solve the edges of the top face</a></li>
+<li><a class="reference internal" href="#solve-centers" id="toc-entry-7">7: Solve centers</a></li>
+<li><a class="reference internal" href="#solve-petals" id="toc-entry-8">8: Solve petals</a></li>
 </ul>
 </div>
 <p>Adapted by David Goodger from the <a class="reference external" href="https://www.youtube.com/watch?v=oeOq5NRjIOc">Twisty Puzzling tutorial on YouTube</a>.</p>
@@ -71,12 +71,12 @@ the closest part of the corner in the direction of the arrow.</p>
 <li>Right</li>
 </ul>
 <div class="section" id="solve-the-edges-of-one-face">
-<h1><a class="toc-backref" href="#id1">1: Solve the edges of one face</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-1">1: Solve the edges of one face</a></h1>
 <p>Let's choose white for the first face.</p>
 <p>Orient the cube so the white face is the top.</p>
 </div>
 <div class="section" id="move-the-white-center-to-the-white-top-face">
-<h1><a class="toc-backref" href="#id2">2: Move the white center to the white/top face</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-2">2: Move the white center to the white/top face</a></h1>
 <ul class="simple">
 <li>Move the white center to the bottom face, the side opposite the
 white edges.</li>
@@ -90,7 +90,7 @@ cube's top.</li>
 </ul>
 </div>
 <div class="section" id="check-parity">
-<h1><a class="toc-backref" href="#id3">3: Check parity</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-3">3: Check parity</a></h1>
 <ul class="simple">
 <li>Orient the cube so the white face is now the bottom.</li>
 <li>Examine each side. Each bottom edge is white and another color. Move
@@ -100,7 +100,7 @@ step 4. Otherwise, skip to step 5.</li>
 </ul>
 </div>
 <div class="section" id="fix-parity">
-<h1><a class="toc-backref" href="#id4">4: Fix parity</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-4">4: Fix parity</a></h1>
 <ul class="simple">
 <li>Orient the cube so the white face is now the top.</li>
 <li>Swap two opposite white edges:<ul>
@@ -120,7 +120,7 @@ we'll solve the centers later (and they'll get mixed up anyway).</li>
 </ul>
 </div>
 <div class="section" id="solve-the-vertical-edges">
-<h1><a class="toc-backref" href="#id5">5: Solve the vertical edges</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-5">5: Solve the vertical edges</a></h1>
 <ul class="simple">
 <li>Orient the cube so the white face is now the bottom.</li>
 <li>Check for vertical edges that are already solved.  If none, solve
@@ -129,7 +129,7 @@ the first edge without touching the bottom face.</li>
 </ul>
 </div>
 <div class="section" id="solve-the-edges-of-the-top-face">
-<h1><a class="toc-backref" href="#id6">6: Solve the edges of the top face</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-6">6: Solve the edges of the top face</a></h1>
 <ul class="simple">
 <li>If the top face edges are already solved, skip to step 7.</li>
 <li>Scenario: One top face edge is correctly positioned, one is
@@ -143,7 +143,7 @@ incorrectly positioned.  Three edges need to cycle:<ul>
 </ul>
 </div>
 <div class="section" id="solve-centers">
-<h1><a class="toc-backref" href="#id7">7: Solve centers</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-7">7: Solve centers</a></h1>
 <p>Keep the white face on the bottom.</p>
 <p>To move a center from the L face to the R face:</p>
 <ul class="simple">
@@ -176,7 +176,7 @@ cube so the destination is face R, then:</p>
 </ul>
 </div>
 <div class="section" id="solve-petals">
-<h1><a class="toc-backref" href="#id8">8: Solve petals</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-8">8: Solve petals</a></h1>
 <p>Starting with the white face, find a white petal to move.  Set up the
 cube so the white center adjoins the white petal, but opposite the
 destination petal.  Remember the setup moves.  With the white center &amp;
@@ -210,8 +210,8 @@ reverse the petal group first.</p>
 <div class="footer">
 <hr class="footer" />
 <a class="reference external" href="solution.txt">View document source</a>.
-Generated on: 2018-08-15 04:25 UTC.
-Generated by <a class="reference external" href="http://docutils.sourceforge.net/">Docutils</a> from <a class="reference external" href="http://docutils.sourceforge.net/rst.html">reStructuredText</a> source.
+Generated on: 2025-05-07 10:16 UTC.
+Generated by <a class="reference external" href="https://docutils.sourceforge.io/">Docutils</a> from <a class="reference external" href="https://docutils.sourceforge.io/rst.html">reStructuredText</a> source.
 
 </div>
 </body>

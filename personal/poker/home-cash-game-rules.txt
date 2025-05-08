@@ -6,7 +6,7 @@
 
    .. contents:: :local:
 
-**Updated 2020-03-01.**
+**Updated 2021-02-02.**
 
 We use “`Robert’s Rules of Poker, version 11`__” as the basis of our
 house rules, as applicable, and as modified by the clarifications and
@@ -94,6 +94,9 @@ Miscellaneous
 
 * Players must take care to **keep drinks from spilling on the
   table**.
+
+* **Do not lick your fingers** when dealing or just playing.
+  That’s just gross.
 
 * Players must take care to **keep the cards and chips clean** — no
   sticky, dirty, or greasy fingers (so no sticky, greasy, or messy
@@ -221,8 +224,8 @@ Stakes
   Any discrepancies must be addressed immediately.
 
 
-Blinds
-======
+Buttons & Blinds
+================
 
 * **We use the “dead button” rule** (continuity of blinds). The
   alternative, the “forward moving button” rule, is fairer but is too
@@ -236,8 +239,8 @@ Blinds
   a big blind.
 
 * Players with missed blinds who wish to rejoin the game must either
-  post one of each missed blind or wait for (and pay) the big blind or
-  straddle.
+  post one of each missed blind, or straddle, or wait for (and pay)
+  the big blind.
 
   When both blinds are posted, the small blind is dead (added to the
   pot) and is not part of a bet.
@@ -255,8 +258,13 @@ Blinds
   dead and they forfeit their blind, if any. Exception: be lenient
   with the host/banker when they’re otherwise busy.
 
+
+Straddles
+---------
+
 * **Live straddle bets are allowed**, before looking at cards (ideally
   before any cards are dealt), doubling for each position, up to and
+  
   including the player on the button: the first straddle is to the
   left of and double the big blind, the next straddle is double that
   (so 4 times the big blind, a “double straddle”), then 8 times
@@ -264,23 +272,45 @@ Blinds
   blinds, **the full amount of the last straddle is also the minimum
   raise in the pre-flop betting round.**
 
-  Button straddles, sleeper straddles, and Mississippi straddles
-  are **not** allowed,
+  Button straddles, `Mississippi straddles`__, `sleeper straddles`__,
+  etc. are **not** allowed,
   because they’re too obscure and confusing (requiring explanations
   that slow down the game), and they tend to piss off the other
   players. Live straddles are bad enough.
+
+  See `Explaining the “Straddle”`__.
+
+  __ https://www.pokernews.com/pokerterms/mississippi-straddle.htm
+  __ http://pokerterms.com/sleeper.html
+  __ https://www.pokernews.com/strategy/explaining-the-straddle-it-s-not-as-obscene-as-it-sounds-19317.htm
+
+  .. If we ever do allow other straddles, the button/Mississippi
+     straddle takes precedence over UTG straddles.
+
+     Button straddle = Mississippi straddle on the button. Action
+     starts to the left of the straddle.
+
+     Rule for button straddle: The straddle must be announced and the
+     straddle chips *must* be on the table before anyone is dealt all
+     their cards, ideally before any cards are dealt.
 
 
 Dealing
 =======
 
-* How to shuffle, cut, and deal properly: see `TruePokerDealer.com`__
-  (or their `YouTube channel`__) and/or `HowToShuffle.com
-  (archived)`__.
+* How to shuffle, cut, and deal properly: see the `TruePokerDealer.com
+  YouTube channel`__) and/or `HowToShuffle.com (archived)`__.
 
-  __ http://truepokerdealer.com/
   __ https://www.youtube.com/user/truepokerdealer/videos
   __ https://web.archive.org/web/20180529130500/http://www.howtoshuffle.com/
+
+* Shuffle properly! With the cards on the table (do NOT lift them off
+  the table!): riffle at least twice, box/strip once, riffle once,
+  then cut onto the cut card. If you are not able to shuffle properly,
+  ask for help. `Here’s a great video that teaches how to shuffle
+  properly.`__
+
+  __ https://www.youtube.com/watch?v=UeEMaZqMRp0
 
 * .. _shuffle behind:
 
@@ -290,15 +320,33 @@ Dealing
   - Use two decks of cards (with different color backs) on alternating
     hands. The decks leapfrog each other around the table.
 
-  - When a hand is over, the dealer of that hand shuffles the cards
-    they just finished dealing, preparing the deck for the next hand.
+  - When a hand is over, the dealer of that hand (was on the button,
+    currently in the cutoff position) shuffles the cards they just
+    finished dealing, preparing the deck for the next hand.
 
   - The dealer of a new hand receives a deck of already-shuffled cards
-    from the player two positions to his/her right.
+    from the player two positions to his/her right (in the hijack
+    position).
 
-  - The dealer cuts the deck, because the player now in the cutoff
-    position is busy shuffling. (Variation: ask the player in the
-    small blind to cut.)
+  - Three variations for cutting the cards:
+
+    1. The new dealer cuts the deck and deals. The advantage here is
+       that the player now in the cutoff position is busy pulling in
+       the last hand’s cards and shuffling. The disadvantage is that
+       the dealer cuts the cards they’re about to deal.
+
+    2. The dealer asks the player in the small blind to cut.
+       Advantage: the dealer neither shuffled nor cut the cards; a
+       different person does each step. Disadvantage: the small blind
+       doesn’t normally cut.
+
+    3. The new cutoff receives the shuffled deck from the new hijack
+       (former cutoff), cuts the deck, and passes it on to the new
+       dealer on the button. The advantage here is that the dealer
+       neither shuffled nor cut the cards; a different person does
+       each step. (`Explanation here.`__)
+
+       __ https://youtu.be/tBlXEr5TUjQ?t=1090
 
   See alternate explanations & variations at `chiptalk.net`__ and
   `pokersmasher.com`__.

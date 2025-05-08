@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="generator" content="Docutils 0.15b.dev: http://docutils.sourceforge.net/" />
+<meta name="generator" content="Docutils 0.19b.dev: https://docutils.sourceforge.io/" />
 <title>Code Like a Pythonista: Idiomatic Python</title>
 <link rel="stylesheet" href="../../../../default.css" type="text/css" />
 </head>
@@ -15,61 +15,61 @@
 <p class="first sidebar-title">Contents</p>
 <div class="contents local last topic" id="contents">
 <ul class="simple">
-<li><a class="reference internal" href="#the-zen-of-python-1" id="id3">The Zen of Python (1)</a></li>
-<li><a class="reference internal" href="#the-zen-of-python-2" id="id4">The Zen of Python (2)</a></li>
-<li><a class="reference internal" href="#coding-style-readability-counts" id="id5">Coding Style: Readability Counts</a></li>
-<li><a class="reference internal" href="#pep-8-style-guide-for-python-code" id="id6">PEP 8: Style Guide for Python Code</a></li>
-<li><a class="reference internal" href="#whitespace-1" id="id7">Whitespace 1</a></li>
-<li><a class="reference internal" href="#whitespace-2" id="id8">Whitespace 2</a></li>
-<li><a class="reference internal" href="#naming" id="id9">Naming</a></li>
-<li><a class="reference internal" href="#long-lines-continuations" id="id10">Long Lines &amp; Continuations</a></li>
-<li><a class="reference internal" href="#long-strings" id="id11">Long Strings</a></li>
-<li><a class="reference internal" href="#compound-statements" id="id12">Compound Statements</a></li>
-<li><a class="reference internal" href="#docstrings-comments" id="id13">Docstrings &amp; Comments</a></li>
-<li><a class="reference internal" href="#practicality-beats-purity" id="id14">Practicality Beats Purity</a></li>
-<li><a class="reference internal" href="#idiom-potpourri" id="id15">Idiom Potpourri</a></li>
-<li><a class="reference internal" href="#swap-values" id="id16">Swap Values</a></li>
-<li><a class="reference internal" href="#more-about-tuples" id="id17">More About Tuples</a></li>
-<li><a class="reference internal" href="#interactive" id="id18">Interactive &quot;_&quot;</a></li>
-<li><a class="reference internal" href="#building-strings-from-substrings" id="id19">Building Strings from Substrings</a></li>
-<li><a class="reference internal" href="#building-strings-variations-1" id="id20">Building Strings, Variations 1</a></li>
-<li><a class="reference internal" href="#building-strings-variations-2" id="id21">Building Strings, Variations 2</a></li>
-<li><a class="reference internal" href="#use-in-where-possible-1" id="id22">Use <tt class="docutils literal">in</tt> where possible (1)</a></li>
-<li><a class="reference internal" href="#use-in-where-possible-2" id="id23">Use <tt class="docutils literal">in</tt> where possible (2)</a></li>
-<li><a class="reference internal" href="#dictionary-get-method" id="id24">Dictionary <tt class="docutils literal">get</tt>  Method</a></li>
-<li><a class="reference internal" href="#dictionary-setdefault-method-1" id="id25">Dictionary <tt class="docutils literal">setdefault</tt> Method (1)</a></li>
-<li><a class="reference internal" href="#dictionary-setdefault-method-2" id="id26">Dictionary <tt class="docutils literal">setdefault</tt> Method (2)</a></li>
-<li><a class="reference internal" href="#defaultdict" id="id27"><tt class="docutils literal">defaultdict</tt></a></li>
-<li><a class="reference internal" href="#building-splitting-dictionaries" id="id28">Building &amp; Splitting Dictionaries</a></li>
-<li><a class="reference internal" href="#testing-for-truth-values" id="id29">Testing for Truth Values</a></li>
-<li><a class="reference internal" href="#truth-values" id="id30">Truth Values</a></li>
-<li><a class="reference internal" href="#index-item-1" id="id31">Index &amp; Item (1)</a></li>
-<li><a class="reference internal" href="#index-item-2-enumerate" id="id32">Index &amp; Item (2): <tt class="docutils literal">enumerate</tt></a></li>
-<li><a class="reference internal" href="#other-languages-have-variables" id="id33">Other languages have &quot;variables&quot;</a></li>
-<li><a class="reference internal" href="#python-has-names" id="id34">Python has &quot;names&quot;</a></li>
-<li><a class="reference internal" href="#default-parameter-values" id="id35">Default Parameter Values</a></li>
-<li><a class="reference internal" href="#string-formatting" id="id36">% String Formatting</a></li>
-<li><a class="reference internal" href="#advanced-string-formatting" id="id37">Advanced % String Formatting</a></li>
-<li><a class="reference internal" href="#id2" id="id38">Advanced % String Formatting</a></li>
-<li><a class="reference internal" href="#list-comprehensions" id="id39">List Comprehensions</a></li>
-<li><a class="reference internal" href="#generator-expressions-1" id="id40">Generator Expressions (1)</a></li>
-<li><a class="reference internal" href="#generator-expressions-2" id="id41">Generator Expressions (2)</a></li>
-<li><a class="reference internal" href="#sorting" id="id42">Sorting</a></li>
-<li><a class="reference internal" href="#sorting-with-dsu" id="id43">Sorting with DSU *</a></li>
-<li><a class="reference internal" href="#sorting-with-keys" id="id44">Sorting With Keys</a></li>
-<li><a class="reference internal" href="#generators" id="id45">Generators</a></li>
-<li><a class="reference internal" href="#example-generator" id="id46">Example Generator</a></li>
-<li><a class="reference internal" href="#reading-lines-from-text-data-files" id="id47">Reading Lines From Text/Data Files</a></li>
-<li><a class="reference internal" href="#eafp-vs-lbyl" id="id48">EAFP vs. LBYL</a></li>
-<li><a class="reference internal" href="#eafp-try-except-example" id="id49">EAFP <tt class="docutils literal">try/except</tt> Example</a></li>
-<li><a class="reference internal" href="#importing" id="id50">Importing</a></li>
-<li><a class="reference internal" href="#modules-scripts" id="id51">Modules &amp; Scripts</a></li>
-<li><a class="reference internal" href="#module-structure" id="id52">Module Structure</a></li>
-<li><a class="reference internal" href="#command-line-processing" id="id53">Command-Line Processing</a></li>
-<li><a class="reference internal" href="#packages" id="id54">Packages</a></li>
-<li><a class="reference internal" href="#simple-is-better-than-complex" id="id55">Simple is Better Than Complex</a></li>
-<li><a class="reference internal" href="#don-t-reinvent-the-wheel" id="id56">Don't reinvent the wheel</a></li>
-<li><a class="reference internal" href="#references" id="id57">References</a></li>
+<li><a class="reference internal" href="#the-zen-of-python-1" id="toc-entry-1">The Zen of Python (1)</a></li>
+<li><a class="reference internal" href="#the-zen-of-python-2" id="toc-entry-2">The Zen of Python (2)</a></li>
+<li><a class="reference internal" href="#coding-style-readability-counts" id="toc-entry-3">Coding Style: Readability Counts</a></li>
+<li><a class="reference internal" href="#pep-8-style-guide-for-python-code" id="toc-entry-4">PEP 8: Style Guide for Python Code</a></li>
+<li><a class="reference internal" href="#whitespace-1" id="toc-entry-5">Whitespace 1</a></li>
+<li><a class="reference internal" href="#whitespace-2" id="toc-entry-6">Whitespace 2</a></li>
+<li><a class="reference internal" href="#naming" id="toc-entry-7">Naming</a></li>
+<li><a class="reference internal" href="#long-lines-continuations" id="toc-entry-8">Long Lines &amp; Continuations</a></li>
+<li><a class="reference internal" href="#long-strings" id="toc-entry-9">Long Strings</a></li>
+<li><a class="reference internal" href="#compound-statements" id="toc-entry-10">Compound Statements</a></li>
+<li><a class="reference internal" href="#docstrings-comments" id="toc-entry-11">Docstrings &amp; Comments</a></li>
+<li><a class="reference internal" href="#practicality-beats-purity" id="toc-entry-12">Practicality Beats Purity</a></li>
+<li><a class="reference internal" href="#idiom-potpourri" id="toc-entry-13">Idiom Potpourri</a></li>
+<li><a class="reference internal" href="#swap-values" id="toc-entry-14">Swap Values</a></li>
+<li><a class="reference internal" href="#more-about-tuples" id="toc-entry-15">More About Tuples</a></li>
+<li><a class="reference internal" href="#interactive" id="toc-entry-16">Interactive &quot;_&quot;</a></li>
+<li><a class="reference internal" href="#building-strings-from-substrings" id="toc-entry-17">Building Strings from Substrings</a></li>
+<li><a class="reference internal" href="#building-strings-variations-1" id="toc-entry-18">Building Strings, Variations 1</a></li>
+<li><a class="reference internal" href="#building-strings-variations-2" id="toc-entry-19">Building Strings, Variations 2</a></li>
+<li><a class="reference internal" href="#use-in-where-possible-1" id="toc-entry-20">Use <tt class="docutils literal">in</tt> where possible (1)</a></li>
+<li><a class="reference internal" href="#use-in-where-possible-2" id="toc-entry-21">Use <tt class="docutils literal">in</tt> where possible (2)</a></li>
+<li><a class="reference internal" href="#dictionary-get-method" id="toc-entry-22">Dictionary <tt class="docutils literal">get</tt>  Method</a></li>
+<li><a class="reference internal" href="#dictionary-setdefault-method-1" id="toc-entry-23">Dictionary <tt class="docutils literal">setdefault</tt> Method (1)</a></li>
+<li><a class="reference internal" href="#dictionary-setdefault-method-2" id="toc-entry-24">Dictionary <tt class="docutils literal">setdefault</tt> Method (2)</a></li>
+<li><a class="reference internal" href="#defaultdict" id="toc-entry-25"><tt class="docutils literal">defaultdict</tt></a></li>
+<li><a class="reference internal" href="#building-splitting-dictionaries" id="toc-entry-26">Building &amp; Splitting Dictionaries</a></li>
+<li><a class="reference internal" href="#testing-for-truth-values" id="toc-entry-27">Testing for Truth Values</a></li>
+<li><a class="reference internal" href="#truth-values" id="toc-entry-28">Truth Values</a></li>
+<li><a class="reference internal" href="#index-item-1" id="toc-entry-29">Index &amp; Item (1)</a></li>
+<li><a class="reference internal" href="#index-item-2-enumerate" id="toc-entry-30">Index &amp; Item (2): <tt class="docutils literal">enumerate</tt></a></li>
+<li><a class="reference internal" href="#other-languages-have-variables" id="toc-entry-31">Other languages have &quot;variables&quot;</a></li>
+<li><a class="reference internal" href="#python-has-names" id="toc-entry-32">Python has &quot;names&quot;</a></li>
+<li><a class="reference internal" href="#default-parameter-values" id="toc-entry-33">Default Parameter Values</a></li>
+<li><a class="reference internal" href="#string-formatting" id="toc-entry-34">% String Formatting</a></li>
+<li><a class="reference internal" href="#advanced-string-formatting" id="toc-entry-35">Advanced % String Formatting</a></li>
+<li><a class="reference internal" href="#advanced-string-formatting-1" id="toc-entry-36">Advanced % String Formatting</a></li>
+<li><a class="reference internal" href="#list-comprehensions" id="toc-entry-37">List Comprehensions</a></li>
+<li><a class="reference internal" href="#generator-expressions-1" id="toc-entry-38">Generator Expressions (1)</a></li>
+<li><a class="reference internal" href="#generator-expressions-2" id="toc-entry-39">Generator Expressions (2)</a></li>
+<li><a class="reference internal" href="#sorting" id="toc-entry-40">Sorting</a></li>
+<li><a class="reference internal" href="#sorting-with-dsu" id="toc-entry-41">Sorting with DSU *</a></li>
+<li><a class="reference internal" href="#sorting-with-keys" id="toc-entry-42">Sorting With Keys</a></li>
+<li><a class="reference internal" href="#generators" id="toc-entry-43">Generators</a></li>
+<li><a class="reference internal" href="#example-generator" id="toc-entry-44">Example Generator</a></li>
+<li><a class="reference internal" href="#reading-lines-from-text-data-files" id="toc-entry-45">Reading Lines From Text/Data Files</a></li>
+<li><a class="reference internal" href="#eafp-vs-lbyl" id="toc-entry-46">EAFP vs. LBYL</a></li>
+<li><a class="reference internal" href="#eafp-try-except-example" id="toc-entry-47">EAFP <tt class="docutils literal">try/except</tt> Example</a></li>
+<li><a class="reference internal" href="#importing" id="toc-entry-48">Importing</a></li>
+<li><a class="reference internal" href="#modules-scripts" id="toc-entry-49">Modules &amp; Scripts</a></li>
+<li><a class="reference internal" href="#module-structure" id="toc-entry-50">Module Structure</a></li>
+<li><a class="reference internal" href="#command-line-processing" id="toc-entry-51">Command-Line Processing</a></li>
+<li><a class="reference internal" href="#packages" id="toc-entry-52">Packages</a></li>
+<li><a class="reference internal" href="#simple-is-better-than-complex" id="toc-entry-53">Simple is Better Than Complex</a></li>
+<li><a class="reference internal" href="#don-t-reinvent-the-wheel" id="toc-entry-54">Don't reinvent the wheel</a></li>
+<li><a class="reference internal" href="#references" id="toc-entry-55">References</a></li>
 </ul>
 </div>
 </div>
@@ -111,7 +111,7 @@ seen before and maybe something new about the ones you have already
 seen.</p>
 </div>
 <div class="section" id="the-zen-of-python-1">
-<h1><a class="toc-backref" href="#id3">The Zen of Python (1)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-1">The Zen of Python (1)</a></h1>
 <div class="handout docutils container">
 <p>These are the guiding principles of Python, but are open to
 interpretation.  A sense of humor is required for their proper
@@ -140,7 +140,7 @@ troupe, you had better have a sense of humor.</p>
 </blockquote>
 </div>
 <div class="section" id="the-zen-of-python-2">
-<h1><a class="toc-backref" href="#id4">The Zen of Python (2)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-2">The Zen of Python (2)</a></h1>
 <blockquote class="small">
 <div class="line-block">
 <div class="line">In the face of ambiguity, refuse the temptation to guess.</div>
@@ -186,7 +186,7 @@ SyntaxError: not a chance
 </div>
 </div>
 <div class="section" id="coding-style-readability-counts">
-<h1><a class="toc-backref" href="#id5">Coding Style: Readability Counts</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-3">Coding Style: Readability Counts</a></h1>
 <blockquote>
 <p>Programs must be written for people to read, and only incidentally
 for machines to execute.</p>
@@ -196,7 +196,7 @@ for machines to execute.</p>
 Try to make your programs easy to read and obvious.</div>
 </div>
 <div class="section" id="pep-8-style-guide-for-python-code">
-<h1><a class="toc-backref" href="#id6">PEP 8: Style Guide for Python Code</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-4">PEP 8: Style Guide for Python Code</a></h1>
 <p>Worthwhile reading:</p>
 <blockquote>
 <a class="reference external" href="http://www.python.org/dev/peps/pep-0008/">http://www.python.org/dev/peps/pep-0008/</a></blockquote>
@@ -217,7 +217,7 @@ closely.</p>
 </div>
 </div>
 <div class="section" id="whitespace-1">
-<h1><a class="toc-backref" href="#id7">Whitespace 1</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-5">Whitespace 1</a></h1>
 <ul class="incremental">
 <li><p class="first">4 spaces per indentation level.</p>
 </li>
@@ -236,7 +236,7 @@ Other editors may also provide this support.</p>
 </ul>
 </div>
 <div class="section" id="whitespace-2">
-<h1><a class="toc-backref" href="#id8">Whitespace 2</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-6">Whitespace 2</a></h1>
 <ul class="incremental simple">
 <li>Add a space after &quot;,&quot; in dicts, lists, tuples, &amp; argument lists, and
 after &quot;:&quot; in dicts, but not before.</li>
@@ -255,7 +255,7 @@ def make_squares(key, value=0):
 </pre>
 </div>
 <div class="section" id="naming">
-<h1><a class="toc-backref" href="#id9">Naming</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-7">Naming</a></h1>
 <ul class="incremental">
 <li><p class="first"><tt class="docutils literal">joined_lower</tt> for functions, methods, attributes</p>
 </li>
@@ -310,7 +310,7 @@ understand it&quot;.  It's only a convention though.</p>
 </ul>
 </div>
 <div class="section" id="long-lines-continuations">
-<h1><a class="toc-backref" href="#id10">Long Lines &amp; Continuations</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-8">Long Lines &amp; Continuations</a></h1>
 <p class="incremental">Keep lines below 80 characters in length.</p>
 <p class="incremental">Use implied line continuation inside parentheses/brackets/braces:</p>
 <pre class="incremental literal-block">
@@ -330,7 +330,7 @@ add a space after the backslash, it won't work any more.  Also,
 they're ugly.</div>
 </div>
 <div class="section" id="long-strings">
-<h1><a class="toc-backref" href="#id11">Long Strings</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-9">Long Strings</a></h1>
 <div class="handout docutils container">
 Adjacent literal strings are concatenated by the parser:</div>
 <pre class="incremental doctest-block">
@@ -388,7 +388,7 @@ newlines, while keeping the text and quotes nicely left-justified.
 The backslashes must be at the end of their lines.</div>
 </div>
 <div class="section" id="compound-statements">
-<h1><a class="toc-backref" href="#id12">Compound Statements</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-10">Compound Statements</a></h1>
 <p>Good:</p>
 <pre class="literal-block">
 if foo == 'blah':
@@ -412,7 +412,7 @@ indentation in &quot;Bad&quot; hides the &quot;if&quot; statement.</p>
 </div>
 </div>
 <div class="section" id="docstrings-comments">
-<h1><a class="toc-backref" href="#id13">Docstrings &amp; Comments</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-11">Docstrings &amp; Comments</a></h1>
 <p>Docstrings = <strong>How to use</strong> code</p>
 <p>Comments = <strong>Why</strong> (rationale) &amp; <strong>how code works</strong></p>
 <div class="handout docutils container">
@@ -450,7 +450,7 @@ Conventions&quot;:</p>
 </div>
 </div>
 <div class="section" id="practicality-beats-purity">
-<h1><a class="toc-backref" href="#id14">Practicality Beats Purity</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-12">Practicality Beats Purity</a></h1>
 <blockquote>
 <p>A foolish consistency is the hobgoblin of little minds.</p>
 <p class="attribution">&mdash;Ralph Waldo Emerson</p>
@@ -478,7 +478,7 @@ style).</li>
 <p><span class="incremental">... but practicality shouldn't beat purity to a pulp!</span></p>
 </div>
 <div class="section" id="idiom-potpourri">
-<h1><a class="toc-backref" href="#id15">Idiom Potpourri</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-13">Idiom Potpourri</a></h1>
 <p>A selection of small, useful idioms.</p>
 <div class="handout docutils container">
 <p>Now we move on to the meat of the tutorial: lots of idioms.</p>
@@ -486,7 +486,7 @@ style).</li>
 </div>
 </div>
 <div class="section" id="swap-values">
-<h1><a class="toc-backref" href="#id16">Swap Values</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-14">Swap Values</a></h1>
 <p>In other languages:</p>
 <pre class="literal-block">
 temp = a
@@ -547,7 +547,7 @@ left &amp; right!):</p>
 </div>
 </div>
 <div class="section" id="more-about-tuples">
-<h1><a class="toc-backref" href="#id17">More About Tuples</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-15">More About Tuples</a></h1>
 <div class="handout docutils container">
 We saw that the <strong>comma</strong> is the tuple constructor, not the
 parentheses.  Example:</div>
@@ -592,7 +592,7 @@ tuple.  It can be easy to miss in your code:</div>
 So if you see a tuple where you don't expect one, look for a comma!</div>
 </div>
 <div class="section" id="interactive">
-<h1><a class="toc-backref" href="#id18">Interactive &quot;_&quot;</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-16">Interactive &quot;_&quot;</a></h1>
 <div class="handout docutils container">
 <p>This is a really useful feature that surprisingly few people know.</p>
 <p>In the interactive interpreter, whenever you evaluate an expression
@@ -626,7 +626,7 @@ interactively, and you want to store the result for a later step:</p>
 </pre>
 </div>
 <div class="section" id="building-strings-from-substrings">
-<h1><a class="toc-backref" href="#id19">Building Strings from Substrings</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-17">Building Strings from Substrings</a></h1>
 <div class="handout docutils container">
 Start with a list of strings:</div>
 <pre class="literal-block">
@@ -660,7 +660,7 @@ strings efficiently, because with thousands or with loops, it
 </div>
 </div>
 <div class="section" id="building-strings-variations-1">
-<h1><a class="toc-backref" href="#id20">Building Strings, Variations 1</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-18">Building Strings, Variations 1</a></h1>
 <div class="handout docutils container">
 Here are some techniques to use the <tt class="docutils literal">join()</tt> string method.</div>
 <p class="incremental">If you want spaces between your substrings:</p>
@@ -692,7 +692,7 @@ Choose red, blue, green or yellow
 </pre>
 </div>
 <div class="section" id="building-strings-variations-2">
-<h1><a class="toc-backref" href="#id21">Building Strings, Variations 2</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-19">Building Strings, Variations 2</a></h1>
 <p>If you need to apply a function to generate the substrings:</p>
 <pre class="literal-block">
 result = ''.join(fn(i) for i in items)
@@ -714,7 +714,7 @@ We accumulate the parts in a list so that we can apply the <tt class="docutils l
 string method, for efficiency.</div>
 </div>
 <div class="section" id="use-in-where-possible-1">
-<h1><a class="toc-backref" href="#id22">Use <tt class="docutils literal">in</tt> where possible (1)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-20">Use <tt class="docutils literal">in</tt> where possible (1)</a></h1>
 <p>Good:</p>
 <pre class="literal-block">
 for key in d:
@@ -737,7 +737,7 @@ for key in d.keys():
 This is limited to objects with a <tt class="docutils literal">keys()</tt> method.</div>
 </div>
 <div class="section" id="use-in-where-possible-2">
-<h1><a class="toc-backref" href="#id23">Use <tt class="docutils literal">in</tt> where possible (2)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-21">Use <tt class="docutils literal">in</tt> where possible (2)</a></h1>
 <p>But <tt class="docutils literal">.keys()</tt> is <strong>necessary</strong> when mutating the dictionary:</p>
 <pre class="literal-block">
 for key in d.keys():
@@ -761,7 +761,7 @@ if d.has_key(key):
 This usage of <tt class="docutils literal">in</tt> is as an operator.</div>
 </div>
 <div class="section" id="dictionary-get-method">
-<h1><a class="toc-backref" href="#id24">Dictionary <tt class="docutils literal">get</tt>  Method</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-22">Dictionary <tt class="docutils literal">get</tt>  Method</a></h1>
 <p>We often have to initialize dictionary entries before use:</p>
 <div class="handout docutils container">
 This is the naïve way to do it:</div>
@@ -783,7 +783,7 @@ for (portfolio, equity, position) in data:
 Much more direct.</div>
 </div>
 <div class="section" id="dictionary-setdefault-method-1">
-<h1><a class="toc-backref" href="#id25">Dictionary <tt class="docutils literal">setdefault</tt> Method (1)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-23">Dictionary <tt class="docutils literal">setdefault</tt> Method (1)</a></h1>
 <div class="handout docutils container">
 Here we have to initialize mutable dictionary values.  Each
 dictionary value will be a list.  This is the naïve way:</div>
@@ -816,7 +816,7 @@ use the <tt class="docutils literal">defaultdict</tt> class, which we'll cover s
 </div>
 </div>
 <div class="section" id="dictionary-setdefault-method-2">
-<h1><a class="toc-backref" href="#id26">Dictionary <tt class="docutils literal">setdefault</tt> Method (2)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-24">Dictionary <tt class="docutils literal">setdefault</tt> Method (2)</a></h1>
 <div class="handout docutils container">
 Here we see that the <tt class="docutils literal">setdefault</tt> dictionary method can also be
 used as a stand-alone statement:</div>
@@ -834,7 +834,7 @@ effect, that it sets the dictionary value only if there is no value
 already.</div>
 </div>
 <div class="section" id="defaultdict">
-<h1><a class="toc-backref" href="#id27"><tt class="docutils literal">defaultdict</tt></a></h1>
+<h1><a class="toc-backref" href="#toc-entry-25"><tt class="docutils literal">defaultdict</tt></a></h1>
 <p>New in Python 2.5.</p>
 <div class="handout docutils container">
 <p><tt class="docutils literal">defaultdict</tt> is new in Python 2.5, part of the <tt class="docutils literal">collections</tt>
@@ -897,7 +897,7 @@ instances.  You have to use a &quot;key in dict&quot; conditional if you need
 to check for the existence of a specific key.</div>
 </div>
 <div class="section" id="building-splitting-dictionaries">
-<h1><a class="toc-backref" href="#id28">Building &amp; Splitting Dictionaries</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-26">Building &amp; Splitting Dictionaries</a></h1>
 <div class="handout docutils container">
 Here's a useful technique to build a dictionary from two lists (or
 sequences): one list of keys, another list of values.</div>
@@ -933,7 +933,7 @@ will correspond to the order of values), as long as the dictionary
 isn't changed between calls.</div>
 </div>
 <div class="section" id="testing-for-truth-values">
-<h1><a class="toc-backref" href="#id29">Testing for Truth Values</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-27">Testing for Truth Values</a></h1>
 <pre class="literal-block">
 # do this:        # not this:
 if x:             if x == True:
@@ -954,7 +954,7 @@ if items:         if len(items) != 0:
 </pre>
 </div>
 <div class="section" id="truth-values">
-<h1><a class="toc-backref" href="#id30">Truth Values</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-28">Truth Values</a></h1>
 <div class="handout docutils container">
 The <tt class="docutils literal">True</tt> and <tt class="docutils literal">False</tt> names are built-in instances of type
 <tt class="docutils literal">bool</tt>, Boolean values.  Like <tt class="docutils literal">None</tt>, there is only one
@@ -1037,7 +1037,7 @@ __bool__ = __nonzero__
 </div>
 </div>
 <div class="section" id="index-item-1">
-<h1><a class="toc-backref" href="#id31">Index &amp; Item (1)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-29">Index &amp; Item (1)</a></h1>
 <div class="handout docutils container">
 Here's a cute way to save some typing if you need a list of words:</div>
 <pre class="doctest-block">
@@ -1056,7 +1056,7 @@ for item in items:      for i in range(len(items)):
 </pre>
 </div>
 <div class="section" id="index-item-2-enumerate">
-<h1><a class="toc-backref" href="#id32">Index &amp; Item (2): <tt class="docutils literal">enumerate</tt></a></h1>
+<h1><a class="toc-backref" href="#toc-entry-30">Index &amp; Item (2): <tt class="docutils literal">enumerate</tt></a></h1>
 <p>The <tt class="docutils literal">enumerate</tt> function takes a list and returns (index, item)
 pairs:</p>
 <pre class="doctest-block">
@@ -1110,7 +1110,7 @@ StopIteration
 </div>
 </div>
 <div class="section" id="other-languages-have-variables">
-<h1><a class="toc-backref" href="#id33">Other languages have &quot;variables&quot;</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-31">Other languages have &quot;variables&quot;</a></h1>
 <div class="handout docutils container">
 In many other languages, assigning to a variable puts a value into
 a box.</div>
@@ -1177,7 +1177,7 @@ int b = a;
 separate copy.</div>
 </div>
 <div class="section" id="python-has-names">
-<h1><a class="toc-backref" href="#id34">Python has &quot;names&quot;</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-32">Python has &quot;names&quot;</a></h1>
 <div class="handout docutils container">
 In Python, a &quot;name&quot; or &quot;identifier&quot; is like a parcel tag (or
 nametag) attached to an object.</div>
@@ -1255,7 +1255,7 @@ dividends, helping you to avoid cases like this:</p>
 </div>
 </div>
 <div class="section" id="default-parameter-values">
-<h1><a class="toc-backref" href="#id35">Default Parameter Values</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-33">Default Parameter Values</a></h1>
 <div class="handout docutils container">
 This is a common mistake that beginners often make.  Even more
 advanced programmers make this mistake if they don't understand
@@ -1291,7 +1291,7 @@ def good_append(new_item, a_list=None):
 </pre>
 </div>
 <div class="section" id="string-formatting">
-<h1><a class="toc-backref" href="#id36">% String Formatting</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-34">% String Formatting</a></h1>
 <div class="handout docutils container">
 Python's <tt class="docutils literal">%</tt> operator works like C's <tt class="docutils literal">sprintf</tt> function.</div>
 <div class="handout docutils container">
@@ -1326,7 +1326,7 @@ machine.  There's nothing like having the definitive resource at
 your fingertips.</div>
 </div>
 <div class="section" id="advanced-string-formatting">
-<h1><a class="toc-backref" href="#id37">Advanced % String Formatting</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-35">Advanced % String Formatting</a></h1>
 <div class="handout docutils container">
 What many people don't realize is that there are other, more
 flexible ways to do string formatting:</div>
@@ -1370,8 +1370,8 @@ namespace to the caller.  This is just something to keep in mind.</p>
 try playing with it.  It makes debugging your data structures much
 easier!</div>
 </div>
-<div class="section" id="id2">
-<h1><a class="toc-backref" href="#id38">Advanced % String Formatting</a></h1>
+<div class="section" id="advanced-string-formatting-1">
+<h1><a class="toc-backref" href="#toc-entry-36">Advanced % String Formatting</a></h1>
 <div class="handout docutils container">
 The namespace of an object's instance attributes is just a
 dictionary, <tt class="docutils literal">self.__dict__</tt>.</div>
@@ -1390,7 +1390,7 @@ Note: Class attributes are in the class __dict__.  Namespace
 lookups are actually chained dictionary lookups.</div>
 </div>
 <div class="section" id="list-comprehensions">
-<h1><a class="toc-backref" href="#id39">List Comprehensions</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-37">List Comprehensions</a></h1>
 <div class="handout docutils container">
 List comprehensions (&quot;listcomps&quot; for short) are syntax shortcuts
 for this general pattern:</div>
@@ -1426,7 +1426,7 @@ Zen of Python, choose the more readable way.</div>
 </div>
 </div>
 <div class="section" id="generator-expressions-1">
-<h1><a class="toc-backref" href="#id40">Generator Expressions (1)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-38">Generator Expressions (1)</a></h1>
 <div class="handout docutils container">
 Let's sum the squares of the numbers up to 100:</div>
 <p class="incremental">As a loop:</p>
@@ -1460,7 +1460,7 @@ reason: it lazily produces values, one at a time.</p>
 </div>
 </div>
 <div class="section" id="generator-expressions-2">
-<h1><a class="toc-backref" href="#id41">Generator Expressions (2)</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-39">Generator Expressions (2)</a></h1>
 <div class="handout docutils container">
 For example, if we were summing the squares of several billion
 integers, we'd run out of memory with list comprehensions, but
@@ -1521,7 +1521,7 @@ month_codes = dict((fn(i+1), code)
 </pre>
 </div>
 <div class="section" id="sorting">
-<h1><a class="toc-backref" href="#id42">Sorting</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-40">Sorting</a></h1>
 <div class="handout docutils container">
 It's easy to sort a list in Python:</div>
 <pre class="literal-block">
@@ -1548,7 +1548,7 @@ a_list.sort(custom_cmp)
 This works, but it's extremely slow for large lists.</div>
 </div>
 <div class="section" id="sorting-with-dsu">
-<h1><a class="toc-backref" href="#id43">Sorting with DSU *</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-41">Sorting with DSU *</a></h1>
 <p>DSU = Decorate-Sort-Undecorate</p>
 <p>* Note: DSU is often no longer necessary.  See the next section,
 <a class="reference internal" href="#sorting-with-keys">Sorting With Keys</a> for the new approach.</p>
@@ -1581,7 +1581,7 @@ This is a tradeoff of space and complexity against time.  Much
 simpler and faster, but we do need to duplicate the original list.</div>
 </div>
 <div class="section" id="sorting-with-keys">
-<h1><a class="toc-backref" href="#id44">Sorting With Keys</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-42">Sorting With Keys</a></h1>
 <div class="handout docutils container">
 Python 2.4 introduced an optional argument to the <tt class="docutils literal">sort</tt> list
 method, &quot;key&quot;, which specifies a function of one argument that is
@@ -1605,7 +1605,7 @@ like &quot;2&quot;, &quot;123&quot;, &quot;35&quot;.</li>
 </ul>
 </div>
 <div class="section" id="generators">
-<h1><a class="toc-backref" href="#id45">Generators</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-43">Generators</a></h1>
 <div class="handout docutils container">
 We've already seen generator expressions.  We can devise our own
 arbitrarily complex generators, as functions:</div>
@@ -1660,7 +1660,7 @@ else:
 </div>
 </div>
 <div class="section" id="example-generator">
-<h1><a class="toc-backref" href="#id46">Example Generator</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-44">Example Generator</a></h1>
 <p>Filter out blank rows from a CSV reader (or items from a list):</p>
 <pre class="literal-block">
 def filter_rows(row_iterator):
@@ -1673,7 +1673,7 @@ irows = filter_rows(csv.reader(data_file))
 </pre>
 </div>
 <div class="section" id="reading-lines-from-text-data-files">
-<h1><a class="toc-backref" href="#id47">Reading Lines From Text/Data Files</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-45">Reading Lines From Text/Data Files</a></h1>
 <pre class="literal-block">
 datafile = open('datafile')
 for line in datafile:
@@ -1689,7 +1689,7 @@ Python 2.5+.</p>
 </div>
 </div>
 <div class="section" id="eafp-vs-lbyl">
-<h1><a class="toc-backref" href="#id48">EAFP vs. LBYL</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-46">EAFP vs. LBYL</a></h1>
 <p class="incremental">It's easier to ask forgiveness than permission</p>
 <p class="incremental">Look before you leap</p>
 <div class="handout incremental docutils container">
@@ -1717,7 +1717,7 @@ isinstance(x, str)
 </ul>
 </div>
 <div class="section" id="eafp-try-except-example">
-<h1><a class="toc-backref" href="#id49">EAFP <tt class="docutils literal">try/except</tt> Example</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-47">EAFP <tt class="docutils literal">try/except</tt> Example</a></h1>
 <div class="handout docutils container">
 You can wrap exception-prone code in a <tt class="docutils literal">try/except</tt> block to
 catch the errors, and you will probably end up with a solution
@@ -1735,7 +1735,7 @@ Note: Always specify the exceptions to catch.  Never use bare
 exceptions, making your code exceedingly difficult to debug.</div>
 </div>
 <div class="section" id="importing">
-<h1><a class="toc-backref" href="#id50">Importing</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-48">Importing</a></h1>
 <blockquote>
 <pre class="literal-block">
 from module import *
@@ -1813,7 +1813,7 @@ Note that this form doesn't lend itself to use in the interactive
 interpreter, where you may want to edit and &quot;reload()&quot; a module.</div>
 </div>
 <div class="section" id="modules-scripts">
-<h1><a class="toc-backref" href="#id51">Modules &amp; Scripts</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-49">Modules &amp; Scripts</a></h1>
 <p>To make a simultaneously importable module and executable script:</p>
 <pre class="literal-block">
 if __name__ == '__main__':
@@ -1831,7 +1831,7 @@ and guard it with <tt class="docutils literal">if __name__ == '__main__'</tt>.</
 </div>
 </div>
 <div class="section" id="module-structure">
-<h1><a class="toc-backref" href="#id52">Module Structure</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-50">Module Structure</a></h1>
 <pre class="literal-block">
 &quot;&quot;&quot;module docstring&quot;&quot;&quot;
 
@@ -1853,7 +1853,7 @@ if __name__ == '__main__':
 This is how a module should be structured.</div>
 </div>
 <div class="section" id="command-line-processing">
-<h1><a class="toc-backref" href="#id53">Command-Line Processing</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-51">Command-Line Processing</a></h1>
 <p>Example: <a class="reference external" href="cmdline.py">cmdline.py</a>:</p>
 <div class="handout docutils container">
 <pre class="literal-block">
@@ -1909,7 +1909,7 @@ if __name__ == '__main__':
 </div>
 </div>
 <div class="section" id="packages">
-<h1><a class="toc-backref" href="#id54">Packages</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-52">Packages</a></h1>
 <pre class="literal-block">
 package/
     __init__.py
@@ -1940,7 +1940,7 @@ this discussion short.</p>
 </div>
 </div>
 <div class="section" id="simple-is-better-than-complex">
-<h1><a class="toc-backref" href="#id55">Simple is Better Than Complex</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-53">Simple is Better Than Complex</a></h1>
 <blockquote>
 <p>Debugging is twice as hard as writing the code in the first place.
 Therefore, if you write the code as cleverly as possible, you are,
@@ -1952,7 +1952,7 @@ and the &quot;K&quot; in &quot;AWK&quot;</p>
 In other words, keep your programs simple!</div>
 </div>
 <div class="section" id="don-t-reinvent-the-wheel">
-<h1><a class="toc-backref" href="#id56">Don't reinvent the wheel</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-54">Don't reinvent the wheel</a></h1>
 <div class="handout docutils container">
 Before writing any code,</div>
 <div class="spoken docutils container">
@@ -1970,7 +1970,7 @@ Before writing any code,</div>
 </ul>
 </div>
 <div class="section" id="references">
-<h1><a class="toc-backref" href="#id57">References</a></h1>
+<h1><a class="toc-backref" href="#toc-entry-55">References</a></h1>
 <ul class="small simple">
 <li>&quot;Python Objects&quot;, Fredrik Lundh,
 <a class="reference external" href="http://www.effbot.org/zone/python-objects.htm">http://www.effbot.org/zone/python-objects.htm</a></li>
@@ -1998,8 +1998,8 @@ Before writing any code,</div>
 <div class="footer">
 <hr class="footer" />
 <a class="reference external" href="presentation.txt">View document source</a>.
-Generated on: 2018-08-15 04:25 UTC.
-Generated by <a class="reference external" href="http://docutils.sourceforge.net/">Docutils</a> from <a class="reference external" href="http://docutils.sourceforge.net/rst.html">reStructuredText</a> source.
+Generated on: 2025-05-07 10:16 UTC.
+Generated by <a class="reference external" href="https://docutils.sourceforge.io/">Docutils</a> from <a class="reference external" href="https://docutils.sourceforge.io/rst.html">reStructuredText</a> source.
 
 </div>
 </body>
