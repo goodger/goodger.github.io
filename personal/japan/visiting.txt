@@ -11,7 +11,7 @@
    * `David Goodger’s Homepage <http://david.goodger.org>`_
 
 :Author:   David Goodger
-:Revision: 2025-04-05 (see `Revision History`_) 
+:Revision: 2025-05-07 (see `Revision History`_) 
 
 ..
 
@@ -944,7 +944,7 @@ Here are some ideas:
 * *Yukata* are unlined cotton summer robes, traditionally white & blue
   but available in all sorts of colors & patterns. Much less expensive
   and more practical than traditional *kimono*, they make great
-  bathrobes! *Yukata* literally translates to "bathing cloth".
+  bathrobes! *Yukata* literally translates to “bathing cloth”.
 
 * *Furoshiki*: These large square cloths are used to bundle up any
   number of things: a *bentō* meal, a couple bottles, fruit, your
