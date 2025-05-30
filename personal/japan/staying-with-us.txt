@@ -11,7 +11,7 @@
    * `David Goodger’s Homepage <http://david.goodger.org>`_
 
 :Author:   David Goodger
-:Revision: 2025-05-07 (see `Revision History`_) 
+:Revision: 2025-05-30 (see `Revision History`_) 
 
 ..
 
@@ -586,7 +586,7 @@ Miscellaneous
 -------------
 
 * ★ Otai Mallet Golf course; 750 m southeast.
-(We haven’t played yet.)
+  (We haven’t played yet.)
 
 * Karuizawa Taliesin is a private nature park with a lake, museums,
   restaurants, and activities.

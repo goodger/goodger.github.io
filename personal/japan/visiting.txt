@@ -11,7 +11,7 @@
    * `David Goodger’s Homepage <http://david.goodger.org>`_
 
 :Author:   David Goodger
-:Revision: 2025-05-07 (see `Revision History`_) 
+:Revision: 2025-05-30 (see `Revision History`_) 
 
 ..
 
