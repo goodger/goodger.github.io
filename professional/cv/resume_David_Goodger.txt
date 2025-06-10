@@ -12,9 +12,9 @@
 :Email: goodger@python.org
 :Web Site: https://david.goodger.org (includes this résumé)
 :LinkedIn: https://linkedin.com/in/goodger/
-:Location: near Montréal, Canada
+:Location: Saku, Nagano, Japan
 
-.. open to positions in Canada, USA, & Japan
+.. open to remote positions
 
 .. rubric:: Software Engineer/Architect · Systems Engineer/Analyst · Project Manager · Trainer
 
